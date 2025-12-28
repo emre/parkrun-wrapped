@@ -1,0 +1,206 @@
+const express = require('express');
+const cors = require('cors');
+const { exec } = require('child_process');
+const cheerio = require('cheerio');
+
+const app = express();
+const PORT = process.env.PORT || 3001;
+
+app.use(cors());
+app.use(express.json());
+
+app.get('/api/parkrunner/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const url = `https://www.parkrun.co.nl/parkrunner/${id}/all/`;
+    
+    console.log('🚀 Using curl to fetch parkrun data for ID:', id);
+    
+    // Use curl with --compressed to handle gzip decompression
+    const curlCommand = `curl -s --compressed -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" -H "Accept-Language: en-US,en;q=0.9,nl;q=0.8" -H "Accept-Encoding: gzip, deflate, br" -H "DNT: 1" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Sec-Fetch-Dest: document" -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Site: none" -H "Sec-Fetch-User: ?1" -H "Cache-Control: max-age=0" -H "sec-ch-ua: \\"Not_A Brand\\";v=\\"8\\", \\"Chromium\\";v=\\"120\\", \\"Google Chrome\\";v=\\"120\\"" -H "sec-ch-ua-mobile: ?0" -H "sec-ch-ua-platform: \\"macOS\\"" -H "Referer: https://www.google.com/" "${url}"`;
+    
+    const htmlData = await new Promise((resolve, reject) => {
+      exec(curlCommand, { maxBuffer: 1024 * 1024 * 10 }, (error, stdout, stderr) => {
+        if (error) {
+          reject(error);
+          return;
+        }
+        resolve(stdout);
+      });
+    });
+    
+    console.log('✅ Curl request successful, HTML length:', htmlData.length);
+    
+    const $ = cheerio.load(htmlData);
+    const parkrunData = {
+      runnerInfo: {},
+      runs: [],
+      statistics: {}
+    };
+    
+    // Extract runner name - look more broadly
+    const allHeadings = $('h1, h2, h3, h4, h5, h6, .name, .runner-name, .athlete-name, .title');
+    console.log('📝 Found', allHeadings.length, 'heading elements');
+    
+    allHeadings.each((i, el) => {
+      const text = $(el).text().trim();
+      if (text && text.length > 0 && !text.includes('parkrun') && !text.includes('Netherlands')) {
+        parkrunData.runnerInfo.name = text;
+        console.log('👤 Found runner name:', text);
+        return false; // break
+      }
+    });
+    
+    // Parse text-based data with pattern analysis
+    console.log('🔍 Searching for text-based parkrun data...');
+    
+    // Get all text content from the body
+    const bodyText = $('body').text();
+    
+    // Split into lines and look for parkrun data patterns
+    const lines = bodyText.split('\n').map(line => line.trim()).filter(line => line.length > 10);
+    
+    console.log('📄 Found', lines.length, 'substantial text lines');
+    
+    // Process each line looking for run data
+    for (const line of lines) {
+      // Skip lines that contain headers
+      if (line.includes('Evenement') || line.includes('Datum') || line.includes('Positie') || 
+          line.includes('Tijd') || line.includes('Leeftijdsindex') || line.includes('Event') ||
+          line.includes('Position') || line.includes('Time') || line.includes('Age Grade')) {
+        continue;
+      }
+      
+      // Look for the pattern: EventName + Date + Data + Time + AgeGrade%
+      // Based on analysis: Máxima13/09/202521811334:0743.82%
+      // Pattern: Event + Date + Position(3digits) + OtherData + Time + AgeGrade
+      
+      // Split by date pattern
+      const dateParts = line.split(/(\d{1,2}\/\d{1,2}\/\d{4})/);
+      
+      if (dateParts.length >= 3) {
+        const eventName = dateParts[0].trim();
+        const date = dateParts[1];
+        const dataPart = dateParts[2];
+        
+        // Now parse the data part: should contain position, time, age grade
+        // Find time pattern first (MM:SS)
+        const timeMatch = dataPart.match(/(\d{1,2}:\d{2})/);
+        if (!timeMatch) continue;
+        
+        const time = timeMatch[1];
+        const timeStart = dataPart.indexOf(time);
+        
+        // Everything before time is position + other data
+        const beforeTime = dataPart.substring(0, timeStart);
+        
+        // Extract position - look for reasonable parkrun position (1-999)
+        // Position should be the first reasonable number before time
+        const positionMatch = beforeTime.match(/(\d{1,3})/);
+        const position = positionMatch ? positionMatch[1] : '';
+        
+        // Validate position - parkrun positions are usually under 1000
+        if (position && parseInt(position) > 999) {
+          // If position is too high, try to find a smaller number
+          const smallerMatch = beforeTime.match(/(\d{1,2})/);
+          if (smallerMatch) {
+            position = smallerMatch[1];
+          }
+        }
+        
+        // Everything after time should contain age grade
+        const afterTime = dataPart.substring(timeStart + time.length);
+        const ageGradeMatch = afterTime.match(/([\d.]+)%/);
+        const ageGrade = ageGradeMatch ? `${ageGradeMatch[1]}%` : '';
+        
+        // Validate data
+        if (eventName && date && position && time && ageGrade && 
+            !isNaN(parseInt(position)) && parseInt(position) <= 999) {
+          
+          const run = {
+            event: eventName,
+            date: date,
+            position: position,
+            time: time,
+            ageGrade: ageGrade
+          };
+          
+          // Avoid duplicates
+          const exists = parkrunData.runs.some(existing => 
+            existing.date === run.date && existing.event === run.event && existing.time === run.time
+          );
+          
+          if (!exists) {
+            parkrunData.runs.push(run);
+            console.log('✅ Found valid run:', run);
+          }
+        }
+      }
+    }
+    
+    console.log('🏃 Total runs extracted:', parkrunData.runs.length);
+    
+    // Sort runs by date (most recent first)
+    parkrunData.runs.sort((a, b) => {
+      const dateA = new Date(a.date.split('/').reverse().join('-'));
+      const dateB = new Date(b.date.split('/').reverse().join('-'));
+      return dateB - dateA;
+    });
+    
+    // Calculate statistics
+    if (parkrunData.runs.length > 0) {
+      parkrunData.statistics.totalRuns = parkrunData.runs.length;
+      parkrunData.statistics.firstRun = parkrunData.runs[parkrunData.runs.length - 1].date;
+      parkrunData.statistics.latestRun = parkrunData.runs[0].date;
+      
+      // Calculate best time
+      const validTimes = parkrunData.runs
+        .filter(run => run.time && run.time.includes(':'))
+        .map(run => {
+          try {
+            const timeParts = run.time.split(':');
+            if (timeParts.length === 2) {
+              const minutes = parseInt(timeParts[0]);
+              const seconds = parseInt(timeParts[1]);
+              if (!isNaN(minutes) && !isNaN(seconds) && minutes >= 0 && seconds >= 0) {
+                return minutes * 60 + seconds;
+              }
+            }
+          } catch (e) {
+            console.log('Error parsing time:', run.time);
+          }
+          return null;
+        })
+        .filter(time => time !== null);
+      
+      if (validTimes.length > 0) {
+        const bestTimeSeconds = Math.min(...validTimes);
+        parkrunData.statistics.bestTime = `${Math.floor(bestTimeSeconds / 60)}:${(bestTimeSeconds % 60).toString().padStart(2, '0')}`;
+      }
+      
+      // Count different events
+      const events = new Set(parkrunData.runs.map(run => run.event).filter(event => event));
+      parkrunData.statistics.uniqueEvents = events.size;
+    } else {
+      console.log('❌ No runs found - checking page structure...');
+      console.log('📄 Page title:', $('title').text());
+      
+      // Save debug info
+      const fs = require('fs');
+      fs.writeFileSync('debug-parkrun-final.html', htmlData);
+      console.log('💾 Saved debug HTML to debug-parkrun-final.html');
+    }
+    
+    res.json(parkrunData);
+  } catch (error) {
+    console.error('❌ Error scraping parkrun data:', error.message);
+    res.status(500).json({ 
+      error: `Failed to fetch parkrun data: ${error.message}` 
+    });
+  }
+});
+
+app.listen(PORT, () => {
+  console.log(`🚀 Server running on port ${PORT}`);
+  console.log('✅ Using curl + pattern-based text parsing for accurate parkrun data extraction');
+});
