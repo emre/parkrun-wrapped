@@ -1,0 +1,110 @@
+{
+  "runnerInfo": {
+    "name": "Ozlem DURMAZ CAN (A8922098)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "27/12/2025",
+      "position": "47",
+      "time": "30:13",
+      "ageGrade": "49.31%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/11/2025",
+      "position": "62",
+      "time": "28:33",
+      "ageGrade": "52.19%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/11/2025",
+      "position": "26",
+      "time": "25:12",
+      "ageGrade": "59.13%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "93",
+      "time": "33:57",
+      "ageGrade": "43.89%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "18/10/2025",
+      "position": "74",
+      "time": "32:34",
+      "ageGrade": "45.75%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "129",
+      "time": "29:48",
+      "ageGrade": "50.00%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "04/10/2025",
+      "position": "37",
+      "time": "33:03",
+      "ageGrade": "45.08%",
+      "isPB": false
+    },
+    {
+      "event": "Delftse Hout",
+      "date": "16/08/2025",
+      "position": "38",
+      "time": "33:34",
+      "ageGrade": "44.39%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "28/06/2025",
+      "position": "98",
+      "time": "38:53",
+      "ageGrade": "38.32%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/04/2025",
+      "position": "74",
+      "time": "35:47",
+      "ageGrade": "41.64%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "83",
+      "time": "39:39",
+      "ageGrade": "37.58%",
+      "isPB": false
+    },
+    {
+      "event": "Dreiländergarten",
+      "date": "22/03/2025",
+      "position": "26",
+      "time": "31:32",
+      "ageGrade": "47.25%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 12,
+    "firstRun": "22/03/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "25:12",
+    "uniqueEvents": 3
+  }
+}

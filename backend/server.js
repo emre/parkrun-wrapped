@@ -1,10 +1,9 @@
 const express = require('express');
 const cors = require('cors');
-const puppeteer = require('puppeteer-extra');
-const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const axios = require('axios');
 const cheerio = require('cheerio');
-
-puppeteer.use(StealthPlugin());
+const fs = require('fs').promises;
+const path = require('path');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -14,61 +13,55 @@ const responseCache = new Map();
 app.use(cors());
 app.use(express.json());
 
-const fetchPage = async (targetUrl) => {
-  console.log('🔍 Starting Puppeteer fetch for:', targetUrl);
-  
-  let browser;
+const loadLocalData = async (runnerId) => {
   try {
-    browser = await puppeteer.launch({
-      headless: true,
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-accelerated-2d-canvas',
-        '--no-first-run',
-        '--no-zygote',
-        '--disable-gpu'
-      ]
-    });
-    
-    const page = await browser.newPage();
-    
-    // Set random user agent
-    const userAgents = [
-      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    ];
-    await page.setUserAgent(userAgents[Math.floor(Math.random() * userAgents.length)]);
-    
-    // Set viewport
-    await page.setViewport({ width: 1920, height: 1080 });
-    
-    // Navigate to page with extended timeout
-    console.log('⏳ Navigating to page...');
-    await page.goto(targetUrl, { 
-      waitUntil: 'networkidle2', 
-      timeout: 30000 
-    });
-    
-    // Wait a bit for any dynamic content
-    await new Promise(resolve => setTimeout(resolve, 2000));
-    
-    // Get page content
-    const content = await page.content();
-    console.log('✅ Successfully fetched page with Puppeteer');
-    
-    return content;
-    
+    const dataPath = path.join(__dirname, 'data', `${runnerId}.json`);
+    const data = await fs.readFile(dataPath, 'utf8');
+    console.log(`📁 Loaded local data for runner ${runnerId}`);
+    return JSON.parse(data);
   } catch (error) {
-    console.error('❌ Puppeteer fetch failed:', error.message);
-    throw error;
-  } finally {
-    if (browser) {
-      await browser.close();
-    }
+    console.log(`📁 No local data found for runner ${runnerId}`);
+    return null;
   }
+};
+
+const saveLocalData = async (runnerId, data) => {
+  try {
+    const dataDir = path.join(__dirname, 'data');
+    await fs.mkdir(dataDir, { recursive: true });
+    const dataPath = path.join(dataDir, `${runnerId}.json`);
+    await fs.writeFile(dataPath, JSON.stringify(data, null, 2));
+    console.log(`💾 Saved data for runner ${runnerId} to local file`);
+  } catch (error) {
+    console.error(`❌ Failed to save local data for runner ${runnerId}:`, error.message);
+  }
+};
+
+const fetchPage = async (targetUrl) => {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Language': 'en-US,en;q=0.9,nl;q=0.8',
+    'Accept-Encoding': 'gzip, deflate, br',
+    DNT: '1',
+    Connection: 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Cache-Control': 'max-age=0',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    Referer: 'https://www.google.com/'
+  };
+  const response = await axios.get(targetUrl, {
+    headers,
+    timeout: 20000,
+    decompress: true
+  });
+  return response.data;
 };
 
 app.get('/api/parkrunner/:id', async (req, res) => {
@@ -79,6 +72,15 @@ app.get('/api/parkrunner/:id', async (req, res) => {
     if (cached && Date.now() - cached.timestamp < CACHE_TTL_MS) {
       return res.json(cached.data);
     }
+    
+    // Try to load local data first
+    const localData = await loadLocalData(id);
+    if (localData) {
+      responseCache.set(cacheKey, { data: localData, timestamp: Date.now() });
+      return res.json(localData);
+    }
+    
+    // Fall back to scraping
     const url = `https://www.parkrun.co.nl/parkrunner/${id}/all/`;
     
     const htmlData = await fetchPage(url);
@@ -196,6 +198,11 @@ app.get('/api/parkrunner/:id', async (req, res) => {
       const fs = require('fs');
       fs.writeFileSync('debug-parkrun-final.html', htmlData);
       console.log('💾 Saved debug HTML to debug-parkrun-final.html');
+    }
+    
+    // Auto-save successful scrape to local file
+    if (parkrunData.runs.length > 0) {
+      await saveLocalData(id, parkrunData);
     }
     
     responseCache.set(cacheKey, { data: parkrunData, timestamp: Date.now() });
