@@ -279,7 +279,7 @@
 }
 
 .summary-number {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 800;
   background: linear-gradient(135deg, #ffa300 0%, #00ceae 50%, #00ADEF 100%);
   -webkit-background-clip: text;

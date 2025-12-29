@@ -5,7 +5,13 @@ import './App.css'
 import './Story.css'
 
 function App() {
-  const [parkrunId, setParkrunId] = useState('8604987')
+  const initialIdFromPath = (() => {
+    const path = window.location.pathname
+    const match = path.match(/\/runner\/(\w+)/)
+    return match ? match[1] : null
+  })()
+
+  const [parkrunId, setParkrunId] = useState(initialIdFromPath ? String(initialIdFromPath) : '8604987')
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
@@ -18,13 +24,26 @@ function App() {
     document.title = 'ParkRun Wrapped'
   }, [])
 
+  useEffect(() => {
+    if (initialIdFromPath) {
+      fetchData(String(initialIdFromPath))
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initialIdFromPath])
+
   const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || window.location.origin
 
-  const fetchData = async () => {
+  const fetchData = async (overrideId) => {
     setLoading(true)
     setError(null)
     try {
-      const response = await axios.get(`${API_BASE_URL}/api/parkrunner/${parkrunId}`)
+      const targetId = overrideId !== undefined ? String(overrideId) : String(parkrunId)
+      console.log('fetchData called with overrideId:', overrideId, 'parkrunId:', parkrunId, 'targetId:', targetId)
+      if (!targetId || targetId === 'undefined' || targetId === 'null') return; // Skip if no ID (homepage)
+
+      const normalizedId = String(targetId).replace(/^[A-Za-z]/, '') || targetId
+      console.log('normalizedId:', normalizedId)
+      const response = await axios.get(`${API_BASE_URL}/api/parkrunner/${normalizedId}`)
       if (!response.data?.runs?.length) {
         setData(null)
         setShowStory(false)
@@ -32,6 +51,10 @@ function App() {
         return
       }
       setData(response.data)
+      const newUrl = `/runner/${normalizedId}`
+      if (window.location.pathname !== newUrl) {
+        window.history.replaceState({}, '', newUrl)
+      }
       setShowStory(true) // Auto-start story when data loads
       setCurrentSlide(0)
     } catch (err) {
@@ -231,11 +254,11 @@ function App() {
       { label: 'Runs', value: runs2025.length },
       { label: 'Distance (km)', value: totalDistance },
       { label: 'Minutes', value: totalMinutes.toLocaleString() },
-      { label: 'Best Position', value: bestPosition || '—' },
-      { label: 'Avg Position', value: avgPosition || '—' },
       { label: 'PB Count', value: pbCount },
       { label: 'Longest Streak', value: maxStreak ? `${maxStreak} wks` : '—' },
-      { label: 'Best Time', value: bestTimeFormatted }
+      { label: 'Best Time', value: bestTimeFormatted },
+      { label: 'Avg Age Grade', value: `${avgAgeGrade.toFixed(1)}%` },
+      { label: 'Busiest Season', value: `${busiestSeason} (${seasons[busiestSeason]})` }
     ]
 
     return [
@@ -251,7 +274,7 @@ function App() {
       { title: 'LONGEST STREAK', value: maxStreak, subtitle: 'consecutive weeks', type: 'stat' },
       { title: 'AVERAGE AGE GRADE', value: `${avgAgeGrade.toFixed(1)}%`, subtitle: 'over the year', type: 'stat' },
       { title: 'TOTAL DISTANCE', value: totalDistance, subtitle: 'kilometers ran', type: 'stat' },
-      { title: 'PARKRUN WRAPPED', value: null, stats: summaryStats, type: 'summary', subtitle: `You woke up early to join the fun every Saturday. Keep it rolling into 2026!`, runnerName }
+      { title: 'PARKRUN WRAPPED', value: null, stats: summaryStats, type: 'summary', subtitle: `${runnerName}, you woke up early to join the fun every Saturday. Keep it rolling into 2026!` }
     ]
   }
 
@@ -323,11 +346,14 @@ function App() {
         <input
           type="text"
           value={parkrunId}
-          onChange={(e) => setParkrunId(e.target.value)}
+          onChange={(e) => {
+            const sanitized = String(e.target.value).replace(/^[A-Za-z]/, '')
+            setParkrunId(sanitized)
+          }}
           placeholder="Enter parkrun ID (e.g., 8604987)"
           className="id-input"
         />
-        <button onClick={fetchData} disabled={loading} className="fetch-btn">
+        <button onClick={() => fetchData()} disabled={loading} className="fetch-btn">
           {loading ? 'Loading...' : 'Get My Wrapped'}
         </button>
         {data && (
@@ -442,9 +468,6 @@ function App() {
               
               {calculateStoryStats()[currentSlide]?.type === 'summary' ? (
                 <div className="story-summary">
-                  <div className="summary-runner">
-                    {calculateStoryStats()[currentSlide]?.runnerName || 'Parkrun legend'}
-                  </div>
                   <div className="summary-stats-grid">
                     {calculateStoryStats()[currentSlide]?.stats?.map((stat, idx) => (
                       <div className="summary-item" key={idx}>

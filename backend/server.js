@@ -1,33 +1,54 @@
 const express = require('express');
 const cors = require('cors');
-const { exec } = require('child_process');
+const axios = require('axios');
 const cheerio = require('cheerio');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
+const CACHE_TTL_MS = 1000 * 60 * 60; // 1 hour
+const responseCache = new Map();
 
 app.use(cors());
 app.use(express.json());
 
+const fetchPage = async (targetUrl) => {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Language': 'en-US,en;q=0.9,nl;q=0.8',
+    'Accept-Encoding': 'gzip, deflate, br',
+    DNT: '1',
+    Connection: 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Cache-Control': 'max-age=0',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    Referer: 'https://www.google.com/'
+  };
+  const response = await axios.get(targetUrl, {
+    headers,
+    timeout: 20000,
+    decompress: true
+  });
+  return response.data;
+};
+
 app.get('/api/parkrunner/:id', async (req, res) => {
   try {
     const { id } = req.params;
+    const cacheKey = `runner-${id}`;
+    const cached = responseCache.get(cacheKey);
+    if (cached && Date.now() - cached.timestamp < CACHE_TTL_MS) {
+      return res.json(cached.data);
+    }
     const url = `https://www.parkrun.co.nl/parkrunner/${id}/all/`;
     
-    console.log('🚀 Using curl to fetch parkrun data for ID:', id);
-    
-    // Use curl with --compressed to handle gzip decompression
-    const curlCommand = `curl -s --compressed -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" -H "Accept-Language: en-US,en;q=0.9,nl;q=0.8" -H "Accept-Encoding: gzip, deflate, br" -H "DNT: 1" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Sec-Fetch-Dest: document" -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Site: none" -H "Sec-Fetch-User: ?1" -H "Cache-Control: max-age=0" -H "sec-ch-ua: \\"Not_A Brand\\";v=\\"8\\", \\"Chromium\\";v=\\"120\\", \\"Google Chrome\\";v=\\"120\\"" -H "sec-ch-ua-mobile: ?0" -H "sec-ch-ua-platform: \\"macOS\\"" -H "Referer: https://www.google.com/" "${url}"`;
-    
-    const htmlData = await new Promise((resolve, reject) => {
-      exec(curlCommand, { maxBuffer: 1024 * 1024 * 10 }, (error, stdout, stderr) => {
-        if (error) {
-          reject(error);
-          return;
-        }
-        resolve(stdout);
-      });
-    });
+    const htmlData = await fetchPage(url);
     
     console.log('✅ Curl request successful, HTML length:', htmlData.length);
     
@@ -141,6 +162,7 @@ app.get('/api/parkrunner/:id', async (req, res) => {
       console.log('💾 Saved debug HTML to debug-parkrun-final.html');
     }
     
+    responseCache.set(cacheKey, { data: parkrunData, timestamp: Date.now() });
     res.json(parkrunData);
   } catch (error) {
     console.error('❌ Error scraping parkrun data:', error.message);
