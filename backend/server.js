@@ -16,11 +16,17 @@ app.use(express.json());
 const loadLocalData = async (runnerId) => {
   try {
     const dataPath = path.join(__dirname, 'data', `${runnerId}.json`);
+    console.log(`🔍 Looking for local data at: ${dataPath}`);
+    console.log(`🔍 Current working directory: ${process.cwd()}`);
+    console.log(`🔍 __dirname: ${__dirname}`);
+    
+    // Check if file exists before reading
+    await fs.access(dataPath);
     const data = await fs.readFile(dataPath, 'utf8');
     console.log(`📁 Loaded local data for runner ${runnerId}`);
     return JSON.parse(data);
   } catch (error) {
-    console.log(`📁 No local data found for runner ${runnerId}`);
+    console.log(`📁 No local data found for runner ${runnerId}: ${error.message}`);
     return null;
   }
 };
