@@ -68,16 +68,18 @@ app.get('/api/parkrunner/:id', async (req, res) => {
   try {
     const { id } = req.params;
     const cacheKey = `runner-${id}`;
-    const cached = responseCache.get(cacheKey);
-    if (cached && Date.now() - cached.timestamp < CACHE_TTL_MS) {
-      return res.json(cached.data);
-    }
     
-    // Try to load local data first
+    // Try to load local data first (bypass memory cache)
     const localData = await loadLocalData(id);
     if (localData) {
       responseCache.set(cacheKey, { data: localData, timestamp: Date.now() });
       return res.json(localData);
+    }
+    
+    // Check memory cache
+    const cached = responseCache.get(cacheKey);
+    if (cached && Date.now() - cached.timestamp < CACHE_TTL_MS) {
+      return res.json(cached.data);
     }
     
     // Fall back to scraping
