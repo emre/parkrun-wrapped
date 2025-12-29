@@ -21,7 +21,7 @@ function App() {
   const [slideProgress, setSlideProgress] = useState(0)
 
   useEffect(() => {
-    document.title = 'ParkRun Wrapped'
+    document.title = 'ParkRun Wrapped 2025'
   }, [])
 
   useEffect(() => {
@@ -196,15 +196,16 @@ function App() {
     const bestPosition = positions.length > 0 ? Math.min(...positions) : 0
     const avgPosition = positions.length > 0 ? Math.round(positions.reduce((a, b) => a + b, 0) / positions.length) : 0
     
-    // Count personal bests (simplified - assume first run is PB, then count faster times)
-    let pbCount = 0
+    // Count personal bests (from actual PB indicator)
+    const pbCount = runs2025.filter(run => run.isPB).length
+    
+    // Find overall best time
     let bestTimeSeconds = Infinity
     runs2025.forEach(run => {
       const timeParts = run.time.split(':')
       const seconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
       if (seconds < bestTimeSeconds) {
         bestTimeSeconds = seconds
-        pbCount++
       }
     })
     const bestTimeFormatted = bestTimeSeconds !== Infinity ? formatTimeForDisplay(bestTimeSeconds) : '—'
@@ -274,7 +275,7 @@ function App() {
       { title: 'LONGEST STREAK', value: maxStreak, subtitle: 'consecutive weeks', type: 'stat' },
       { title: 'AVERAGE AGE GRADE', value: `${avgAgeGrade.toFixed(1)}%`, subtitle: 'over the year', type: 'stat' },
       { title: 'TOTAL DISTANCE', value: totalDistance, subtitle: 'kilometers ran', type: 'stat' },
-      { title: 'PARKRUN WRAPPED', value: null, stats: summaryStats, type: 'summary', subtitle: `${runnerName}, you woke up early to join the fun every Saturday. Keep it rolling into 2026!` }
+      { title: 'PARKRUN WRAPPED 2025', value: null, stats: summaryStats, type: 'summary', subtitle: `${runnerName} keep it rolling into 2026!` }
     ]
   }
 

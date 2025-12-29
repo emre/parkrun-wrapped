@@ -1,7 +1,10 @@
 const express = require('express');
 const cors = require('cors');
-const axios = require('axios');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const cheerio = require('cheerio');
+
+puppeteer.use(StealthPlugin());
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -12,30 +15,60 @@ app.use(cors());
 app.use(express.json());
 
 const fetchPage = async (targetUrl) => {
-  const headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'Accept-Language': 'en-US,en;q=0.9,nl;q=0.8',
-    'Accept-Encoding': 'gzip, deflate, br',
-    DNT: '1',
-    Connection: 'keep-alive',
-    'Upgrade-Insecure-Requests': '1',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'none',
-    'Sec-Fetch-User': '?1',
-    'Cache-Control': 'max-age=0',
-    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"macOS"',
-    Referer: 'https://www.google.com/'
-  };
-  const response = await axios.get(targetUrl, {
-    headers,
-    timeout: 20000,
-    decompress: true
-  });
-  return response.data;
+  console.log('🔍 Starting Puppeteer fetch for:', targetUrl);
+  
+  let browser;
+  try {
+    browser = await puppeteer.launch({
+      headless: true,
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-zygote',
+        '--disable-gpu'
+      ]
+    });
+    
+    const page = await browser.newPage();
+    
+    // Set random user agent
+    const userAgents = [
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    ];
+    await page.setUserAgent(userAgents[Math.floor(Math.random() * userAgents.length)]);
+    
+    // Set viewport
+    await page.setViewport({ width: 1920, height: 1080 });
+    
+    // Navigate to page with extended timeout
+    console.log('⏳ Navigating to page...');
+    await page.goto(targetUrl, { 
+      waitUntil: 'networkidle2', 
+      timeout: 30000 
+    });
+    
+    // Wait a bit for any dynamic content
+    await new Promise(resolve => setTimeout(resolve, 2000));
+    
+    // Get page content
+    const content = await page.content();
+    console.log('✅ Successfully fetched page with Puppeteer');
+    
+    return content;
+    
+  } catch (error) {
+    console.error('❌ Puppeteer fetch failed:', error.message);
+    throw error;
+  } finally {
+    if (browser) {
+      await browser.close();
+    }
+  }
 };
 
 app.get('/api/parkrunner/:id', async (req, res) => {
@@ -88,10 +121,12 @@ app.get('/api/parkrunner/:id', async (req, res) => {
       const positionCellIndex = cells.length >= 7 ? 3 : 2;
       const timeCellIndex = cells.length >= 7 ? 4 : 3;
       const ageGradeCellIndex = cells.length >= 7 ? 5 : 4;
+      const pbCellIndex = cells.length >= 7 ? 6 : 5;
 
       const position = $(cells[positionCellIndex]).text().trim();
       const time = $(cells[timeCellIndex]).text().trim();
       const ageGrade = $(cells[ageGradeCellIndex]).text().trim();
+      const pbIndicator = $(cells[pbCellIndex]).text().trim();
 
       if (!event || !date || !position || !time || !ageGrade) return;
       if (isNaN(parseInt(position)) || parseInt(position) <= 0 || parseInt(position) > 999) return;
@@ -99,7 +134,8 @@ app.get('/api/parkrunner/:id', async (req, res) => {
       const runYear = date.split('/')[2];
       if (runYear !== '2025') return;
 
-      const run = { event, date, position, time, ageGrade };
+      const isPB = pbIndicator.toLowerCase().includes('pb') || pbIndicator.toLowerCase().includes('new');
+      const run = { event, date, position, time, ageGrade, isPB };
       const exists = parkrunData.runs.some(existing =>
         existing.date === run.date && existing.event === run.event && existing.time === run.time
       );
