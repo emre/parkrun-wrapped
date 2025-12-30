@@ -1,0 +1,166 @@
+{
+  "runnerInfo": {
+    "name": "Alina KYRYLENKO (A7055420)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "20/12/2025",
+      "position": "72",
+      "time": "34:27",
+      "ageGrade": "43.01%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/12/2025",
+      "position": "90",
+      "time": "38:03",
+      "ageGrade": "38.94%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/10/2025",
+      "position": "75",
+      "time": "35:36",
+      "ageGrade": "41.62%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "18/10/2025",
+      "position": "92",
+      "time": "34:45",
+      "ageGrade": "42.64%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "06/09/2025",
+      "position": "88",
+      "time": "35:38",
+      "ageGrade": "41.58%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "23/08/2025",
+      "position": "83",
+      "time": "36:12",
+      "ageGrade": "40.93%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "93",
+      "time": "35:18",
+      "ageGrade": "41.93%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "93",
+      "time": "35:45",
+      "ageGrade": "41.40%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "76",
+      "time": "32:46",
+      "ageGrade": "45.17%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "14/06/2025",
+      "position": "63",
+      "time": "34:48",
+      "ageGrade": "42.53%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "31/05/2025",
+      "position": "56",
+      "time": "32:59",
+      "ageGrade": "44.87%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "24/05/2025",
+      "position": "83",
+      "time": "31:37",
+      "ageGrade": "46.81%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "17/05/2025",
+      "position": "102",
+      "time": "32:01",
+      "ageGrade": "46.23%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/04/2025",
+      "position": "69",
+      "time": "32:07",
+      "ageGrade": "46.08%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "70",
+      "time": "34:50",
+      "ageGrade": "42.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/03/2025",
+      "position": "110",
+      "time": "37:52",
+      "ageGrade": "39.08%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/02/2025",
+      "position": "63",
+      "time": "34:31",
+      "ageGrade": "42.88%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "45",
+      "time": "31:36",
+      "ageGrade": "46.84%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/01/2025",
+      "position": "80",
+      "time": "32:59",
+      "ageGrade": "44.87%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 19,
+    "firstRun": "25/01/2025",
+    "latestRun": "20/12/2025",
+    "bestTime": "31:36",
+    "uniqueEvents": 1
+  }
+}

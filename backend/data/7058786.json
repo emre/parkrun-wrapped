@@ -1,0 +1,214 @@
+{
+  "runnerInfo": {
+    "name": "Sergii GUZENKO (A7058786)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "20/12/2025",
+      "position": "15",
+      "time": "23:06",
+      "ageGrade": "56.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/12/2025",
+      "position": "89",
+      "time": "38:02",
+      "ageGrade": "34.31%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/10/2025",
+      "position": "76",
+      "time": "35:37",
+      "ageGrade": "36.64%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "18/10/2025",
+      "position": "93",
+      "time": "34:59",
+      "ageGrade": "37.30%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "06/09/2025",
+      "position": "27",
+      "time": "24:10",
+      "ageGrade": "54.00%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "23/08/2025",
+      "position": "84",
+      "time": "36:13",
+      "ageGrade": "36.03%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "76",
+      "time": "31:09",
+      "ageGrade": "41.89%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "23",
+      "time": "23:31",
+      "ageGrade": "55.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/07/2025",
+      "position": "17",
+      "time": "23:08",
+      "ageGrade": "56.41%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "41",
+      "time": "24:53",
+      "ageGrade": "52.44%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "14/06/2025",
+      "position": "14",
+      "time": "21:21",
+      "ageGrade": "61.12%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/06/2025",
+      "position": "20",
+      "time": "22:48",
+      "ageGrade": "57.24%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "31/05/2025",
+      "position": "57",
+      "time": "33:00",
+      "ageGrade": "39.55%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "24/05/2025",
+      "position": "15",
+      "time": "22:29",
+      "ageGrade": "58.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "17/05/2025",
+      "position": "18",
+      "time": "22:42",
+      "ageGrade": "57.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "10/05/2025",
+      "position": "15",
+      "time": "22:27",
+      "ageGrade": "58.13%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "03/05/2025",
+      "position": "37",
+      "time": "25:32",
+      "ageGrade": "50.91%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/04/2025",
+      "position": "70",
+      "time": "32:08",
+      "ageGrade": "40.46%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "71",
+      "time": "34:51",
+      "ageGrade": "37.30%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/04/2025",
+      "position": "43",
+      "time": "28:29",
+      "ageGrade": "45.64%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/03/2025",
+      "position": "111",
+      "time": "37:53",
+      "ageGrade": "34.32%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "01/03/2025",
+      "position": "37",
+      "time": "27:53",
+      "ageGrade": "46.62%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/02/2025",
+      "position": "65",
+      "time": "34:33",
+      "ageGrade": "37.63%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "4",
+      "time": "20:18",
+      "ageGrade": "64.04%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "25/01/2025",
+      "position": "49",
+      "time": "28:53",
+      "ageGrade": "45.01%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 25,
+    "firstRun": "25/01/2025",
+    "latestRun": "20/12/2025",
+    "bestTime": "20:18",
+    "uniqueEvents": 1
+  }
+}
