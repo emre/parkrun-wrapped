@@ -1,0 +1,78 @@
+{
+  "runnerInfo": {
+    "name": "Bahar YASIN (A9670143)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "109",
+      "time": "43:57",
+      "ageGrade": "36.48%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "185",
+      "time": "44:55",
+      "ageGrade": "35.70%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "91",
+      "time": "44:38",
+      "ageGrade": "35.92%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "82",
+      "time": "39:39",
+      "ageGrade": "40.06%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "08/03/2025",
+      "position": "81",
+      "time": "41:51",
+      "ageGrade": "37.95%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/02/2025",
+      "position": "78",
+      "time": "44:44",
+      "ageGrade": "35.51%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "01/02/2025",
+      "position": "65",
+      "time": "45:31",
+      "ageGrade": "34.90%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/01/2025",
+      "position": "69",
+      "time": "47:47",
+      "ageGrade": "33.24%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 8,
+    "firstRun": "11/01/2025",
+    "latestRun": "08/11/2025",
+    "bestTime": "39:39",
+    "uniqueEvents": 1
+  }
+}
