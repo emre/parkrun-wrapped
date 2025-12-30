@@ -1,0 +1,454 @@
+{
+  "runnerInfo": {
+    "name": "Richard SEDGLEY (A4768970)"
+  },
+  "runs": [
+    {
+      "event": "Monsal Trail",
+      "date": "27/12/2025",
+      "position": "28",
+      "time": "21:05",
+      "ageGrade": "64.27%",
+      "isPB": true
+    },
+    {
+      "event": "Concord",
+      "date": "25/12/2025",
+      "position": "64",
+      "time": "21:44",
+      "ageGrade": "62.35%",
+      "isPB": true
+    },
+    {
+      "event": "Moors Valley",
+      "date": "20/12/2025",
+      "position": "46",
+      "time": "22:34",
+      "ageGrade": "60.04%",
+      "isPB": false
+    },
+    {
+      "event": "Highcliffe Beach",
+      "date": "13/12/2025",
+      "position": "46",
+      "time": "22:18",
+      "ageGrade": "60.76%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "06/12/2025",
+      "position": "41",
+      "time": "22:16",
+      "ageGrade": "60.85%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "29/11/2025",
+      "position": "43",
+      "time": "22:38",
+      "ageGrade": "59.87%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "22/11/2025",
+      "position": "29",
+      "time": "22:02",
+      "ageGrade": "61.50%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "15/11/2025",
+      "position": "23",
+      "time": "22:02",
+      "ageGrade": "61.50%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "08/11/2025",
+      "position": "48",
+      "time": "21:43",
+      "ageGrade": "62.39%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "01/11/2025",
+      "position": "43",
+      "time": "22:16",
+      "ageGrade": "60.85%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "25/10/2025",
+      "position": "38",
+      "time": "22:15",
+      "ageGrade": "60.90%",
+      "isPB": false
+    },
+    {
+      "event": "Salisbury",
+      "date": "18/10/2025",
+      "position": "36",
+      "time": "21:55",
+      "ageGrade": "61.83%",
+      "isPB": true
+    },
+    {
+      "event": "Upton House",
+      "date": "11/10/2025",
+      "position": "112",
+      "time": "26:37",
+      "ageGrade": "50.91%",
+      "isPB": false
+    },
+    {
+      "event": "Żary",
+      "date": "04/10/2025",
+      "position": "11",
+      "time": "21:52",
+      "ageGrade": "61.97%",
+      "isPB": false
+    },
+    {
+      "event": "Mauerweg",
+      "date": "03/10/2025",
+      "position": "88",
+      "time": "21:35",
+      "ageGrade": "62.78%",
+      "isPB": false
+    },
+    {
+      "event": "Durlston Country Park",
+      "date": "27/09/2025",
+      "position": "15",
+      "time": "25:31",
+      "ageGrade": "53.10%",
+      "isPB": true
+    },
+    {
+      "event": "Fordingbridge Recreation Ground",
+      "date": "20/09/2025",
+      "position": "27",
+      "time": "21:39",
+      "ageGrade": "62.59%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "13/09/2025",
+      "position": "40",
+      "time": "22:11",
+      "ageGrade": "61.08%",
+      "isPB": false
+    },
+    {
+      "event": "Harcourt Hill",
+      "date": "06/09/2025",
+      "position": "16",
+      "time": "21:51",
+      "ageGrade": "62.01%",
+      "isPB": false
+    },
+    {
+      "event": "Poole",
+      "date": "30/08/2025",
+      "position": "116",
+      "time": "21:12",
+      "ageGrade": "63.92%",
+      "isPB": true
+    },
+    {
+      "event": "Moors Valley",
+      "date": "23/08/2025",
+      "position": "45",
+      "time": "22:10",
+      "ageGrade": "61.13%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "16/08/2025",
+      "position": "60",
+      "time": "22:23",
+      "ageGrade": "60.54%",
+      "isPB": false
+    },
+    {
+      "event": "Endcliffe",
+      "date": "09/08/2025",
+      "position": "64",
+      "time": "22:19",
+      "ageGrade": "60.72%",
+      "isPB": true
+    },
+    {
+      "event": "Monsal Trail",
+      "date": "02/08/2025",
+      "position": "22",
+      "time": "22:04",
+      "ageGrade": "61.40%",
+      "isPB": true
+    },
+    {
+      "event": "Moors Valley",
+      "date": "26/07/2025",
+      "position": "45",
+      "time": "22:23",
+      "ageGrade": "60.54%",
+      "isPB": false
+    },
+    {
+      "event": "The Great Field",
+      "date": "19/07/2025",
+      "position": "58",
+      "time": "23:01",
+      "ageGrade": "58.87%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "12/07/2025",
+      "position": "49",
+      "time": "23:15",
+      "ageGrade": "58.28%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "05/07/2025",
+      "position": "55",
+      "time": "22:25",
+      "ageGrade": "60.45%",
+      "isPB": false
+    },
+    {
+      "event": "Battersea",
+      "date": "28/06/2025",
+      "position": "289",
+      "time": "22:54",
+      "ageGrade": "59.17%",
+      "isPB": false
+    },
+    {
+      "event": "Blandford",
+      "date": "21/06/2025",
+      "position": "45",
+      "time": "23:18",
+      "ageGrade": "58.15%",
+      "isPB": false
+    },
+    {
+      "event": "Rushmere",
+      "date": "14/06/2025",
+      "position": "16",
+      "time": "23:38",
+      "ageGrade": "57.33%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "07/06/2025",
+      "position": "57",
+      "time": "22:25",
+      "ageGrade": "60.45%",
+      "isPB": false
+    },
+    {
+      "event": "Bicester",
+      "date": "31/05/2025",
+      "position": "27",
+      "time": "22:13",
+      "ageGrade": "60.99%",
+      "isPB": false
+    },
+    {
+      "event": "Blandford",
+      "date": "24/05/2025",
+      "position": "28",
+      "time": "21:21",
+      "ageGrade": "63.47%",
+      "isPB": true
+    },
+    {
+      "event": "Moors Valley",
+      "date": "17/05/2025",
+      "position": "60",
+      "time": "22:41",
+      "ageGrade": "59.74%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "10/05/2025",
+      "position": "49",
+      "time": "22:11",
+      "ageGrade": "61.08%",
+      "isPB": false
+    },
+    {
+      "event": "Meon Valley Trail, Wickham",
+      "date": "03/05/2025",
+      "position": "51",
+      "time": "22:16",
+      "ageGrade": "60.85%",
+      "isPB": false
+    },
+    {
+      "event": "Vicar Water Country Park",
+      "date": "26/04/2025",
+      "position": "25",
+      "time": "22:49",
+      "ageGrade": "59.39%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "19/04/2025",
+      "position": "66",
+      "time": "22:27",
+      "ageGrade": "60.36%",
+      "isPB": false
+    },
+    {
+      "event": "Bournemouth",
+      "date": "12/04/2025",
+      "position": "81",
+      "time": "22:04",
+      "ageGrade": "61.40%",
+      "isPB": true
+    },
+    {
+      "event": "Poole",
+      "date": "05/04/2025",
+      "position": "136",
+      "time": "22:27",
+      "ageGrade": "60.36%",
+      "isPB": false
+    },
+    {
+      "event": "Macclesfield",
+      "date": "29/03/2025",
+      "position": "26",
+      "time": "22:14",
+      "ageGrade": "60.94%",
+      "isPB": false
+    },
+    {
+      "event": "St Mary’s",
+      "date": "22/03/2025",
+      "position": "24",
+      "time": "23:11",
+      "ageGrade": "58.45%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "15/03/2025",
+      "position": "47",
+      "time": "21:43",
+      "ageGrade": "62.39%",
+      "isPB": true
+    },
+    {
+      "event": "Lymington Woodside",
+      "date": "08/03/2025",
+      "position": "19",
+      "time": "22:52",
+      "ageGrade": "59.26%",
+      "isPB": true
+    },
+    {
+      "event": "Black Rocks",
+      "date": "01/03/2025",
+      "position": "28",
+      "time": "22:21",
+      "ageGrade": "60.63%",
+      "isPB": false
+    },
+    {
+      "event": "Andover",
+      "date": "22/02/2025",
+      "position": "28",
+      "time": "23:08",
+      "ageGrade": "58.57%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "15/02/2025",
+      "position": "62",
+      "time": "22:44",
+      "ageGrade": "59.16%",
+      "isPB": false
+    },
+    {
+      "event": "Poole",
+      "date": "08/02/2025",
+      "position": "165",
+      "time": "22:38",
+      "ageGrade": "59.43%",
+      "isPB": false
+    },
+    {
+      "event": "Upton House",
+      "date": "01/02/2025",
+      "position": "19",
+      "time": "22:50",
+      "ageGrade": "58.91%",
+      "isPB": true
+    },
+    {
+      "event": "Bushy Park",
+      "date": "25/01/2025",
+      "position": "172",
+      "time": "21:47",
+      "ageGrade": "61.74%",
+      "isPB": false
+    },
+    {
+      "event": "Weymouth",
+      "date": "18/01/2025",
+      "position": "61",
+      "time": "22:03",
+      "ageGrade": "61.00%",
+      "isPB": true
+    },
+    {
+      "event": "Moors Valley",
+      "date": "11/01/2025",
+      "position": "55",
+      "time": "22:40",
+      "ageGrade": "59.34%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "04/01/2025",
+      "position": "79",
+      "time": "22:52",
+      "ageGrade": "58.82%",
+      "isPB": false
+    },
+    {
+      "event": "The Great Field",
+      "date": "01/01/2025",
+      "position": "47",
+      "time": "23:59",
+      "ageGrade": "56.08%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 55,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "21:05",
+    "uniqueEvents": 28
+  }
+}

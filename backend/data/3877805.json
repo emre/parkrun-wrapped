@@ -1,0 +1,198 @@
+{
+  "runnerInfo": {
+    "name": "Erica THURSTON (A3877805)"
+  },
+  "runs": [
+    {
+      "event": "Moors Valley",
+      "date": "22/11/2025",
+      "position": "321",
+      "time": "51:51",
+      "ageGrade": "30.63%",
+      "isPB": false
+    },
+    {
+      "event": "Weymouth",
+      "date": "25/10/2025",
+      "position": "411",
+      "time": "50:48",
+      "ageGrade": "31.27%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "06/09/2025",
+      "position": "542",
+      "time": "51:44",
+      "ageGrade": "30.70%",
+      "isPB": false
+    },
+    {
+      "event": "Northside Beltline",
+      "date": "30/08/2025",
+      "position": "37",
+      "time": "50:44",
+      "ageGrade": "31.31%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "16/08/2025",
+      "position": "598",
+      "time": "47:52",
+      "ageGrade": "33.18%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "09/08/2025",
+      "position": "596",
+      "time": "50:57",
+      "ageGrade": "31.17%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "02/08/2025",
+      "position": "701",
+      "time": "49:33",
+      "ageGrade": "32.06%",
+      "isPB": false
+    },
+    {
+      "event": "Rushmoor",
+      "date": "26/07/2025",
+      "position": "589",
+      "time": "48:59",
+      "ageGrade": "32.43%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "19/07/2025",
+      "position": "557",
+      "time": "50:04",
+      "ageGrade": "31.72%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "05/07/2025",
+      "position": "635",
+      "time": "1:02:58",
+      "ageGrade": "25.22%",
+      "isPB": false
+    },
+    {
+      "event": "Alice Holt",
+      "date": "21/06/2025",
+      "position": "315",
+      "time": "50:24",
+      "ageGrade": "31.51%",
+      "isPB": false
+    },
+    {
+      "event": "Kingdom",
+      "date": "31/05/2025",
+      "position": "140",
+      "time": "54:27",
+      "ageGrade": "29.17%",
+      "isPB": false
+    },
+    {
+      "event": "Zuiderpark",
+      "date": "24/05/2025",
+      "position": "175",
+      "time": "49:41",
+      "ageGrade": "31.67%",
+      "isPB": false
+    },
+    {
+      "event": "Meon Valley Trail, Wickham",
+      "date": "03/05/2025",
+      "position": "434",
+      "time": "47:15",
+      "ageGrade": "33.30%",
+      "isPB": false
+    },
+    {
+      "event": "Melksham",
+      "date": "26/04/2025",
+      "position": "150",
+      "time": "47:22",
+      "ageGrade": "33.22%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "19/04/2025",
+      "position": "593",
+      "time": "58:13",
+      "ageGrade": "27.03%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "29/03/2025",
+      "position": "658",
+      "time": "1:00:03",
+      "ageGrade": "26.20%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "22/03/2025",
+      "position": "512",
+      "time": "48:52",
+      "ageGrade": "32.20%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "08/03/2025",
+      "position": "569",
+      "time": "46:11",
+      "ageGrade": "34.07%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "22/02/2025",
+      "position": "533",
+      "time": "45:44",
+      "ageGrade": "34.40%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "15/02/2025",
+      "position": "555",
+      "time": "46:33",
+      "ageGrade": "33.80%",
+      "isPB": false
+    },
+    {
+      "event": "Hogmoor Inclosure",
+      "date": "08/02/2025",
+      "position": "225",
+      "time": "47:31",
+      "ageGrade": "33.11%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "04/01/2025",
+      "position": "612",
+      "time": "43:25",
+      "ageGrade": "36.24%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 23,
+    "firstRun": "04/01/2025",
+    "latestRun": "22/11/2025",
+    "bestTime": "43:25",
+    "uniqueEvents": 10
+  }
+}
