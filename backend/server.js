@@ -144,7 +144,9 @@ app.get('/api/parkrunner/:id', async (req, res) => {
       const runYear = date.split('/')[2];
       if (runYear !== '2025') return;
 
-      const isPB = pbIndicator.toLowerCase().includes('pb') || pbIndicator.toLowerCase().includes('new');
+      const isPB = pbIndicator.toLowerCase().includes('pb') || 
+                   pbIndicator.toLowerCase().includes('pr') || 
+                   pbIndicator.toLowerCase().includes('new');
       const run = { event, date, position, time, ageGrade, isPB };
       const exists = parkrunData.runs.some(existing =>
         existing.date === run.date && existing.event === run.event && existing.time === run.time

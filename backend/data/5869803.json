@@ -9,7 +9,7 @@
       "position": "53",
       "time": "22:48",
       "ageGrade": "57.53%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "York",
@@ -249,7 +249,7 @@
       "position": "70",
       "time": "20:17",
       "ageGrade": "64.34%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "York",
@@ -265,7 +265,7 @@
       "position": "79",
       "time": "20:53",
       "ageGrade": "62.49%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Beverley Westwood",
@@ -297,7 +297,7 @@
       "position": "53",
       "time": "21:47",
       "ageGrade": "59.91%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "York",

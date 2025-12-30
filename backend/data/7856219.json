@@ -113,7 +113,7 @@
       "position": "20",
       "time": "20:54",
       "ageGrade": "61.72%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Brundall",
@@ -121,7 +121,7 @@
       "position": "9",
       "time": "21:33",
       "ageGrade": "59.86%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "University Parks",
@@ -129,7 +129,7 @@
       "position": "86",
       "time": "21:43",
       "ageGrade": "59.40%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Lordship Recreation Ground",
@@ -137,7 +137,7 @@
       "position": "38",
       "time": "21:10",
       "ageGrade": "60.94%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Lordship Recreation Ground",
@@ -145,7 +145,7 @@
       "position": "33",
       "time": "21:48",
       "ageGrade": "59.17%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Lordship Recreation Ground",

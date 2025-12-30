@@ -65,7 +65,7 @@
       "position": "30",
       "time": "25:13",
       "ageGrade": "54.13%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Bethlem Royal Hospital",
@@ -161,7 +161,7 @@
       "position": "49",
       "time": "26:01",
       "ageGrade": "52.47%",
-      "isPB": false
+      "isPB": true
     },
     {
       "event": "Malmö Ribersborg",
