@@ -1,0 +1,198 @@
+{
+  "runnerInfo": {
+    "name": "Louise DAVIDSON (A4723489)"
+  },
+  "runs": [
+    {
+      "event": "Gateshead",
+      "date": "25/12/2025",
+      "position": "297",
+      "time": "28:35",
+      "ageGrade": "51.78%",
+      "isPB": false
+    },
+    {
+      "event": "Windy Nook",
+      "date": "20/12/2025",
+      "position": "37",
+      "time": "29:02",
+      "ageGrade": "50.98%",
+      "isPB": false
+    },
+    {
+      "event": "Gateshead",
+      "date": "06/12/2025",
+      "position": "143",
+      "time": "28:11",
+      "ageGrade": "52.51%",
+      "isPB": true
+    },
+    {
+      "event": "Newbiggin-by-the-Sea",
+      "date": "22/11/2025",
+      "position": "55",
+      "time": "27:10",
+      "ageGrade": "54.48%",
+      "isPB": false
+    },
+    {
+      "event": "Leazes",
+      "date": "08/11/2025",
+      "position": "92",
+      "time": "27:51",
+      "ageGrade": "53.14%",
+      "isPB": false
+    },
+    {
+      "event": "Town Moor",
+      "date": "25/10/2025",
+      "position": "279",
+      "time": "27:32",
+      "ageGrade": "53.75%",
+      "isPB": false
+    },
+    {
+      "event": "Ushaw Historic House",
+      "date": "11/10/2025",
+      "position": "236",
+      "time": "29:07",
+      "ageGrade": "50.83%",
+      "isPB": false
+    },
+    {
+      "event": "Rising Sun",
+      "date": "27/09/2025",
+      "position": "167",
+      "time": "29:08",
+      "ageGrade": "50.80%",
+      "isPB": true
+    },
+    {
+      "event": "Zuiderpark",
+      "date": "20/09/2025",
+      "position": "118",
+      "time": "28:39",
+      "ageGrade": "51.66%",
+      "isPB": false
+    },
+    {
+      "event": "Riverside",
+      "date": "06/09/2025",
+      "position": "139",
+      "time": "26:49",
+      "ageGrade": "55.19%",
+      "isPB": true
+    },
+    {
+      "event": "Windy Nook",
+      "date": "30/08/2025",
+      "position": "12",
+      "time": "28:30",
+      "ageGrade": "51.93%",
+      "isPB": false
+    },
+    {
+      "event": "Hamsterley Forest",
+      "date": "16/08/2025",
+      "position": "22",
+      "time": "29:53",
+      "ageGrade": "49.53%",
+      "isPB": false
+    },
+    {
+      "event": "Heritage Coastal Path, Easington",
+      "date": "02/08/2025",
+      "position": "53",
+      "time": "27:46",
+      "ageGrade": "53.30%",
+      "isPB": false
+    },
+    {
+      "event": "Fountains Abbey",
+      "date": "19/07/2025",
+      "position": "323",
+      "time": "28:35",
+      "ageGrade": "51.78%",
+      "isPB": false
+    },
+    {
+      "event": "Swansea Bay",
+      "date": "14/06/2025",
+      "position": "246",
+      "time": "27:24",
+      "ageGrade": "54.01%",
+      "isPB": false
+    },
+    {
+      "event": "Denton Dene",
+      "date": "07/06/2025",
+      "position": "64",
+      "time": "28:35",
+      "ageGrade": "51.78%",
+      "isPB": false
+    },
+    {
+      "event": "Clermont Waterfront",
+      "date": "10/05/2025",
+      "position": "45",
+      "time": "30:15",
+      "ageGrade": "48.93%",
+      "isPB": false
+    },
+    {
+      "event": "Blyth Links",
+      "date": "12/04/2025",
+      "position": "165",
+      "time": "28:15",
+      "ageGrade": "52.39%",
+      "isPB": false
+    },
+    {
+      "event": "Gateshead",
+      "date": "05/04/2025",
+      "position": "183",
+      "time": "30:57",
+      "ageGrade": "47.82%",
+      "isPB": false
+    },
+    {
+      "event": "Riverside",
+      "date": "15/03/2025",
+      "position": "329",
+      "time": "30:05",
+      "ageGrade": "49.20%",
+      "isPB": false
+    },
+    {
+      "event": "Gateshead",
+      "date": "01/03/2025",
+      "position": "138",
+      "time": "30:12",
+      "ageGrade": "49.01%",
+      "isPB": false
+    },
+    {
+      "event": "South Shields",
+      "date": "04/01/2025",
+      "position": "119",
+      "time": "29:58",
+      "ageGrade": "49.39%",
+      "isPB": false
+    },
+    {
+      "event": "Herrington Country",
+      "date": "01/01/2025",
+      "position": "161",
+      "time": "29:36",
+      "ageGrade": "50.00%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 23,
+    "firstRun": "01/01/2025",
+    "latestRun": "25/12/2025",
+    "bestTime": "26:49",
+    "uniqueEvents": 18
+  }
+}

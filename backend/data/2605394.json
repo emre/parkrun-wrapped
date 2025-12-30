@@ -1,0 +1,318 @@
+{
+  "runnerInfo": {
+    "name": "Lloyd ROWE (A2605394)"
+  },
+  "runs": [
+    {
+      "event": "South Woodham Ferrers",
+      "date": "25/12/2025",
+      "position": "46",
+      "time": "27:40",
+      "ageGrade": "47.41%",
+      "isPB": false
+    },
+    {
+      "event": "Hadleigh",
+      "date": "20/12/2025",
+      "position": "70",
+      "time": "30:58",
+      "ageGrade": "42.36%",
+      "isPB": false
+    },
+    {
+      "event": "South Woodham Ferrers",
+      "date": "13/12/2025",
+      "position": "3",
+      "time": "20:14",
+      "ageGrade": "64.83%",
+      "isPB": true
+    },
+    {
+      "event": "Basildon",
+      "date": "29/11/2025",
+      "position": "8",
+      "time": "22:05",
+      "ageGrade": "59.40%",
+      "isPB": true
+    },
+    {
+      "event": "Hadleigh",
+      "date": "22/11/2025",
+      "position": "66",
+      "time": "32:03",
+      "ageGrade": "40.93%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "15/11/2025",
+      "position": "20",
+      "time": "20:04",
+      "ageGrade": "65.37%",
+      "isPB": true
+    },
+    {
+      "event": "Chelmsford Central",
+      "date": "08/11/2025",
+      "position": "370",
+      "time": "27:32",
+      "ageGrade": "47.64%",
+      "isPB": false
+    },
+    {
+      "event": "Hadleigh",
+      "date": "01/11/2025",
+      "position": "22",
+      "time": "25:01",
+      "ageGrade": "52.43%",
+      "isPB": false
+    },
+    {
+      "event": "Amsterdamse Bos",
+      "date": "18/10/2025",
+      "position": "216",
+      "time": "27:17",
+      "ageGrade": "48.08%",
+      "isPB": false
+    },
+    {
+      "event": "Tamar Lakes",
+      "date": "04/10/2025",
+      "position": "7",
+      "time": "20:52",
+      "ageGrade": "62.86%",
+      "isPB": false
+    },
+    {
+      "event": "Whinlatter Forest",
+      "date": "27/09/2025",
+      "position": "7",
+      "time": "25:01",
+      "ageGrade": "52.43%",
+      "isPB": false
+    },
+    {
+      "event": "Hadleigh",
+      "date": "20/09/2025",
+      "position": "35",
+      "time": "26:43",
+      "ageGrade": "49.10%",
+      "isPB": false
+    },
+    {
+      "event": "Southend",
+      "date": "13/09/2025",
+      "position": "90",
+      "time": "27:14",
+      "ageGrade": "48.16%",
+      "isPB": true
+    },
+    {
+      "event": "Llanerchaeron",
+      "date": "30/08/2025",
+      "position": "7",
+      "time": "20:27",
+      "ageGrade": "64.14%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "23/08/2025",
+      "position": "148",
+      "time": "25:55",
+      "ageGrade": "50.61%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "16/08/2025",
+      "position": "156",
+      "time": "26:20",
+      "ageGrade": "49.81%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "09/08/2025",
+      "position": "205",
+      "time": "27:03",
+      "ageGrade": "48.49%",
+      "isPB": false
+    },
+    {
+      "event": "Alderley Park",
+      "date": "02/08/2025",
+      "position": "33",
+      "time": "23:08",
+      "ageGrade": "56.70%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "19/07/2025",
+      "position": "57",
+      "time": "23:22",
+      "ageGrade": "56.13%",
+      "isPB": false
+    },
+    {
+      "event": "Great Dunmow",
+      "date": "05/07/2025",
+      "position": "43",
+      "time": "26:16",
+      "ageGrade": "49.94%",
+      "isPB": false
+    },
+    {
+      "event": "Billericay",
+      "date": "28/06/2025",
+      "position": "12",
+      "time": "21:11",
+      "ageGrade": "61.92%",
+      "isPB": true
+    },
+    {
+      "event": "Hockley Woods",
+      "date": "07/06/2025",
+      "position": "71",
+      "time": "29:58",
+      "ageGrade": "43.55%",
+      "isPB": false
+    },
+    {
+      "event": "Brooklands",
+      "date": "31/05/2025",
+      "position": "467",
+      "time": "35:38",
+      "ageGrade": "36.62%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "17/05/2025",
+      "position": "276",
+      "time": "29:13",
+      "ageGrade": "44.67%",
+      "isPB": false
+    },
+    {
+      "event": "Osterley",
+      "date": "10/05/2025",
+      "position": "30",
+      "time": "22:03",
+      "ageGrade": "59.18%",
+      "isPB": false
+    },
+    {
+      "event": "Maldon Prom",
+      "date": "26/04/2025",
+      "position": "93",
+      "time": "24:33",
+      "ageGrade": "53.16%",
+      "isPB": true
+    },
+    {
+      "event": "Burnham-on-Crouch",
+      "date": "19/04/2025",
+      "position": "46",
+      "time": "26:27",
+      "ageGrade": "49.34%",
+      "isPB": false
+    },
+    {
+      "event": "Woolacombe Dunes",
+      "date": "05/04/2025",
+      "position": "83",
+      "time": "33:23",
+      "ageGrade": "39.09%",
+      "isPB": false
+    },
+    {
+      "event": "Leybourne Lakes",
+      "date": "15/03/2025",
+      "position": "10",
+      "time": "20:10",
+      "ageGrade": "64.71%",
+      "isPB": false
+    },
+    {
+      "event": "Bexley",
+      "date": "08/03/2025",
+      "position": "52",
+      "time": "23:30",
+      "ageGrade": "55.53%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "01/03/2025",
+      "position": "112",
+      "time": "23:53",
+      "ageGrade": "54.64%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "15/02/2025",
+      "position": "143",
+      "time": "25:31",
+      "ageGrade": "51.14%",
+      "isPB": false
+    },
+    {
+      "event": "Harrow Lodge",
+      "date": "01/02/2025",
+      "position": "52",
+      "time": "25:54",
+      "ageGrade": "50.39%",
+      "isPB": false
+    },
+    {
+      "event": "Mole Valley",
+      "date": "25/01/2025",
+      "position": "103",
+      "time": "29:56",
+      "ageGrade": "43.60%",
+      "isPB": false
+    },
+    {
+      "event": "Chalkwell Beach",
+      "date": "18/01/2025",
+      "position": "17",
+      "time": "20:13",
+      "ageGrade": "64.55%",
+      "isPB": true
+    },
+    {
+      "event": "South Woodham Ferrers",
+      "date": "11/01/2025",
+      "position": "46",
+      "time": "28:17",
+      "ageGrade": "46.14%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "04/01/2025",
+      "position": "61",
+      "time": "28:32",
+      "ageGrade": "45.74%",
+      "isPB": false
+    },
+    {
+      "event": "Hockley Woods",
+      "date": "01/01/2025",
+      "position": "15",
+      "time": "21:57",
+      "ageGrade": "59.45%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 38,
+    "firstRun": "01/01/2025",
+    "latestRun": "25/12/2025",
+    "bestTime": "20:04",
+    "uniqueEvents": 23
+  }
+}

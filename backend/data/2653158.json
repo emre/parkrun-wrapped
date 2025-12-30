@@ -1,0 +1,358 @@
+{
+  "runnerInfo": {
+    "name": "Jenis MISTRY (A2653158)"
+  },
+  "runs": [
+    {
+      "event": "Basildon",
+      "date": "13/12/2025",
+      "position": "39",
+      "time": "27:06",
+      "ageGrade": "51.54%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "06/12/2025",
+      "position": "41",
+      "time": "26:35",
+      "ageGrade": "52.54%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "29/11/2025",
+      "position": "20",
+      "time": "23:35",
+      "ageGrade": "59.22%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "22/11/2025",
+      "position": "23",
+      "time": "24:14",
+      "ageGrade": "57.63%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "15/11/2025",
+      "position": "153",
+      "time": "43:26",
+      "ageGrade": "32.16%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "08/11/2025",
+      "position": "23",
+      "time": "23:27",
+      "ageGrade": "59.56%",
+      "isPB": false
+    },
+    {
+      "event": "Hadleigh",
+      "date": "01/11/2025",
+      "position": "58",
+      "time": "28:30",
+      "ageGrade": "49.01%",
+      "isPB": true
+    },
+    {
+      "event": "Basildon",
+      "date": "18/10/2025",
+      "position": "21",
+      "time": "23:02",
+      "ageGrade": "60.64%",
+      "isPB": true
+    },
+    {
+      "event": "Basildon",
+      "date": "11/10/2025",
+      "position": "17",
+      "time": "23:24",
+      "ageGrade": "59.69%",
+      "isPB": true
+    },
+    {
+      "event": "Basildon",
+      "date": "04/10/2025",
+      "position": "28",
+      "time": "23:39",
+      "ageGrade": "59.06%",
+      "isPB": true
+    },
+    {
+      "event": "Great Notley",
+      "date": "27/09/2025",
+      "position": "34",
+      "time": "24:39",
+      "ageGrade": "56.66%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "20/09/2025",
+      "position": "30",
+      "time": "24:04",
+      "ageGrade": "58.03%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "13/09/2025",
+      "position": "58",
+      "time": "27:44",
+      "ageGrade": "50.36%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "06/09/2025",
+      "position": "33",
+      "time": "24:46",
+      "ageGrade": "56.39%",
+      "isPB": false
+    },
+    {
+      "event": "Southend",
+      "date": "30/08/2025",
+      "position": "62",
+      "time": "24:31",
+      "ageGrade": "56.97%",
+      "isPB": false
+    },
+    {
+      "event": "Bolton",
+      "date": "23/08/2025",
+      "position": "55",
+      "time": "26:14",
+      "ageGrade": "53.24%",
+      "isPB": false
+    },
+    {
+      "event": "Burnham-on-Crouch",
+      "date": "16/08/2025",
+      "position": "24",
+      "time": "23:57",
+      "ageGrade": "58.32%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "26/07/2025",
+      "position": "37",
+      "time": "25:16",
+      "ageGrade": "55.28%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "19/07/2025",
+      "position": "21",
+      "time": "23:45",
+      "ageGrade": "58.81%",
+      "isPB": true
+    },
+    {
+      "event": "Basildon",
+      "date": "12/07/2025",
+      "position": "158",
+      "time": "43:35",
+      "ageGrade": "32.05%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "05/07/2025",
+      "position": "73",
+      "time": "28:03",
+      "ageGrade": "49.38%",
+      "isPB": false
+    },
+    {
+      "event": "Brentwood",
+      "date": "28/06/2025",
+      "position": "49",
+      "time": "26:15",
+      "ageGrade": "52.76%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "21/06/2025",
+      "position": "35",
+      "time": "25:41",
+      "ageGrade": "53.93%",
+      "isPB": false
+    },
+    {
+      "event": "Harrow Lodge",
+      "date": "14/06/2025",
+      "position": "53",
+      "time": "25:49",
+      "ageGrade": "53.65%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "07/06/2025",
+      "position": "101",
+      "time": "29:34",
+      "ageGrade": "46.84%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "24/05/2025",
+      "position": "45",
+      "time": "25:00",
+      "ageGrade": "55.40%",
+      "isPB": true
+    },
+    {
+      "event": "Thurrock",
+      "date": "17/05/2025",
+      "position": "24",
+      "time": "24:37",
+      "ageGrade": "56.26%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "10/05/2025",
+      "position": "44",
+      "time": "25:09",
+      "ageGrade": "55.07%",
+      "isPB": true
+    },
+    {
+      "event": "Hockley Woods",
+      "date": "03/05/2025",
+      "position": "51",
+      "time": "27:06",
+      "ageGrade": "51.11%",
+      "isPB": false
+    },
+    {
+      "event": "Maldon Prom",
+      "date": "26/04/2025",
+      "position": "115",
+      "time": "25:17",
+      "ageGrade": "54.78%",
+      "isPB": false
+    },
+    {
+      "event": "Dudley",
+      "date": "19/04/2025",
+      "position": "64",
+      "time": "26:48",
+      "ageGrade": "51.68%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "12/04/2025",
+      "position": "36",
+      "time": "26:29",
+      "ageGrade": "52.30%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "05/04/2025",
+      "position": "41",
+      "time": "26:42",
+      "ageGrade": "51.87%",
+      "isPB": false
+    },
+    {
+      "event": "Billericay",
+      "date": "29/03/2025",
+      "position": "104",
+      "time": "25:24",
+      "ageGrade": "54.53%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "22/03/2025",
+      "position": "44",
+      "time": "27:30",
+      "ageGrade": "50.36%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "15/03/2025",
+      "position": "40",
+      "time": "26:19",
+      "ageGrade": "52.63%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "22/02/2025",
+      "position": "18",
+      "time": "26:39",
+      "ageGrade": "51.97%",
+      "isPB": false
+    },
+    {
+      "event": "South Woodham Ferrers",
+      "date": "15/02/2025",
+      "position": "41",
+      "time": "27:55",
+      "ageGrade": "49.61%",
+      "isPB": false
+    },
+    {
+      "event": "Wickford Memorial",
+      "date": "08/02/2025",
+      "position": "65",
+      "time": "26:44",
+      "ageGrade": "51.81%",
+      "isPB": false
+    },
+    {
+      "event": "Chelmsford Central",
+      "date": "01/02/2025",
+      "position": "267",
+      "time": "26:51",
+      "ageGrade": "51.58%",
+      "isPB": true
+    },
+    {
+      "event": "Chelmsford Central",
+      "date": "25/01/2025",
+      "position": "300",
+      "time": "27:41",
+      "ageGrade": "50.03%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "18/01/2025",
+      "position": "57",
+      "time": "28:12",
+      "ageGrade": "49.11%",
+      "isPB": false
+    },
+    {
+      "event": "Basildon",
+      "date": "11/01/2025",
+      "position": "72",
+      "time": "30:02",
+      "ageGrade": "46.12%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 43,
+    "firstRun": "11/01/2025",
+    "latestRun": "13/12/2025",
+    "bestTime": "23:02",
+    "uniqueEvents": 16
+  }
+}
