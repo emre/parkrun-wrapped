@@ -1,0 +1,358 @@
+{
+  "runnerInfo": {
+    "name": "Catherine MCKEOGH (A6333317)"
+  },
+  "runs": [
+    {
+      "event": "O’Connors Beach",
+      "date": "27/12/2025",
+      "position": "29",
+      "time": "23:33",
+      "ageGrade": "63.27%",
+      "isPB": false
+    },
+    {
+      "event": "George Town",
+      "date": "25/12/2025",
+      "position": "9",
+      "time": "25:01",
+      "ageGrade": "59.56%",
+      "isPB": false
+    },
+    {
+      "event": "Maribyrnong",
+      "date": "20/12/2025",
+      "position": "185",
+      "time": "26:46",
+      "ageGrade": "55.67%",
+      "isPB": false
+    },
+    {
+      "event": "Cascades on Clyde Wetlands",
+      "date": "06/12/2025",
+      "position": "23",
+      "time": "27:32",
+      "ageGrade": "54.12%",
+      "isPB": false
+    },
+    {
+      "event": "Red Hill Rail Trail",
+      "date": "15/11/2025",
+      "position": "21",
+      "time": "28:08",
+      "ageGrade": "52.96%",
+      "isPB": false
+    },
+    {
+      "event": "Brimbank",
+      "date": "08/11/2025",
+      "position": "9",
+      "time": "25:30",
+      "ageGrade": "58.43%",
+      "isPB": false
+    },
+    {
+      "event": "Cyril Curtain Reserve",
+      "date": "25/10/2025",
+      "position": "15",
+      "time": "23:07",
+      "ageGrade": "64.46%",
+      "isPB": false
+    },
+    {
+      "event": "Churchill",
+      "date": "04/10/2025",
+      "position": "6",
+      "time": "22:58",
+      "ageGrade": "64.88%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "27/09/2025",
+      "position": "22",
+      "time": "25:51",
+      "ageGrade": "57.64%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "20/09/2025",
+      "position": "21",
+      "time": "26:38",
+      "ageGrade": "55.94%",
+      "isPB": false
+    },
+    {
+      "event": "Kilmore Racecourse Walking Track",
+      "date": "13/09/2025",
+      "position": "6",
+      "time": "24:07",
+      "ageGrade": "61.78%",
+      "isPB": false
+    },
+    {
+      "event": "Belvedere",
+      "date": "06/09/2025",
+      "position": "83",
+      "time": "35:08",
+      "ageGrade": "42.41%",
+      "isPB": false
+    },
+    {
+      "event": "The Phar Lap Track",
+      "date": "30/08/2025",
+      "position": "14",
+      "time": "22:14",
+      "ageGrade": "67.02%",
+      "isPB": false
+    },
+    {
+      "event": "Warragul",
+      "date": "23/08/2025",
+      "position": "15",
+      "time": "22:08",
+      "ageGrade": "67.32%",
+      "isPB": false
+    },
+    {
+      "event": "Pirrama",
+      "date": "09/08/2025",
+      "position": "36",
+      "time": "24:08",
+      "ageGrade": "61.74%",
+      "isPB": false
+    },
+    {
+      "event": "Eildon Pondage",
+      "date": "02/08/2025",
+      "position": "3",
+      "time": "22:52",
+      "ageGrade": "65.16%",
+      "isPB": false
+    },
+    {
+      "event": "Mernda",
+      "date": "26/07/2025",
+      "position": "12",
+      "time": "25:44",
+      "ageGrade": "57.77%",
+      "isPB": false
+    },
+    {
+      "event": "North Lakes",
+      "date": "12/07/2025",
+      "position": "9",
+      "time": "22:10",
+      "ageGrade": "67.07%",
+      "isPB": false
+    },
+    {
+      "event": "Mudgeeraba",
+      "date": "05/07/2025",
+      "position": "16",
+      "time": "22:33",
+      "ageGrade": "65.93%",
+      "isPB": false
+    },
+    {
+      "event": "Coburg",
+      "date": "21/06/2025",
+      "position": "35",
+      "time": "23:17",
+      "ageGrade": "63.85%",
+      "isPB": false
+    },
+    {
+      "event": "Point Cook",
+      "date": "14/06/2025",
+      "position": "35",
+      "time": "26:29",
+      "ageGrade": "56.14%",
+      "isPB": false
+    },
+    {
+      "event": "Lalor",
+      "date": "07/06/2025",
+      "position": "2",
+      "time": "23:45",
+      "ageGrade": "62.60%",
+      "isPB": false
+    },
+    {
+      "event": "Dixon Field",
+      "date": "31/05/2025",
+      "position": "12",
+      "time": "22:19",
+      "ageGrade": "66.62%",
+      "isPB": false
+    },
+    {
+      "event": "Great Southern Rail Trail, Korumburra",
+      "date": "24/05/2025",
+      "position": "1",
+      "time": "23:16",
+      "ageGrade": "63.90%",
+      "isPB": false
+    },
+    {
+      "event": "Warringal Parklands",
+      "date": "17/05/2025",
+      "position": "21",
+      "time": "22:19",
+      "ageGrade": "66.62%",
+      "isPB": false
+    },
+    {
+      "event": "Diamond Creek",
+      "date": "10/05/2025",
+      "position": "33",
+      "time": "22:04",
+      "ageGrade": "67.37%",
+      "isPB": false
+    },
+    {
+      "event": "Altona Beach",
+      "date": "26/04/2025",
+      "position": "60",
+      "time": "26:01",
+      "ageGrade": "57.14%",
+      "isPB": false
+    },
+    {
+      "event": "Devonport",
+      "date": "19/04/2025",
+      "position": "24",
+      "time": "22:20",
+      "ageGrade": "66.57%",
+      "isPB": false
+    },
+    {
+      "event": "Bells Parade",
+      "date": "12/04/2025",
+      "position": "8",
+      "time": "23:22",
+      "ageGrade": "63.62%",
+      "isPB": false
+    },
+    {
+      "event": "Port Sorell",
+      "date": "05/04/2025",
+      "position": "7",
+      "time": "21:31",
+      "ageGrade": "69.09%",
+      "isPB": false
+    },
+    {
+      "event": "Goulburn River Trail, Seymour",
+      "date": "29/03/2025",
+      "position": "8",
+      "time": "23:51",
+      "ageGrade": "62.33%",
+      "isPB": false
+    },
+    {
+      "event": "Parkville",
+      "date": "22/03/2025",
+      "position": "121",
+      "time": "22:35",
+      "ageGrade": "65.83%",
+      "isPB": false
+    },
+    {
+      "event": "Kirkdale Reserve",
+      "date": "15/03/2025",
+      "position": "124",
+      "time": "29:13",
+      "ageGrade": "50.88%",
+      "isPB": false
+    },
+    {
+      "event": "Berwick Springs",
+      "date": "08/03/2025",
+      "position": "22",
+      "time": "22:58",
+      "ageGrade": "64.73%",
+      "isPB": false
+    },
+    {
+      "event": "Darebin",
+      "date": "01/03/2025",
+      "position": "7",
+      "time": "22:21",
+      "ageGrade": "66.52%",
+      "isPB": false
+    },
+    {
+      "event": "Studley",
+      "date": "22/02/2025",
+      "position": "87",
+      "time": "26:26",
+      "ageGrade": "56.24%",
+      "isPB": false
+    },
+    {
+      "event": "Port Fairy",
+      "date": "15/02/2025",
+      "position": "5",
+      "time": "23:46",
+      "ageGrade": "62.55%",
+      "isPB": false
+    },
+    {
+      "event": "Chelsea Bicentennial",
+      "date": "08/02/2025",
+      "position": "410",
+      "time": "51:48",
+      "ageGrade": "28.70%",
+      "isPB": false
+    },
+    {
+      "event": "Wilson Botanic",
+      "date": "01/02/2025",
+      "position": "19",
+      "time": "25:28",
+      "ageGrade": "58.38%",
+      "isPB": false
+    },
+    {
+      "event": "Frog Hollow",
+      "date": "25/01/2025",
+      "position": "139",
+      "time": "55:04",
+      "ageGrade": "27.00%",
+      "isPB": false
+    },
+    {
+      "event": "Balyang Sanctuary",
+      "date": "11/01/2025",
+      "position": "67",
+      "time": "25:23",
+      "ageGrade": "58.57%",
+      "isPB": false
+    },
+    {
+      "event": "Queens Domain",
+      "date": "04/01/2025",
+      "position": "37",
+      "time": "23:25",
+      "ageGrade": "63.49%",
+      "isPB": false
+    },
+    {
+      "event": "Kate Reed",
+      "date": "01/01/2025",
+      "position": "3",
+      "time": "22:56",
+      "ageGrade": "64.83%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 43,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "21:31",
+    "uniqueEvents": 43
+  }
+}
