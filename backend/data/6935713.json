@@ -1,0 +1,254 @@
+{
+  "runnerInfo": {
+    "name": "Lois NOWICKI (A6935713)"
+  },
+  "runs": [
+    {
+      "event": "Beeston",
+      "date": "27/12/2025",
+      "position": "187",
+      "time": "32:06",
+      "ageGrade": "46.11%",
+      "isPB": false
+    },
+    {
+      "event": "Long Eaton",
+      "date": "25/12/2025",
+      "position": "137",
+      "time": "24:36",
+      "ageGrade": "60.16%",
+      "isPB": true
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "20/12/2025",
+      "position": "81",
+      "time": "27:13",
+      "ageGrade": "54.38%",
+      "isPB": true
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "13/12/2025",
+      "position": "139",
+      "time": "31:05",
+      "ageGrade": "47.61%",
+      "isPB": false
+    },
+    {
+      "event": "Ushaw Historic House",
+      "date": "06/12/2025",
+      "position": "76",
+      "time": "28:10",
+      "ageGrade": "52.54%",
+      "isPB": false
+    },
+    {
+      "event": "Fountains Abbey",
+      "date": "29/11/2025",
+      "position": "259",
+      "time": "30:13",
+      "ageGrade": "48.98%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "15/11/2025",
+      "position": "236",
+      "time": "31:56",
+      "ageGrade": "46.35%",
+      "isPB": false
+    },
+    {
+      "event": "Town Moor",
+      "date": "01/11/2025",
+      "position": "279",
+      "time": "25:55",
+      "ageGrade": "57.11%",
+      "isPB": true
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "25/10/2025",
+      "position": "156",
+      "time": "31:08",
+      "ageGrade": "47.54%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "18/10/2025",
+      "position": "116",
+      "time": "28:27",
+      "ageGrade": "52.02%",
+      "isPB": false
+    },
+    {
+      "event": "Zuiderpark",
+      "date": "11/10/2025",
+      "position": "104",
+      "time": "26:40",
+      "ageGrade": "55.50%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "27/09/2025",
+      "position": "298",
+      "time": "32:05",
+      "ageGrade": "46.13%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "06/09/2025",
+      "position": "231",
+      "time": "30:51",
+      "ageGrade": "47.97%",
+      "isPB": false
+    },
+    {
+      "event": "Rising Sun",
+      "date": "30/08/2025",
+      "position": "164",
+      "time": "29:01",
+      "ageGrade": "51.01%",
+      "isPB": true
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "23/08/2025",
+      "position": "211",
+      "time": "29:28",
+      "ageGrade": "50.23%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "09/08/2025",
+      "position": "196",
+      "time": "29:04",
+      "ageGrade": "50.92%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "02/08/2025",
+      "position": "167",
+      "time": "31:19",
+      "ageGrade": "47.26%",
+      "isPB": false
+    },
+    {
+      "event": "Blyth Links",
+      "date": "12/07/2025",
+      "position": "244",
+      "time": "30:02",
+      "ageGrade": "49.28%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "05/07/2025",
+      "position": "210",
+      "time": "31:44",
+      "ageGrade": "46.64%",
+      "isPB": false
+    },
+    {
+      "event": "Cross Flatts",
+      "date": "21/06/2025",
+      "position": "43",
+      "time": "27:02",
+      "ageGrade": "54.75%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "07/06/2025",
+      "position": "223",
+      "time": "32:31",
+      "ageGrade": "45.52%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "31/05/2025",
+      "position": "229",
+      "time": "27:12",
+      "ageGrade": "54.41%",
+      "isPB": true
+    },
+    {
+      "event": "Fælledparken",
+      "date": "10/05/2025",
+      "position": "217",
+      "time": "31:50",
+      "ageGrade": "46.49%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "03/05/2025",
+      "position": "282",
+      "time": "33:53",
+      "ageGrade": "43.68%",
+      "isPB": false
+    },
+    {
+      "event": "Chevin Forest",
+      "date": "26/04/2025",
+      "position": "58",
+      "time": "29:35",
+      "ageGrade": "50.03%",
+      "isPB": false
+    },
+    {
+      "event": "Fell Foot",
+      "date": "12/04/2025",
+      "position": "227",
+      "time": "31:21",
+      "ageGrade": "47.21%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "15/03/2025",
+      "position": "170",
+      "time": "29:48",
+      "ageGrade": "49.66%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "08/03/2025",
+      "position": "196",
+      "time": "30:40",
+      "ageGrade": "48.26%",
+      "isPB": false
+    },
+    {
+      "event": "Rising Sun",
+      "date": "22/02/2025",
+      "position": "151",
+      "time": "29:12",
+      "ageGrade": "50.68%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "25/01/2025",
+      "position": "216",
+      "time": "29:01",
+      "ageGrade": "51.01%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 30,
+    "firstRun": "25/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "24:36",
+    "uniqueEvents": 14
+  }
+}

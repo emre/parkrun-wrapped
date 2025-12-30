@@ -1,0 +1,318 @@
+{
+  "runnerInfo": {
+    "name": "Matthew EVANS (A343756)"
+  },
+  "runs": [
+    {
+      "event": "Cosmeston Lakes",
+      "date": "27/12/2025",
+      "position": "13",
+      "time": "21:39",
+      "ageGrade": "60.89%",
+      "isPB": false
+    },
+    {
+      "event": "Kingsway",
+      "date": "13/12/2025",
+      "position": "8",
+      "time": "20:29",
+      "ageGrade": "64.36%",
+      "isPB": false
+    },
+    {
+      "event": "Quakers Walk",
+      "date": "06/12/2025",
+      "position": "5",
+      "time": "20:44",
+      "ageGrade": "63.59%",
+      "isPB": false
+    },
+    {
+      "event": "Wotton",
+      "date": "29/11/2025",
+      "position": "2",
+      "time": "22:33",
+      "ageGrade": "58.46%",
+      "isPB": false
+    },
+    {
+      "event": "Lydney",
+      "date": "22/11/2025",
+      "position": "3",
+      "time": "21:27",
+      "ageGrade": "61.46%",
+      "isPB": false
+    },
+    {
+      "event": "Newport",
+      "date": "15/11/2025",
+      "position": "11",
+      "time": "20:50",
+      "ageGrade": "63.28%",
+      "isPB": false
+    },
+    {
+      "event": "Frogmary Green Farm",
+      "date": "08/11/2025",
+      "position": "12",
+      "time": "21:46",
+      "ageGrade": "60.57%",
+      "isPB": false
+    },
+    {
+      "event": "Blaise Castle",
+      "date": "01/11/2025",
+      "position": "29",
+      "time": "22:50",
+      "ageGrade": "57.74%",
+      "isPB": true
+    },
+    {
+      "event": "Chipping Sodbury",
+      "date": "25/10/2025",
+      "position": "27",
+      "time": "21:19",
+      "ageGrade": "61.85%",
+      "isPB": false
+    },
+    {
+      "event": "Rogiet",
+      "date": "18/10/2025",
+      "position": "4",
+      "time": "20:55",
+      "ageGrade": "63.03%",
+      "isPB": false
+    },
+    {
+      "event": "Pomphrey Hill",
+      "date": "27/09/2025",
+      "position": "16",
+      "time": "20:35",
+      "ageGrade": "64.05%",
+      "isPB": true
+    },
+    {
+      "event": "Riverfront",
+      "date": "20/09/2025",
+      "position": "15",
+      "time": "19:48",
+      "ageGrade": "66.58%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "13/09/2025",
+      "position": "144",
+      "time": "24:54",
+      "ageGrade": "52.95%",
+      "isPB": false
+    },
+    {
+      "event": "Three Brooks",
+      "date": "30/08/2025",
+      "position": "19",
+      "time": "21:57",
+      "ageGrade": "60.06%",
+      "isPB": false
+    },
+    {
+      "event": "Somerdale Pavilion",
+      "date": "23/08/2025",
+      "position": "26",
+      "time": "20:41",
+      "ageGrade": "63.74%",
+      "isPB": false
+    },
+    {
+      "event": "Portobello",
+      "date": "16/08/2025",
+      "position": "21",
+      "time": "20:22",
+      "ageGrade": "64.73%",
+      "isPB": false
+    },
+    {
+      "event": "Tonbridge",
+      "date": "09/08/2025",
+      "position": "48",
+      "time": "21:01",
+      "ageGrade": "62.73%",
+      "isPB": true
+    },
+    {
+      "event": "Hafan Pwllheli",
+      "date": "02/08/2025",
+      "position": "11",
+      "time": "23:44",
+      "ageGrade": "55.55%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "26/07/2025",
+      "position": "22",
+      "time": "20:58",
+      "ageGrade": "62.88%",
+      "isPB": true
+    },
+    {
+      "event": "Berkeley Green",
+      "date": "19/07/2025",
+      "position": "16",
+      "time": "19:47",
+      "ageGrade": "66.64%",
+      "isPB": true
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "28/06/2025",
+      "position": "12",
+      "time": "20:10",
+      "ageGrade": "65.37%",
+      "isPB": false
+    },
+    {
+      "event": "Sharpham Estate",
+      "date": "14/06/2025",
+      "position": "9",
+      "time": "22:05",
+      "ageGrade": "59.70%",
+      "isPB": false
+    },
+    {
+      "event": "Cosmeston Lakes",
+      "date": "07/06/2025",
+      "position": "12",
+      "time": "21:17",
+      "ageGrade": "61.63%",
+      "isPB": false
+    },
+    {
+      "event": "Cardiff",
+      "date": "31/05/2025",
+      "position": "84",
+      "time": "20:51",
+      "ageGrade": "62.91%",
+      "isPB": false
+    },
+    {
+      "event": "Three Brooks",
+      "date": "24/05/2025",
+      "position": "22",
+      "time": "21:49",
+      "ageGrade": "60.12%",
+      "isPB": false
+    },
+    {
+      "event": "Cosmeston Lakes",
+      "date": "17/05/2025",
+      "position": "18",
+      "time": "21:02",
+      "ageGrade": "62.36%",
+      "isPB": false
+    },
+    {
+      "event": "Cosmeston Lakes",
+      "date": "05/04/2025",
+      "position": "11",
+      "time": "20:33",
+      "ageGrade": "63.83%",
+      "isPB": true
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "29/03/2025",
+      "position": "22",
+      "time": "20:09",
+      "ageGrade": "65.10%",
+      "isPB": true
+    },
+    {
+      "event": "Cardiff",
+      "date": "22/03/2025",
+      "position": "71",
+      "time": "20:43",
+      "ageGrade": "63.31%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "15/03/2025",
+      "position": "39",
+      "time": "21:37",
+      "ageGrade": "60.68%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/03/2025",
+      "position": "32",
+      "time": "21:04",
+      "ageGrade": "62.26%",
+      "isPB": true
+    },
+    {
+      "event": "Three Brooks",
+      "date": "15/02/2025",
+      "position": "14",
+      "time": "20:54",
+      "ageGrade": "62.76%",
+      "isPB": true
+    },
+    {
+      "event": "Eastville",
+      "date": "08/02/2025",
+      "position": "38",
+      "time": "22:06",
+      "ageGrade": "59.35%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/02/2025",
+      "position": "43",
+      "time": "21:39",
+      "ageGrade": "60.59%",
+      "isPB": true
+    },
+    {
+      "event": "Tonbridge",
+      "date": "25/01/2025",
+      "position": "43",
+      "time": "22:44",
+      "ageGrade": "57.70%",
+      "isPB": true
+    },
+    {
+      "event": "Cosmeston Lakes",
+      "date": "18/01/2025",
+      "position": "9",
+      "time": "21:44",
+      "ageGrade": "60.35%",
+      "isPB": false
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "11/01/2025",
+      "position": "48",
+      "time": "22:18",
+      "ageGrade": "58.82%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "04/01/2025",
+      "position": "155",
+      "time": "25:03",
+      "ageGrade": "52.36%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 38,
+    "firstRun": "04/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "19:47",
+    "uniqueEvents": 23
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "runnerInfo": {
+    "name": "Hafees HUSSAIN (A5199063)"
+  },
+  "runs": [
+    {
+      "event": "Lister Park, Bradford",
+      "date": "27/12/2025",
+      "position": "184",
+      "time": "30:26",
+      "ageGrade": "42.88%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "25/12/2025",
+      "position": "225",
+      "time": "31:06",
+      "ageGrade": "41.96%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "20/12/2025",
+      "position": "296",
+      "time": "33:41",
+      "ageGrade": "38.74%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "29/11/2025",
+      "position": "182",
+      "time": "29:30",
+      "ageGrade": "44.24%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "22/11/2025",
+      "position": "241",
+      "time": "30:50",
+      "ageGrade": "42.32%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "15/11/2025",
+      "position": "278",
+      "time": "32:21",
+      "ageGrade": "40.34%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "08/11/2025",
+      "position": "265",
+      "time": "32:22",
+      "ageGrade": "40.32%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "01/11/2025",
+      "position": "223",
+      "time": "33:01",
+      "ageGrade": "39.53%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "25/10/2025",
+      "position": "253",
+      "time": "32:39",
+      "ageGrade": "39.82%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "18/10/2025",
+      "position": "251",
+      "time": "32:53",
+      "ageGrade": "39.53%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "11/10/2025",
+      "position": "238",
+      "time": "33:41",
+      "ageGrade": "38.59%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "04/10/2025",
+      "position": "313",
+      "time": "33:36",
+      "ageGrade": "38.69%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "27/09/2025",
+      "position": "224",
+      "time": "33:18",
+      "ageGrade": "39.04%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "20/09/2025",
+      "position": "348",
+      "time": "34:28",
+      "ageGrade": "37.72%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "13/09/2025",
+      "position": "431",
+      "time": "35:18",
+      "ageGrade": "36.83%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "06/09/2025",
+      "position": "272",
+      "time": "36:17",
+      "ageGrade": "35.83%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "30/08/2025",
+      "position": "362",
+      "time": "38:25",
+      "ageGrade": "33.84%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "23/08/2025",
+      "position": "311",
+      "time": "40:00",
+      "ageGrade": "32.50%",
+      "isPB": false
+    },
+    {
+      "event": "Lister Park, Bradford",
+      "date": "16/08/2025",
+      "position": "319",
+      "time": "41:05",
+      "ageGrade": "31.64%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 19,
+    "firstRun": "16/08/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "29:30",
+    "uniqueEvents": 1
+  }
+}
