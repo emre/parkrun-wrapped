@@ -1,0 +1,102 @@
+{
+  "runnerInfo": {
+    "name": "Rory WELLS (A6651224)"
+  },
+  "runs": [
+    {
+      "event": "York",
+      "date": "25/12/2025",
+      "position": "799",
+      "time": "32:34",
+      "ageGrade": "39.82%",
+      "isPB": false
+    },
+    {
+      "event": "Queen Elizabeth",
+      "date": "20/12/2025",
+      "position": "36",
+      "time": "27:42",
+      "ageGrade": "46.81%",
+      "isPB": false
+    },
+    {
+      "event": "The Cinder Track",
+      "date": "29/11/2025",
+      "position": "106",
+      "time": "34:08",
+      "ageGrade": "37.99%",
+      "isPB": false
+    },
+    {
+      "event": "Selby",
+      "date": "22/11/2025",
+      "position": "60",
+      "time": "24:12",
+      "ageGrade": "53.58%",
+      "isPB": false
+    },
+    {
+      "event": "Dalby Forest",
+      "date": "01/11/2025",
+      "position": "33",
+      "time": "24:59",
+      "ageGrade": "51.90%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "25/10/2025",
+      "position": "215",
+      "time": "24:26",
+      "ageGrade": "53.07%",
+      "isPB": true
+    },
+    {
+      "event": "Fountains Abbey",
+      "date": "18/10/2025",
+      "position": "398",
+      "time": "34:18",
+      "ageGrade": "37.80%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "27/09/2025",
+      "position": "619",
+      "time": "33:32",
+      "ageGrade": "38.67%",
+      "isPB": false
+    },
+    {
+      "event": "Conyngham Hall",
+      "date": "13/09/2025",
+      "position": "117",
+      "time": "39:23",
+      "ageGrade": "32.92%",
+      "isPB": false
+    },
+    {
+      "event": "Millfield",
+      "date": "16/08/2025",
+      "position": "218",
+      "time": "35:55",
+      "ageGrade": "36.10%",
+      "isPB": false
+    },
+    {
+      "event": "Aberdeen",
+      "date": "26/07/2025",
+      "position": "181",
+      "time": "27:11",
+      "ageGrade": "47.58%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 11,
+    "firstRun": "26/07/2025",
+    "latestRun": "25/12/2025",
+    "bestTime": "24:12",
+    "uniqueEvents": 9
+  }
+}
