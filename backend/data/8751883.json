@@ -1,0 +1,278 @@
+{
+  "runnerInfo": {
+    "name": "Mert DERMAN (A8751883)"
+  },
+  "runs": [
+    {
+      "event": "Alvaston",
+      "date": "27/12/2025",
+      "position": "18",
+      "time": "19:35",
+      "ageGrade": "75.32%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "20/12/2025",
+      "position": "26",
+      "time": "19:46",
+      "ageGrade": "74.62%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "06/12/2025",
+      "position": "20",
+      "time": "19:49",
+      "ageGrade": "74.43%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "29/11/2025",
+      "position": "21",
+      "time": "19:56",
+      "ageGrade": "74.00%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "08/11/2025",
+      "position": "20",
+      "time": "19:40",
+      "ageGrade": "75.00%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "01/11/2025",
+      "position": "12",
+      "time": "19:49",
+      "ageGrade": "74.43%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "25/10/2025",
+      "position": "14",
+      "time": "19:37",
+      "ageGrade": "75.19%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "11/10/2025",
+      "position": "5",
+      "time": "19:02",
+      "ageGrade": "77.50%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "04/10/2025",
+      "position": "13",
+      "time": "19:39",
+      "ageGrade": "75.06%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "27/09/2025",
+      "position": "7",
+      "time": "19:28",
+      "ageGrade": "75.77%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "20/09/2025",
+      "position": "19",
+      "time": "19:39",
+      "ageGrade": "75.06%",
+      "isPB": false
+    },
+    {
+      "event": "Long Eaton",
+      "date": "13/09/2025",
+      "position": "40",
+      "time": "19:42",
+      "ageGrade": "74.87%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "06/09/2025",
+      "position": "26",
+      "time": "19:42",
+      "ageGrade": "74.87%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "16/08/2025",
+      "position": "11",
+      "time": "19:14",
+      "ageGrade": "76.69%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "02/08/2025",
+      "position": "21",
+      "time": "19:50",
+      "ageGrade": "73.78%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "26/07/2025",
+      "position": "14",
+      "time": "19:38",
+      "ageGrade": "74.53%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "12/07/2025",
+      "position": "18",
+      "time": "19:41",
+      "ageGrade": "74.34%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "05/07/2025",
+      "position": "20",
+      "time": "19:47",
+      "ageGrade": "73.97%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "21/06/2025",
+      "position": "23",
+      "time": "20:19",
+      "ageGrade": "72.03%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "14/06/2025",
+      "position": "11",
+      "time": "19:42",
+      "ageGrade": "74.28%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "24/05/2025",
+      "position": "22",
+      "time": "19:51",
+      "ageGrade": "73.72%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "17/05/2025",
+      "position": "18",
+      "time": "19:33",
+      "ageGrade": "74.85%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "26/04/2025",
+      "position": "9",
+      "time": "19:18",
+      "ageGrade": "75.82%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "19/04/2025",
+      "position": "19",
+      "time": "20:56",
+      "ageGrade": "69.90%",
+      "isPB": false
+    },
+    {
+      "event": "Long Eaton",
+      "date": "05/04/2025",
+      "position": "13",
+      "time": "19:07",
+      "ageGrade": "76.55%",
+      "isPB": true
+    },
+    {
+      "event": "Alvaston",
+      "date": "29/03/2025",
+      "position": "9",
+      "time": "18:47",
+      "ageGrade": "77.91%",
+      "isPB": true
+    },
+    {
+      "event": "Alvaston",
+      "date": "22/03/2025",
+      "position": "11",
+      "time": "19:19",
+      "ageGrade": "75.75%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "15/03/2025",
+      "position": "15",
+      "time": "19:20",
+      "ageGrade": "75.69%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "01/03/2025",
+      "position": "12",
+      "time": "19:05",
+      "ageGrade": "76.68%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "22/02/2025",
+      "position": "19",
+      "time": "19:59",
+      "ageGrade": "73.23%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "08/02/2025",
+      "position": "14",
+      "time": "19:32",
+      "ageGrade": "74.91%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "01/02/2025",
+      "position": "14",
+      "time": "19:19",
+      "ageGrade": "75.75%",
+      "isPB": false
+    },
+    {
+      "event": "Alvaston",
+      "date": "18/01/2025",
+      "position": "11",
+      "time": "19:37",
+      "ageGrade": "74.60%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 33,
+    "firstRun": "18/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "18:47",
+    "uniqueEvents": 3
+  }
+}
