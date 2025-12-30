@@ -70,7 +70,15 @@ function App() {
     
     return data.runs.slice(0, 20).reverse().map((run, index) => {
       const timeParts = run.time.split(':')
-      const totalSeconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      let totalSeconds = 0
+      
+      if (timeParts.length === 3) {
+        // Format: HH:MM:SS
+        totalSeconds = parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2])
+      } else {
+        // Format: MM:SS
+        totalSeconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      }
       return {
         date: run.date,
         time: totalSeconds,
@@ -81,9 +89,17 @@ function App() {
   }
 
   const formatTimeForDisplay = (seconds) => {
-    const minutes = Math.floor(seconds / 60)
+    if (seconds === Infinity || isNaN(seconds)) return '—'
+    
+    const hours = Math.floor(seconds / 3600)
+    const minutes = Math.floor((seconds % 3600) / 60)
     const secs = seconds % 60
-    return `${minutes}:${secs.toString().padStart(2, '0')}`
+    
+    if (hours > 0) {
+      return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`
+    } else {
+      return `${minutes}:${secs.toString().padStart(2, '0')}`
+    }
   }
 
   const getWeekNumber = (date) => {
@@ -110,7 +126,11 @@ function App() {
       monthlyData[monthKey].runs += 1
       
       const timeParts = run.time.split(':')
-      if (timeParts.length === 2) {
+      if (timeParts.length === 3) {
+        // Format: HH:MM:SS
+        monthlyData[monthKey].totalTime += parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2])
+      } else if (timeParts.length === 2) {
+        // Format: MM:SS
         monthlyData[monthKey].totalTime += parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
       }
     })
@@ -157,7 +177,15 @@ function App() {
       const date = new Date(run.date.split('/').reverse().join('-'))
       const monthKey = date.toLocaleString('default', { month: 'long' })
       const timeParts = run.time.split(':')
-      const seconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      let seconds = 0
+      
+      if (timeParts.length === 3) {
+        // Format: HH:MM:SS
+        seconds = parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2])
+      } else {
+        // Format: MM:SS
+        seconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      }
       
       if (!monthlyAvg[monthKey]) {
         monthlyAvg[monthKey] = { total: 0, count: 0 }
@@ -186,7 +214,13 @@ function App() {
     // Total minutes and distance
     const totalSeconds = runs2025.reduce((total, run) => {
       const timeParts = run.time.split(':')
-      return total + (parseInt(timeParts[0]) * 60 + parseInt(timeParts[1]))
+      if (timeParts.length === 3) {
+        // Format: HH:MM:SS
+        return total + (parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2]))
+      } else {
+        // Format: MM:SS
+        return total + (parseInt(timeParts[0]) * 60 + parseInt(timeParts[1]))
+      }
     }, 0)
     const totalMinutes = Math.round(totalSeconds / 60)
     const totalDistance = (runs2025.length * 5).toFixed(1) // 5km per run
@@ -203,7 +237,16 @@ function App() {
     let bestTimeSeconds = Infinity
     runs2025.forEach(run => {
       const timeParts = run.time.split(':')
-      const seconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      let seconds = 0
+      
+      if (timeParts.length === 3) {
+        // Format: HH:MM:SS
+        seconds = parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2])
+      } else {
+        // Format: MM:SS
+        seconds = parseInt(timeParts[0]) * 60 + parseInt(timeParts[1])
+      }
+      
       if (seconds < bestTimeSeconds) {
         bestTimeSeconds = seconds
       }
