@@ -1,0 +1,110 @@
+{
+  "runnerInfo": {
+    "name": "Bengu AKYUREK (A10099714)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "13/12/2025",
+      "position": "63",
+      "time": "29:08",
+      "ageGrade": "55.61%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "06/12/2025",
+      "position": "65",
+      "time": "32:30",
+      "ageGrade": "49.85%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/11/2025",
+      "position": "49",
+      "time": "31:02",
+      "ageGrade": "52.20%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "15/11/2025",
+      "position": "66",
+      "time": "33:35",
+      "ageGrade": "48.24%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "95",
+      "time": "34:01",
+      "ageGrade": "47.62%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "27/09/2025",
+      "position": "80",
+      "time": "31:19",
+      "ageGrade": "51.20%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "110",
+      "time": "33:31",
+      "ageGrade": "47.84%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "30/08/2025",
+      "position": "100",
+      "time": "33:54",
+      "ageGrade": "47.30%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "14/06/2025",
+      "position": "61",
+      "time": "34:28",
+      "ageGrade": "46.52%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "10/05/2025",
+      "position": "75",
+      "time": "33:55",
+      "ageGrade": "47.27%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "15/03/2025",
+      "position": "76",
+      "time": "35:54",
+      "ageGrade": "44.66%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "15/02/2025",
+      "position": "76",
+      "time": "44:31",
+      "ageGrade": "36.02%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 12,
+    "firstRun": "15/02/2025",
+    "latestRun": "13/12/2025",
+    "bestTime": "29:08",
+    "uniqueEvents": 1
+  }
+}
