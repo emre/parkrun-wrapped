@@ -1,0 +1,398 @@
+{
+  "runnerInfo": {
+    "name": "Charlotte GRIMWOOD (A1083159)"
+  },
+  "runs": [
+    {
+      "event": "Fareham",
+      "date": "27/12/2025",
+      "position": "217",
+      "time": "1:03:49",
+      "ageGrade": "24.11%",
+      "isPB": false
+    },
+    {
+      "event": "Downs Link, Shoreham-by-Sea",
+      "date": "25/12/2025",
+      "position": "143",
+      "time": "28:41",
+      "ageGrade": "53.63%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "20/12/2025",
+      "position": "349",
+      "time": "31:45",
+      "ageGrade": "48.45%",
+      "isPB": false
+    },
+    {
+      "event": "Netley Abbey",
+      "date": "13/12/2025",
+      "position": "102",
+      "time": "29:15",
+      "ageGrade": "52.59%",
+      "isPB": false
+    },
+    {
+      "event": "Fareham",
+      "date": "06/12/2025",
+      "position": "134",
+      "time": "30:43",
+      "ageGrade": "50.08%",
+      "isPB": false
+    },
+    {
+      "event": "Southsea",
+      "date": "29/11/2025",
+      "position": "265",
+      "time": "31:43",
+      "ageGrade": "48.50%",
+      "isPB": false
+    },
+    {
+      "event": "Great Salterns",
+      "date": "22/11/2025",
+      "position": "23",
+      "time": "26:14",
+      "ageGrade": "58.64%",
+      "isPB": false
+    },
+    {
+      "event": "Fareham",
+      "date": "15/11/2025",
+      "position": "88",
+      "time": "28:16",
+      "ageGrade": "54.42%",
+      "isPB": false
+    },
+    {
+      "event": "Kilkenny Lane Country",
+      "date": "08/11/2025",
+      "position": "157",
+      "time": "30:01",
+      "ageGrade": "51.25%",
+      "isPB": false
+    },
+    {
+      "event": "Meon Valley Trail, Wickham",
+      "date": "01/11/2025",
+      "position": "65",
+      "time": "27:03",
+      "ageGrade": "56.87%",
+      "isPB": true
+    },
+    {
+      "event": "Fareham",
+      "date": "25/10/2025",
+      "position": "120",
+      "time": "28:43",
+      "ageGrade": "53.57%",
+      "isPB": false
+    },
+    {
+      "event": "Fareham",
+      "date": "18/10/2025",
+      "position": "56",
+      "time": "26:03",
+      "ageGrade": "59.05%",
+      "isPB": true
+    },
+    {
+      "event": "Brockenhurst",
+      "date": "11/10/2025",
+      "position": "87",
+      "time": "26:59",
+      "ageGrade": "57.01%",
+      "isPB": false
+    },
+    {
+      "event": "Zegerplas",
+      "date": "04/10/2025",
+      "position": "27",
+      "time": "26:53",
+      "ageGrade": "57.22%",
+      "isPB": false
+    },
+    {
+      "event": "Rheinpark",
+      "date": "03/10/2025",
+      "position": "117",
+      "time": "27:26",
+      "ageGrade": "56.08%",
+      "isPB": false
+    },
+    {
+      "event": "Somerdale Pavilion",
+      "date": "27/09/2025",
+      "position": "119",
+      "time": "26:56",
+      "ageGrade": "57.12%",
+      "isPB": false
+    },
+    {
+      "event": "Fordingbridge Recreation Ground",
+      "date": "30/08/2025",
+      "position": "133",
+      "time": "30:07",
+      "ageGrade": "51.08%",
+      "isPB": false
+    },
+    {
+      "event": "Fareham",
+      "date": "23/08/2025",
+      "position": "107",
+      "time": "26:50",
+      "ageGrade": "57.33%",
+      "isPB": true
+    },
+    {
+      "event": "Great Salterns",
+      "date": "16/08/2025",
+      "position": "29",
+      "time": "25:16",
+      "ageGrade": "60.88%",
+      "isPB": true
+    },
+    {
+      "event": "Hogmoor Inclosure",
+      "date": "09/08/2025",
+      "position": "80",
+      "time": "28:01",
+      "ageGrade": "54.91%",
+      "isPB": false
+    },
+    {
+      "event": "Netley Abbey",
+      "date": "26/07/2025",
+      "position": "64",
+      "time": "25:46",
+      "ageGrade": "59.70%",
+      "isPB": true
+    },
+    {
+      "event": "Upton House",
+      "date": "19/07/2025",
+      "position": "162",
+      "time": "27:41",
+      "ageGrade": "55.57%",
+      "isPB": false
+    },
+    {
+      "event": "Portsmouth Lakeside",
+      "date": "12/07/2025",
+      "position": "95",
+      "time": "26:33",
+      "ageGrade": "57.94%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "05/07/2025",
+      "position": "256",
+      "time": "29:41",
+      "ageGrade": "51.82%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "21/06/2025",
+      "position": "183",
+      "time": "27:09",
+      "ageGrade": "56.66%",
+      "isPB": false
+    },
+    {
+      "event": "Poole",
+      "date": "07/06/2025",
+      "position": "955",
+      "time": "56:04",
+      "ageGrade": "27.44%",
+      "isPB": false
+    },
+    {
+      "event": "Great Salterns",
+      "date": "31/05/2025",
+      "position": "60",
+      "time": "29:17",
+      "ageGrade": "52.53%",
+      "isPB": false
+    },
+    {
+      "event": "Amager Fælled",
+      "date": "29/05/2025",
+      "position": "177",
+      "time": "27:40",
+      "ageGrade": "55.60%",
+      "isPB": false
+    },
+    {
+      "event": "Meon Valley Trail, Wickham",
+      "date": "17/05/2025",
+      "position": "255",
+      "time": "31:48",
+      "ageGrade": "48.38%",
+      "isPB": false
+    },
+    {
+      "event": "Victoria Dock",
+      "date": "10/05/2025",
+      "position": "134",
+      "time": "28:40",
+      "ageGrade": "53.66%",
+      "isPB": false
+    },
+    {
+      "event": "Salisbury",
+      "date": "03/05/2025",
+      "position": "161",
+      "time": "25:13",
+      "ageGrade": "61.00%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "26/04/2025",
+      "position": "126",
+      "time": "25:07",
+      "ageGrade": "61.25%",
+      "isPB": false
+    },
+    {
+      "event": "Frimley Lodge",
+      "date": "19/04/2025",
+      "position": "378",
+      "time": "32:01",
+      "ageGrade": "48.05%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "12/04/2025",
+      "position": "192",
+      "time": "26:49",
+      "ageGrade": "57.36%",
+      "isPB": false
+    },
+    {
+      "event": "Bournemouth",
+      "date": "05/04/2025",
+      "position": "177",
+      "time": "25:55",
+      "ageGrade": "59.36%",
+      "isPB": false
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "29/03/2025",
+      "position": "139",
+      "time": "26:18",
+      "ageGrade": "58.49%",
+      "isPB": false
+    },
+    {
+      "event": "Havant",
+      "date": "22/03/2025",
+      "position": "173",
+      "time": "32:59",
+      "ageGrade": "46.64%",
+      "isPB": false
+    },
+    {
+      "event": "Ganger Farm",
+      "date": "15/03/2025",
+      "position": "79",
+      "time": "26:16",
+      "ageGrade": "58.57%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "08/03/2025",
+      "position": "601",
+      "time": "54:02",
+      "ageGrade": "28.47%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "01/03/2025",
+      "position": "220",
+      "time": "27:22",
+      "ageGrade": "56.21%",
+      "isPB": false
+    },
+    {
+      "event": "Tidworth",
+      "date": "22/02/2025",
+      "position": "38",
+      "time": "28:11",
+      "ageGrade": "54.29%",
+      "isPB": false
+    },
+    {
+      "event": "Bartley Park",
+      "date": "15/02/2025",
+      "position": "29",
+      "time": "25:08",
+      "ageGrade": "60.88%",
+      "isPB": false
+    },
+    {
+      "event": "Newport",
+      "date": "08/02/2025",
+      "position": "129",
+      "time": "28:43",
+      "ageGrade": "53.28%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "01/02/2025",
+      "position": "123",
+      "time": "24:45",
+      "ageGrade": "61.82%",
+      "isPB": true
+    },
+    {
+      "event": "Stretford",
+      "date": "25/01/2025",
+      "position": "761",
+      "time": "34:23",
+      "ageGrade": "44.50%",
+      "isPB": false
+    },
+    {
+      "event": "Moors Valley",
+      "date": "18/01/2025",
+      "position": "182",
+      "time": "27:04",
+      "ageGrade": "56.53%",
+      "isPB": false
+    },
+    {
+      "event": "Southampton",
+      "date": "11/01/2025",
+      "position": "316",
+      "time": "25:34",
+      "ageGrade": "59.84%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "01/01/2025",
+      "position": "261",
+      "time": "31:55",
+      "ageGrade": "47.94%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 48,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "24:45",
+    "uniqueEvents": 32
+  }
+}
