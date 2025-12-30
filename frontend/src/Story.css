@@ -317,9 +317,13 @@
 }
 
 @media (max-width: 768px) {
+  .story-container {
+    padding-top: 50px !important;
+  }
+  
   .story-card {
     padding: 40px 30px;
-    margin: 40px 20px 0 20px;
+    margin: 20px 20px 0 20px;
   }
   
   .story-title {
@@ -335,32 +339,76 @@
   }
   
   .progress-dots {
-    top: 20px;
+    top: 25px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    z-index: 999 !important;
+    display: flex !important;
+    gap: 8px !important;
+    position: absolute !important;
+    width: auto !important;
+    height: auto !important;
   }
   
-  .dot {
-    width: 20px;
-    height: 2px;
+  .progress-dots .dot {
+    width: 24px !important;
+    height: 4px !important;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.5) !important;
+    border-radius: 2px !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
   }
   
-  .dot.active {
-    width: 28px;
+  .progress-dots .dot.active {
+    width: 32px !important;
+    height: 4px !important;
+    background: rgba(255, 255, 255, 1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  }
+  
+  .story-progress {
+    top: 10px;
+    left: 20px;
+    right: 20px;
   }
   
   .story-controls {
-    bottom: 20px;
+    bottom: 80px;
     right: 20px;
   }
   
   .control-btn {
     width: 40px;
     height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.9);
+  }
+  
+  .control-btn svg {
+    display: none;
+  }
+  
+  .prev-btn::after {
+    content: "<";
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .play-btn::after {
+    content: ">";
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
   }
 }
 
 @media (max-width: 480px) {
   .story-card {
     padding: 30px 20px;
+    margin-bottom: 100px;
   }
   
   .story-value {
@@ -370,5 +418,28 @@
   .story-title {
     font-size: 14px;
     letter-spacing: 1px;
+  }
+  
+  .progress-dots {
+    top: 10px;
+    z-index: 20;
+  }
+  
+  .story-progress {
+    top: 5px;
+  }
+  
+  .dot {
+    width: 16px;
+    height: 2px;
+  }
+  
+  .dot.active {
+    width: 24px;
+  }
+  
+  .story-controls {
+    bottom: 100px;
+    right: 15px;
   }
 }

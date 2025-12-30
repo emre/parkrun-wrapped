@@ -1,0 +1,190 @@
+{
+  "runnerInfo": {
+    "name": "Soner GOKDOGAN (A8388620)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "06/12/2025",
+      "position": "72",
+      "time": "34:03",
+      "ageGrade": "41.65%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/11/2025",
+      "position": "55",
+      "time": "34:14",
+      "ageGrade": "41.43%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "88",
+      "time": "32:59",
+      "ageGrade": "43.00%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "01/11/2025",
+      "position": "66",
+      "time": "30:47",
+      "ageGrade": "46.07%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "18/10/2025",
+      "position": "68",
+      "time": "30:38",
+      "ageGrade": "46.30%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "20/09/2025",
+      "position": "78",
+      "time": "32:31",
+      "ageGrade": "43.62%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "117",
+      "time": "34:24",
+      "ageGrade": "41.23%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "23/08/2025",
+      "position": "65",
+      "time": "30:24",
+      "ageGrade": "46.66%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "19/07/2025",
+      "position": "103",
+      "time": "43:51",
+      "ageGrade": "32.35%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/06/2025",
+      "position": "132",
+      "time": "37:12",
+      "ageGrade": "38.13%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "10/05/2025",
+      "position": "78",
+      "time": "34:24",
+      "ageGrade": "41.23%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "19/04/2025",
+      "position": "76",
+      "time": "36:55",
+      "ageGrade": "38.42%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "66",
+      "time": "34:30",
+      "ageGrade": "41.11%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/04/2025",
+      "position": "75",
+      "time": "41:43",
+      "ageGrade": "34.00%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/03/2025",
+      "position": "103",
+      "time": "34:12",
+      "ageGrade": "41.47%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/03/2025",
+      "position": "90",
+      "time": "34:05",
+      "ageGrade": "41.61%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/03/2025",
+      "position": "62",
+      "time": "33:40",
+      "ageGrade": "42.13%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/02/2025",
+      "position": "77",
+      "time": "44:32",
+      "ageGrade": "31.85%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "70",
+      "time": "53:02",
+      "ageGrade": "26.74%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/01/2025",
+      "position": "81",
+      "time": "33:23",
+      "ageGrade": "42.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "18/01/2025",
+      "position": "71",
+      "time": "50:27",
+      "ageGrade": "28.11%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "04/01/2025",
+      "position": "46",
+      "time": "33:50",
+      "ageGrade": "41.92%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 22,
+    "firstRun": "04/01/2025",
+    "latestRun": "06/12/2025",
+    "bestTime": "30:24",
+    "uniqueEvents": 1
+  }
+}

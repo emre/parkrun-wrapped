@@ -283,7 +283,7 @@ function App() {
     if (showStory && autoPlay) {
       const interval = setInterval(() => {
         nextSlide()
-      }, 5000)
+      }, 10000)
       return () => clearInterval(interval)
     }
   }, [showStory, currentSlide, autoPlay])
@@ -295,7 +295,7 @@ function App() {
     const start = Date.now()
     const progressTimer = setInterval(() => {
       const elapsed = Date.now() - start
-      const percent = Math.min((elapsed / 5000) * 100, 100)
+      const percent = Math.min((elapsed / 10000) * 100, 100)
       setSlideProgress(percent)
     }, 100)
     return () => clearInterval(progressTimer)
@@ -305,10 +305,8 @@ function App() {
     const handleKeyPress = (e) => {
       if (showStory) {
         if (e.key === 'ArrowRight') {
-          setAutoPlay(false)
           nextSlide()
         } else if (e.key === 'ArrowLeft') {
-          setAutoPlay(false)
           prevSlide()
         }
       }
@@ -536,7 +534,6 @@ function App() {
             <div className="story-controls">
               <button
                 onClick={() => {
-                  setAutoPlay(false)
                   prevSlide()
                 }}
                 className="control-btn prev-btn"
@@ -548,7 +545,6 @@ function App() {
               </button>
               <button
                 onClick={() => {
-                  setAutoPlay(false)
                   nextSlide()
                 }}
                 className="control-btn play-btn"
