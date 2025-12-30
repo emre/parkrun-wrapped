@@ -1,0 +1,454 @@
+{
+  "runnerInfo": {
+    "name": "Wouter VAN STRAALEN (A6739827)"
+  },
+  "runs": [
+    {
+      "event": "Kagerzoom",
+      "date": "27/12/2025",
+      "position": "3",
+      "time": "18:18",
+      "ageGrade": "71.31%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "20/12/2025",
+      "position": "6",
+      "time": "20:48",
+      "ageGrade": "62.74%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "13/12/2025",
+      "position": "1",
+      "time": "19:11",
+      "ageGrade": "68.03%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "06/12/2025",
+      "position": "2",
+      "time": "20:05",
+      "ageGrade": "64.98%",
+      "isPB": false
+    },
+    {
+      "event": "Zegerplas",
+      "date": "29/11/2025",
+      "position": "1",
+      "time": "18:56",
+      "ageGrade": "68.93%",
+      "isPB": false
+    },
+    {
+      "event": "Balijbos",
+      "date": "22/11/2025",
+      "position": "2",
+      "time": "18:59",
+      "ageGrade": "68.74%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "15/11/2025",
+      "position": "1",
+      "time": "20:11",
+      "ageGrade": "64.66%",
+      "isPB": false
+    },
+    {
+      "event": "Balijbos",
+      "date": "08/11/2025",
+      "position": "2",
+      "time": "18:41",
+      "ageGrade": "69.85%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "01/11/2025",
+      "position": "2",
+      "time": "19:29",
+      "ageGrade": "66.98%",
+      "isPB": false
+    },
+    {
+      "event": "Balijbos",
+      "date": "25/10/2025",
+      "position": "2",
+      "time": "19:04",
+      "ageGrade": "68.44%",
+      "isPB": false
+    },
+    {
+      "event": "Oude Warande",
+      "date": "18/10/2025",
+      "position": "2",
+      "time": "18:37",
+      "ageGrade": "70.10%",
+      "isPB": false
+    },
+    {
+      "event": "Zuiderpark",
+      "date": "11/10/2025",
+      "position": "23",
+      "time": "20:19",
+      "ageGrade": "64.23%",
+      "isPB": false
+    },
+    {
+      "event": "Zegerplas",
+      "date": "04/10/2025",
+      "position": "2",
+      "time": "19:08",
+      "ageGrade": "68.21%",
+      "isPB": false
+    },
+    {
+      "event": "Lousberg",
+      "date": "03/10/2025",
+      "position": "3",
+      "time": "19:53",
+      "ageGrade": "65.63%",
+      "isPB": false
+    },
+    {
+      "event": "Kagerzoom",
+      "date": "27/09/2025",
+      "position": "2",
+      "time": "18:50",
+      "ageGrade": "69.29%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "20/09/2025",
+      "position": "3",
+      "time": "20:07",
+      "ageGrade": "64.87%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "13/09/2025",
+      "position": "1",
+      "time": "18:14",
+      "ageGrade": "71.30%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "06/09/2025",
+      "position": "3",
+      "time": "19:18",
+      "ageGrade": "67.36%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "30/08/2025",
+      "position": "2",
+      "time": "18:37",
+      "ageGrade": "69.83%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "23/08/2025",
+      "position": "3",
+      "time": "18:52",
+      "ageGrade": "68.90%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "16/08/2025",
+      "position": "7",
+      "time": "19:53",
+      "ageGrade": "65.38%",
+      "isPB": false
+    },
+    {
+      "event": "Goffert",
+      "date": "09/08/2025",
+      "position": "1",
+      "time": "20:25",
+      "ageGrade": "63.67%",
+      "isPB": false
+    },
+    {
+      "event": "Tapijn",
+      "date": "02/08/2025",
+      "position": "4",
+      "time": "19:25",
+      "ageGrade": "66.95%",
+      "isPB": false
+    },
+    {
+      "event": "Wezenlanden",
+      "date": "26/07/2025",
+      "position": "3",
+      "time": "19:14",
+      "ageGrade": "67.59%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "19/07/2025",
+      "position": "1",
+      "time": "18:40",
+      "ageGrade": "69.64%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "12/07/2025",
+      "position": "1",
+      "time": "18:51",
+      "ageGrade": "68.97%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "05/07/2025",
+      "position": "8",
+      "time": "21:24",
+      "ageGrade": "60.75%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "28/06/2025",
+      "position": "1",
+      "time": "19:20",
+      "ageGrade": "67.24%",
+      "isPB": false
+    },
+    {
+      "event": "Oosterhout",
+      "date": "21/06/2025",
+      "position": "1",
+      "time": "19:45",
+      "ageGrade": "65.82%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "14/06/2025",
+      "position": "1",
+      "time": "20:02",
+      "ageGrade": "64.89%",
+      "isPB": false
+    },
+    {
+      "event": "Groene Ster",
+      "date": "09/06/2025",
+      "position": "2",
+      "time": "19:09",
+      "ageGrade": "67.89%",
+      "isPB": false
+    },
+    {
+      "event": "Beatrixpark",
+      "date": "07/06/2025",
+      "position": "1",
+      "time": "20:22",
+      "ageGrade": "63.83%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "31/05/2025",
+      "position": "2",
+      "time": "18:57",
+      "ageGrade": "68.60%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "24/05/2025",
+      "position": "14",
+      "time": "23:32",
+      "ageGrade": "55.24%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "17/05/2025",
+      "position": "6",
+      "time": "19:20",
+      "ageGrade": "67.24%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "10/05/2025",
+      "position": "24",
+      "time": "24:12",
+      "ageGrade": "53.72%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "03/05/2025",
+      "position": "3",
+      "time": "18:11",
+      "ageGrade": "71.49%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "26/04/2025",
+      "position": "1",
+      "time": "18:59",
+      "ageGrade": "68.48%",
+      "isPB": false
+    },
+    {
+      "event": "Sonsbeek",
+      "date": "19/04/2025",
+      "position": "3",
+      "time": "20:05",
+      "ageGrade": "64.73%",
+      "isPB": false
+    },
+    {
+      "event": "Kralingse Bos",
+      "date": "12/04/2025",
+      "position": "5",
+      "time": "18:29",
+      "ageGrade": "70.33%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "05/04/2025",
+      "position": "1",
+      "time": "19:14",
+      "ageGrade": "67.59%",
+      "isPB": false
+    },
+    {
+      "event": "Delftse Hout",
+      "date": "29/03/2025",
+      "position": "15",
+      "time": "22:50",
+      "ageGrade": "56.93%",
+      "isPB": false
+    },
+    {
+      "event": "Goffert",
+      "date": "22/03/2025",
+      "position": "2",
+      "time": "19:45",
+      "ageGrade": "65.82%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "15/03/2025",
+      "position": "4",
+      "time": "21:45",
+      "ageGrade": "59.77%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "08/03/2025",
+      "position": "2",
+      "time": "20:09",
+      "ageGrade": "64.52%",
+      "isPB": false
+    },
+    {
+      "event": "Waterakkers",
+      "date": "01/03/2025",
+      "position": "1",
+      "time": "19:30",
+      "ageGrade": "66.67%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "22/02/2025",
+      "position": "3",
+      "time": "19:39",
+      "ageGrade": "66.16%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "15/02/2025",
+      "position": "2",
+      "time": "18:37",
+      "ageGrade": "69.83%",
+      "isPB": false
+    },
+    {
+      "event": "Sonsbeek",
+      "date": "08/02/2025",
+      "position": "6",
+      "time": "20:44",
+      "ageGrade": "62.70%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "01/02/2025",
+      "position": "31",
+      "time": "46:01",
+      "ageGrade": "28.25%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "25/01/2025",
+      "position": "1",
+      "time": "19:13",
+      "ageGrade": "67.65%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "18/01/2025",
+      "position": "6",
+      "time": "21:29",
+      "ageGrade": "60.51%",
+      "isPB": false
+    },
+    {
+      "event": "Oosterhout",
+      "date": "11/01/2025",
+      "position": "2",
+      "time": "21:38",
+      "ageGrade": "60.09%",
+      "isPB": false
+    },
+    {
+      "event": "Reeuwijkse Hout",
+      "date": "04/01/2025",
+      "position": "4",
+      "time": "20:15",
+      "ageGrade": "64.20%",
+      "isPB": false
+    },
+    {
+      "event": "Kralingse Bos",
+      "date": "01/01/2025",
+      "position": "3",
+      "time": "19:12",
+      "ageGrade": "67.71%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 55,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "18:11",
+    "uniqueEvents": 18
+  }
+}

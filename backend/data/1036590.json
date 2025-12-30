@@ -1,0 +1,430 @@
+{
+  "runnerInfo": {
+    "name": "Patrick EASTABROOK (A1036590)"
+  },
+  "runs": [
+    {
+      "event": "South Norwood",
+      "date": "27/12/2025",
+      "position": "30",
+      "time": "24:58",
+      "ageGrade": "54.67%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "25/12/2025",
+      "position": "42",
+      "time": "25:59",
+      "ageGrade": "52.53%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "20/12/2025",
+      "position": "39",
+      "time": "26:21",
+      "ageGrade": "51.80%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "13/12/2025",
+      "position": "38",
+      "time": "26:30",
+      "ageGrade": "51.51%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "06/12/2025",
+      "position": "20",
+      "time": "27:59",
+      "ageGrade": "48.78%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "29/11/2025",
+      "position": "32",
+      "time": "26:48",
+      "ageGrade": "50.93%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "22/11/2025",
+      "position": "42",
+      "time": "26:55",
+      "ageGrade": "50.71%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "15/11/2025",
+      "position": "30",
+      "time": "25:13",
+      "ageGrade": "54.13%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "08/11/2025",
+      "position": "33",
+      "time": "26:21",
+      "ageGrade": "51.80%",
+      "isPB": false
+    },
+    {
+      "event": "Eastbourne",
+      "date": "01/11/2025",
+      "position": "98",
+      "time": "25:47",
+      "ageGrade": "52.94%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "25/10/2025",
+      "position": "65",
+      "time": "26:59",
+      "ageGrade": "50.59%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "18/10/2025",
+      "position": "115",
+      "time": "28:49",
+      "ageGrade": "47.37%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "11/10/2025",
+      "position": "66",
+      "time": "26:00",
+      "ageGrade": "52.50%",
+      "isPB": false
+    },
+    {
+      "event": "Rheinaue",
+      "date": "04/10/2025",
+      "position": "22",
+      "time": "25:36",
+      "ageGrade": "53.32%",
+      "isPB": false
+    },
+    {
+      "event": "Rheinpark",
+      "date": "03/10/2025",
+      "position": "86",
+      "time": "25:26",
+      "ageGrade": "53.67%",
+      "isPB": false
+    },
+    {
+      "event": "Roding Valley",
+      "date": "27/09/2025",
+      "position": "68",
+      "time": "26:54",
+      "ageGrade": "50.74%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "20/09/2025",
+      "position": "46",
+      "time": "26:45",
+      "ageGrade": "51.03%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "13/09/2025",
+      "position": "306",
+      "time": "26:15",
+      "ageGrade": "52.00%",
+      "isPB": false
+    },
+    {
+      "event": "Ingrebourne Hill",
+      "date": "06/09/2025",
+      "position": "19",
+      "time": "24:41",
+      "ageGrade": "55.30%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "30/08/2025",
+      "position": "49",
+      "time": "26:01",
+      "ageGrade": "52.47%",
+      "isPB": false
+    },
+    {
+      "event": "Malmö Ribersborg",
+      "date": "23/08/2025",
+      "position": "57",
+      "time": "25:07",
+      "ageGrade": "53.95%",
+      "isPB": false
+    },
+    {
+      "event": "Malling Rec",
+      "date": "16/08/2025",
+      "position": "49",
+      "time": "24:33",
+      "ageGrade": "55.19%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "09/08/2025",
+      "position": "71",
+      "time": "25:53",
+      "ageGrade": "52.35%",
+      "isPB": false
+    },
+    {
+      "event": "Camperdown",
+      "date": "02/08/2025",
+      "position": "69",
+      "time": "26:40",
+      "ageGrade": "50.81%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "26/07/2025",
+      "position": "82",
+      "time": "27:12",
+      "ageGrade": "49.82%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "19/07/2025",
+      "position": "39",
+      "time": "28:00",
+      "ageGrade": "48.39%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "12/07/2025",
+      "position": "68",
+      "time": "27:47",
+      "ageGrade": "48.77%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "05/07/2025",
+      "position": "93",
+      "time": "27:27",
+      "ageGrade": "49.36%",
+      "isPB": false
+    },
+    {
+      "event": "Dulwich",
+      "date": "28/06/2025",
+      "position": "325",
+      "time": "25:44",
+      "ageGrade": "52.66%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "21/06/2025",
+      "position": "108",
+      "time": "29:00",
+      "ageGrade": "46.72%",
+      "isPB": false
+    },
+    {
+      "event": "Amager Strandpark",
+      "date": "14/06/2025",
+      "position": "225",
+      "time": "35:43",
+      "ageGrade": "37.94%",
+      "isPB": false
+    },
+    {
+      "event": "Osterley",
+      "date": "07/06/2025",
+      "position": "90",
+      "time": "25:20",
+      "ageGrade": "53.49%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "31/05/2025",
+      "position": "329",
+      "time": "27:21",
+      "ageGrade": "49.54%",
+      "isPB": false
+    },
+    {
+      "event": "Brandon Country Park",
+      "date": "24/05/2025",
+      "position": "45",
+      "time": "30:24",
+      "ageGrade": "44.57%",
+      "isPB": false
+    },
+    {
+      "event": "Beckenham Place",
+      "date": "17/05/2025",
+      "position": "198",
+      "time": "28:30",
+      "ageGrade": "47.54%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "10/05/2025",
+      "position": "59",
+      "time": "25:12",
+      "ageGrade": "53.77%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "03/05/2025",
+      "position": "104",
+      "time": "28:25",
+      "ageGrade": "47.68%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "26/04/2025",
+      "position": "166",
+      "time": "32:22",
+      "ageGrade": "41.86%",
+      "isPB": false
+    },
+    {
+      "event": "Galup Reserve",
+      "date": "12/04/2025",
+      "position": "150",
+      "time": "28:01",
+      "ageGrade": "48.36%",
+      "isPB": false
+    },
+    {
+      "event": "Woodbridge Riverside",
+      "date": "05/04/2025",
+      "position": "68",
+      "time": "26:23",
+      "ageGrade": "51.36%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "29/03/2025",
+      "position": "69",
+      "time": "33:56",
+      "ageGrade": "39.93%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "22/03/2025",
+      "position": "127",
+      "time": "30:52",
+      "ageGrade": "43.90%",
+      "isPB": false
+    },
+    {
+      "event": "Harrow Lodge",
+      "date": "08/03/2025",
+      "position": "150",
+      "time": "53:52",
+      "ageGrade": "25.15%",
+      "isPB": false
+    },
+    {
+      "event": "Beckton",
+      "date": "01/03/2025",
+      "position": "25",
+      "time": "30:03",
+      "ageGrade": "45.09%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "15/02/2025",
+      "position": "104",
+      "time": "31:29",
+      "ageGrade": "43.04%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "08/02/2025",
+      "position": "103",
+      "time": "34:14",
+      "ageGrade": "39.58%",
+      "isPB": false
+    },
+    {
+      "event": "Ally Pally",
+      "date": "01/02/2025",
+      "position": "221",
+      "time": "30:47",
+      "ageGrade": "44.02%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "25/01/2025",
+      "position": "43",
+      "time": "31:46",
+      "ageGrade": "42.65%",
+      "isPB": false
+    },
+    {
+      "event": "Beckenham Place",
+      "date": "18/01/2025",
+      "position": "259",
+      "time": "34:14",
+      "ageGrade": "39.58%",
+      "isPB": false
+    },
+    {
+      "event": "Bethlem Royal Hospital",
+      "date": "11/01/2025",
+      "position": "96",
+      "time": "30:17",
+      "ageGrade": "44.74%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "04/01/2025",
+      "position": "548",
+      "time": "30:35",
+      "ageGrade": "44.31%",
+      "isPB": false
+    },
+    {
+      "event": "South Norwood",
+      "date": "01/01/2025",
+      "position": "152",
+      "time": "36:14",
+      "ageGrade": "37.40%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 52,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "24:33",
+    "uniqueEvents": 21
+  }
+}

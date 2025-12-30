@@ -1,0 +1,318 @@
+{
+  "runnerInfo": {
+    "name": "Sam MANKTELOW (A5869803)"
+  },
+  "runs": [
+    {
+      "event": "Wakehurst",
+      "date": "27/12/2025",
+      "position": "53",
+      "time": "22:48",
+      "ageGrade": "57.53%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "20/12/2025",
+      "position": "114",
+      "time": "22:24",
+      "ageGrade": "58.56%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "13/12/2025",
+      "position": "125",
+      "time": "22:22",
+      "ageGrade": "58.64%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "29/11/2025",
+      "position": "135",
+      "time": "23:30",
+      "ageGrade": "55.82%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "22/11/2025",
+      "position": "103",
+      "time": "21:46",
+      "ageGrade": "60.26%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "15/11/2025",
+      "position": "112",
+      "time": "23:02",
+      "ageGrade": "56.95%",
+      "isPB": false
+    },
+    {
+      "event": "Downs Link, Shoreham-by-Sea",
+      "date": "18/10/2025",
+      "position": "55",
+      "time": "22:09",
+      "ageGrade": "59.22%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "27/09/2025",
+      "position": "91",
+      "time": "21:40",
+      "ageGrade": "60.54%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "20/09/2025",
+      "position": "171",
+      "time": "23:55",
+      "ageGrade": "54.84%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "13/09/2025",
+      "position": "111",
+      "time": "22:09",
+      "ageGrade": "59.22%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "30/08/2025",
+      "position": "104",
+      "time": "21:34",
+      "ageGrade": "60.82%",
+      "isPB": false
+    },
+    {
+      "event": "New Earswick",
+      "date": "23/08/2025",
+      "position": "43",
+      "time": "23:42",
+      "ageGrade": "55.34%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "16/08/2025",
+      "position": "155",
+      "time": "23:02",
+      "ageGrade": "56.95%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "09/08/2025",
+      "position": "229",
+      "time": "25:25",
+      "ageGrade": "51.61%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "02/08/2025",
+      "position": "67",
+      "time": "21:27",
+      "ageGrade": "61.15%",
+      "isPB": false
+    },
+    {
+      "event": "New Earswick",
+      "date": "26/07/2025",
+      "position": "23",
+      "time": "21:32",
+      "ageGrade": "60.91%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "19/07/2025",
+      "position": "82",
+      "time": "22:15",
+      "ageGrade": "58.95%",
+      "isPB": false
+    },
+    {
+      "event": "Armley",
+      "date": "12/07/2025",
+      "position": "43",
+      "time": "23:40",
+      "ageGrade": "55.42%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "05/07/2025",
+      "position": "129",
+      "time": "22:35",
+      "ageGrade": "58.08%",
+      "isPB": false
+    },
+    {
+      "event": "New Earswick",
+      "date": "14/06/2025",
+      "position": "27",
+      "time": "22:15",
+      "ageGrade": "58.95%",
+      "isPB": false
+    },
+    {
+      "event": "New Earswick",
+      "date": "31/05/2025",
+      "position": "25",
+      "time": "22:09",
+      "ageGrade": "59.22%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "24/05/2025",
+      "position": "97",
+      "time": "21:57",
+      "ageGrade": "59.76%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "17/05/2025",
+      "position": "73",
+      "time": "21:43",
+      "ageGrade": "60.40%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "10/05/2025",
+      "position": "90",
+      "time": "21:44",
+      "ageGrade": "60.35%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "03/05/2025",
+      "position": "106",
+      "time": "22:28",
+      "ageGrade": "58.38%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "12/04/2025",
+      "position": "90",
+      "time": "21:31",
+      "ageGrade": "60.96%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "05/04/2025",
+      "position": "78",
+      "time": "21:26",
+      "ageGrade": "61.20%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "22/03/2025",
+      "position": "66",
+      "time": "21:25",
+      "ageGrade": "60.93%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "15/03/2025",
+      "position": "62",
+      "time": "21:03",
+      "ageGrade": "62.00%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "08/03/2025",
+      "position": "106",
+      "time": "21:43",
+      "ageGrade": "60.09%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "01/03/2025",
+      "position": "70",
+      "time": "20:17",
+      "ageGrade": "64.34%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "15/02/2025",
+      "position": "77",
+      "time": "21:28",
+      "ageGrade": "60.79%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "08/02/2025",
+      "position": "79",
+      "time": "20:53",
+      "ageGrade": "62.49%",
+      "isPB": false
+    },
+    {
+      "event": "Beverley Westwood",
+      "date": "01/02/2025",
+      "position": "19",
+      "time": "22:22",
+      "ageGrade": "58.35%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "25/01/2025",
+      "position": "81",
+      "time": "21:08",
+      "ageGrade": "61.75%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "18/01/2025",
+      "position": "82",
+      "time": "21:40",
+      "ageGrade": "60.23%",
+      "isPB": false
+    },
+    {
+      "event": "Beverley Westwood",
+      "date": "11/01/2025",
+      "position": "53",
+      "time": "21:47",
+      "ageGrade": "59.91%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "04/01/2025",
+      "position": "77",
+      "time": "21:38",
+      "ageGrade": "60.32%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 38,
+    "firstRun": "04/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "20:17",
+    "uniqueEvents": 6
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "runnerInfo": {
+    "name": "Julia GORDON (A293223)"
+  },
+  "runs": [
+    {
+      "event": "Lower Hutt",
+      "date": "27/12/2025",
+      "position": "299",
+      "time": "1:00:39",
+      "ageGrade": "37.32%",
+      "isPB": false
+    },
+    {
+      "event": "Lower Hutt",
+      "date": "25/12/2025",
+      "position": "379",
+      "time": "54:51",
+      "ageGrade": "41.26%",
+      "isPB": false
+    },
+    {
+      "event": "Trentham Memorial",
+      "date": "20/12/2025",
+      "position": "222",
+      "time": "44:08",
+      "ageGrade": "51.28%",
+      "isPB": false
+    },
+    {
+      "event": "Kapiti Coast",
+      "date": "13/12/2025",
+      "position": "143",
+      "time": "46:59",
+      "ageGrade": "48.17%",
+      "isPB": false
+    },
+    {
+      "event": "Palmerston North",
+      "date": "06/12/2025",
+      "position": "357",
+      "time": "1:01:00",
+      "ageGrade": "37.10%",
+      "isPB": false
+    },
+    {
+      "event": "Porirua",
+      "date": "29/11/2025",
+      "position": "139",
+      "time": "45:31",
+      "ageGrade": "49.73%",
+      "isPB": false
+    },
+    {
+      "event": "Parrs Park",
+      "date": "22/11/2025",
+      "position": "101",
+      "time": "49:26",
+      "ageGrade": "45.79%",
+      "isPB": false
+    },
+    {
+      "event": "Ōtaki River",
+      "date": "15/11/2025",
+      "position": "56",
+      "time": "55:42",
+      "ageGrade": "40.63%",
+      "isPB": false
+    },
+    {
+      "event": "Caffarella",
+      "date": "08/11/2025",
+      "position": "74",
+      "time": "48:15",
+      "ageGrade": "46.91%",
+      "isPB": false
+    },
+    {
+      "event": "Hellbrunn",
+      "date": "01/11/2025",
+      "position": "35",
+      "time": "49:00",
+      "ageGrade": "46.19%",
+      "isPB": false
+    },
+    {
+      "event": "Beatrixpark",
+      "date": "25/10/2025",
+      "position": "26",
+      "time": "49:25",
+      "ageGrade": "45.80%",
+      "isPB": false
+    },
+    {
+      "event": "Greytown Woodside Trail",
+      "date": "18/10/2025",
+      "position": "52",
+      "time": "46:31",
+      "ageGrade": "48.66%",
+      "isPB": false
+    },
+    {
+      "event": "Tuff Crater Reserve",
+      "date": "11/10/2025",
+      "position": "129",
+      "time": "49:07",
+      "ageGrade": "46.08%",
+      "isPB": false
+    },
+    {
+      "event": "Whanganui Riverbank",
+      "date": "04/10/2025",
+      "position": "80",
+      "time": "46:37",
+      "ageGrade": "47.77%",
+      "isPB": false
+    },
+    {
+      "event": "Henley Lake",
+      "date": "27/09/2025",
+      "position": "135",
+      "time": "1:12:19",
+      "ageGrade": "30.79%",
+      "isPB": false
+    },
+    {
+      "event": "Alice Springs Telegraph Station",
+      "date": "20/09/2025",
+      "position": "55",
+      "time": "47:09",
+      "ageGrade": "47.23%",
+      "isPB": false
+    },
+    {
+      "event": "Kununurra",
+      "date": "13/09/2025",
+      "position": "46",
+      "time": "49:27",
+      "ageGrade": "45.03%",
+      "isPB": false
+    },
+    {
+      "event": "Darwin",
+      "date": "06/09/2025",
+      "position": "128",
+      "time": "49:40",
+      "ageGrade": "44.83%",
+      "isPB": false
+    },
+    {
+      "event": "Jeune Park",
+      "date": "30/08/2025",
+      "position": "31",
+      "time": "46:23",
+      "ageGrade": "48.01%",
+      "isPB": false
+    },
+    {
+      "event": "Gainsborough Parklands",
+      "date": "23/08/2025",
+      "position": "109",
+      "time": "44:11",
+      "ageGrade": "50.40%",
+      "isPB": false
+    },
+    {
+      "event": "Western Springs",
+      "date": "09/08/2025",
+      "position": "242",
+      "time": "45:23",
+      "ageGrade": "49.06%",
+      "isPB": false
+    },
+    {
+      "event": "Ara Harakeke",
+      "date": "26/07/2025",
+      "position": "66",
+      "time": "47:14",
+      "ageGrade": "47.14%",
+      "isPB": false
+    },
+    {
+      "event": "Lost Lagoon",
+      "date": "19/07/2025",
+      "position": "35",
+      "time": "55:47",
+      "ageGrade": "39.92%",
+      "isPB": false
+    },
+    {
+      "event": "Ōroua River Walkway",
+      "date": "12/07/2025",
+      "position": "83",
+      "time": "46:42",
+      "ageGrade": "47.68%",
+      "isPB": false
+    },
+    {
+      "event": "Lower Hutt",
+      "date": "05/07/2025",
+      "position": "166",
+      "time": "47:06",
+      "ageGrade": "47.28%",
+      "isPB": false
+    },
+    {
+      "event": "Te Awa",
+      "date": "21/06/2025",
+      "position": "200",
+      "time": "46:22",
+      "ageGrade": "48.02%",
+      "isPB": false
+    },
+    {
+      "event": "Riverlution",
+      "date": "14/06/2025",
+      "position": "398",
+      "time": "48:06",
+      "ageGrade": "46.29%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "07/06/2025",
+      "position": "190",
+      "time": "46:16",
+      "ageGrade": "48.13%",
+      "isPB": false
+    },
+    {
+      "event": "Aspen",
+      "date": "31/05/2025",
+      "position": "22",
+      "time": "54:02",
+      "ageGrade": "41.21%",
+      "isPB": false
+    },
+    {
+      "event": "Coal Creek Trail",
+      "date": "24/05/2025",
+      "position": "32",
+      "time": "47:39",
+      "ageGrade": "46.73%",
+      "isPB": false
+    },
+    {
+      "event": "Jan Alfano Trail",
+      "date": "17/05/2025",
+      "position": "22",
+      "time": "48:59",
+      "ageGrade": "45.46%",
+      "isPB": false
+    },
+    {
+      "event": "Caroline Bay",
+      "date": "03/05/2025",
+      "position": "109",
+      "time": "45:40",
+      "ageGrade": "48.76%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "26/04/2025",
+      "position": "412",
+      "time": "48:48",
+      "ageGrade": "45.63%",
+      "isPB": false
+    },
+    {
+      "event": "Golden Beach",
+      "date": "19/04/2025",
+      "position": "413",
+      "time": "48:50",
+      "ageGrade": "45.60%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "12/04/2025",
+      "position": "461",
+      "time": "58:33",
+      "ageGrade": "38.03%",
+      "isPB": false
+    },
+    {
+      "event": "Ara Harakeke",
+      "date": "05/04/2025",
+      "position": "109",
+      "time": "43:46",
+      "ageGrade": "50.88%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "29/03/2025",
+      "position": "487",
+      "time": "1:08:40",
+      "ageGrade": "32.43%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "22/03/2025",
+      "position": "398",
+      "time": "44:14",
+      "ageGrade": "50.34%",
+      "isPB": false
+    },
+    {
+      "event": "Lower Hutt",
+      "date": "15/03/2025",
+      "position": "424",
+      "time": "53:42",
+      "ageGrade": "41.46%",
+      "isPB": false
+    },
+    {
+      "event": "East Otago High School",
+      "date": "08/03/2025",
+      "position": "7",
+      "time": "47:53",
+      "ageGrade": "46.50%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "01/03/2025",
+      "position": "437",
+      "time": "44:44",
+      "ageGrade": "49.78%",
+      "isPB": false
+    },
+    {
+      "event": "Ara Harakeke",
+      "date": "08/02/2025",
+      "position": "162",
+      "time": "42:51",
+      "ageGrade": "51.96%",
+      "isPB": false
+    },
+    {
+      "event": "Waitangi",
+      "date": "01/02/2025",
+      "position": "435",
+      "time": "44:13",
+      "ageGrade": "50.36%",
+      "isPB": false
+    },
+    {
+      "event": "Ara Harakeke",
+      "date": "25/01/2025",
+      "position": "180",
+      "time": "53:36",
+      "ageGrade": "41.54%",
+      "isPB": false
+    },
+    {
+      "event": "Lower Hutt",
+      "date": "04/01/2025",
+      "position": "136",
+      "time": "47:34",
+      "ageGrade": "46.81%",
+      "isPB": false
+    },
+    {
+      "event": "Ara Harakeke",
+      "date": "01/01/2025",
+      "position": "50",
+      "time": "43:26",
+      "ageGrade": "51.27%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 46,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "42:51",
+    "uniqueEvents": 32
+  }
+}

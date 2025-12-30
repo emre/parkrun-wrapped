@@ -1,0 +1,254 @@
+{
+  "runnerInfo": {
+    "name": "Navid MOGHADDAS (A7864799)"
+  },
+  "runs": [
+    {
+      "event": "Medina I.O.W.",
+      "date": "27/12/2025",
+      "position": "247",
+      "time": "36:36",
+      "ageGrade": "35.43%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "20/12/2025",
+      "position": "509",
+      "time": "36:45",
+      "ageGrade": "35.28%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "06/12/2025",
+      "position": "446",
+      "time": "38:31",
+      "ageGrade": "33.67%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "15/11/2025",
+      "position": "483",
+      "time": "37:11",
+      "ageGrade": "34.87%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "08/11/2025",
+      "position": "570",
+      "time": "37:11",
+      "ageGrade": "34.87%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "25/10/2025",
+      "position": "444",
+      "time": "36:22",
+      "ageGrade": "35.66%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "18/10/2025",
+      "position": "477",
+      "time": "35:30",
+      "ageGrade": "36.53%",
+      "isPB": false
+    },
+    {
+      "event": "Beccles Quay",
+      "date": "04/10/2025",
+      "position": "258",
+      "time": "39:26",
+      "ageGrade": "32.88%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "27/09/2025",
+      "position": "174",
+      "time": "39:00",
+      "ageGrade": "33.25%",
+      "isPB": false
+    },
+    {
+      "event": "Great Yarmouth North Beach",
+      "date": "20/09/2025",
+      "position": "55",
+      "time": "44:17",
+      "ageGrade": "29.28%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "13/09/2025",
+      "position": "113",
+      "time": "38:55",
+      "ageGrade": "33.32%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "30/08/2025",
+      "position": "122",
+      "time": "34:20",
+      "ageGrade": "37.77%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "23/08/2025",
+      "position": "130",
+      "time": "35:18",
+      "ageGrade": "36.73%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "16/08/2025",
+      "position": "115",
+      "time": "33:32",
+      "ageGrade": "38.67%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "09/08/2025",
+      "position": "132",
+      "time": "34:51",
+      "ageGrade": "37.21%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "26/07/2025",
+      "position": "96",
+      "time": "31:52",
+      "ageGrade": "40.69%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "19/07/2025",
+      "position": "354",
+      "time": "31:33",
+      "ageGrade": "41.10%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "12/07/2025",
+      "position": "131",
+      "time": "31:29",
+      "ageGrade": "41.19%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "28/06/2025",
+      "position": "424",
+      "time": "31:50",
+      "ageGrade": "40.73%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "21/06/2025",
+      "position": "389",
+      "time": "31:58",
+      "ageGrade": "40.56%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "14/06/2025",
+      "position": "141",
+      "time": "33:18",
+      "ageGrade": "38.94%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "07/06/2025",
+      "position": "173",
+      "time": "33:54",
+      "ageGrade": "38.25%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "24/05/2025",
+      "position": "430",
+      "time": "34:56",
+      "ageGrade": "37.02%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "26/04/2025",
+      "position": "152",
+      "time": "31:55",
+      "ageGrade": "40.52%",
+      "isPB": false
+    },
+    {
+      "event": "Fælledparken",
+      "date": "12/04/2025",
+      "position": "106",
+      "time": "32:35",
+      "ageGrade": "39.69%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "29/03/2025",
+      "position": "477",
+      "time": "33:06",
+      "ageGrade": "39.07%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "22/02/2025",
+      "position": "392",
+      "time": "31:29",
+      "ageGrade": "41.08%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "15/02/2025",
+      "position": "451",
+      "time": "33:07",
+      "ageGrade": "39.05%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "01/02/2025",
+      "position": "504",
+      "time": "32:50",
+      "ageGrade": "39.39%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "25/01/2025",
+      "position": "490",
+      "time": "33:15",
+      "ageGrade": "38.90%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 30,
+    "firstRun": "25/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "31:29",
+    "uniqueEvents": 6
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "runnerInfo": {
+    "name": "Kian MOGHADDAS (A7856219)"
+  },
+  "runs": [
+    {
+      "event": "Medina I.O.W.",
+      "date": "27/12/2025",
+      "position": "72",
+      "time": "27:02",
+      "ageGrade": "47.72%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "25/12/2025",
+      "position": "193",
+      "time": "23:10",
+      "ageGrade": "55.68%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "20/12/2025",
+      "position": "61",
+      "time": "24:11",
+      "ageGrade": "53.34%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "13/12/2025",
+      "position": "123",
+      "time": "27:21",
+      "ageGrade": "47.17%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "22/11/2025",
+      "position": "69",
+      "time": "25:13",
+      "ageGrade": "51.16%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "15/11/2025",
+      "position": "56",
+      "time": "22:28",
+      "ageGrade": "57.42%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "08/11/2025",
+      "position": "79",
+      "time": "24:57",
+      "ageGrade": "51.70%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "01/11/2025",
+      "position": "89",
+      "time": "25:44",
+      "ageGrade": "50.13%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "25/10/2025",
+      "position": "125",
+      "time": "28:03",
+      "ageGrade": "45.99%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "18/10/2025",
+      "position": "79",
+      "time": "24:55",
+      "ageGrade": "51.77%",
+      "isPB": false
+    },
+    {
+      "event": "Hampstead Heath",
+      "date": "11/10/2025",
+      "position": "195",
+      "time": "26:38",
+      "ageGrade": "48.44%",
+      "isPB": false
+    },
+    {
+      "event": "Fitzmaurice Park",
+      "date": "27/09/2025",
+      "position": "51",
+      "time": "24:50",
+      "ageGrade": "51.95%",
+      "isPB": false
+    },
+    {
+      "event": "Jamaica Pond",
+      "date": "24/05/2025",
+      "position": "29",
+      "time": "24:07",
+      "ageGrade": "53.49%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "08/03/2025",
+      "position": "20",
+      "time": "20:54",
+      "ageGrade": "61.72%",
+      "isPB": false
+    },
+    {
+      "event": "Brundall",
+      "date": "01/03/2025",
+      "position": "9",
+      "time": "21:33",
+      "ageGrade": "59.86%",
+      "isPB": false
+    },
+    {
+      "event": "University Parks",
+      "date": "22/02/2025",
+      "position": "86",
+      "time": "21:43",
+      "ageGrade": "59.40%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "15/02/2025",
+      "position": "38",
+      "time": "21:10",
+      "ageGrade": "60.94%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "08/02/2025",
+      "position": "33",
+      "time": "21:48",
+      "ageGrade": "59.17%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "25/01/2025",
+      "position": "63",
+      "time": "23:43",
+      "ageGrade": "54.39%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "18/01/2025",
+      "position": "68",
+      "time": "21:51",
+      "ageGrade": "59.04%",
+      "isPB": false
+    },
+    {
+      "event": "Norwich",
+      "date": "11/01/2025",
+      "position": "142",
+      "time": "24:40",
+      "ageGrade": "52.30%",
+      "isPB": false
+    },
+    {
+      "event": "Lordship Recreation Ground",
+      "date": "04/01/2025",
+      "position": "85",
+      "time": "25:25",
+      "ageGrade": "50.75%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 22,
+    "firstRun": "04/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "20:54",
+    "uniqueEvents": 8
+  }
+}

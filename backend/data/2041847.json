@@ -1,0 +1,446 @@
+{
+  "runnerInfo": {
+    "name": "Tom FEILDING (A2041847)"
+  },
+  "runs": [
+    {
+      "event": "Linford Wood",
+      "date": "27/12/2025",
+      "position": "306",
+      "time": "44:02",
+      "ageGrade": "32.21%",
+      "isPB": false
+    },
+    {
+      "event": "Watermeadows",
+      "date": "25/12/2025",
+      "position": "323",
+      "time": "39:50",
+      "ageGrade": "35.61%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "20/12/2025",
+      "position": "392",
+      "time": "43:31",
+      "ageGrade": "32.59%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "13/12/2025",
+      "position": "397",
+      "time": "43:47",
+      "ageGrade": "32.39%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "06/12/2025",
+      "position": "302",
+      "time": "44:37",
+      "ageGrade": "31.79%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "29/11/2025",
+      "position": "383",
+      "time": "58:32",
+      "ageGrade": "24.23%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "22/11/2025",
+      "position": "354",
+      "time": "42:53",
+      "ageGrade": "33.07%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "15/11/2025",
+      "position": "500",
+      "time": "43:29",
+      "ageGrade": "32.62%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "08/11/2025",
+      "position": "440",
+      "time": "44:36",
+      "ageGrade": "31.80%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/11/2025",
+      "position": "473",
+      "time": "45:44",
+      "ageGrade": "31.01%",
+      "isPB": false
+    },
+    {
+      "event": "Burnham and Highbridge",
+      "date": "25/10/2025",
+      "position": "303",
+      "time": "41:31",
+      "ageGrade": "34.16%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "18/10/2025",
+      "position": "449",
+      "time": "45:17",
+      "ageGrade": "31.32%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "11/10/2025",
+      "position": "445",
+      "time": "54:00",
+      "ageGrade": "26.27%",
+      "isPB": false
+    },
+    {
+      "event": "Georgengarten",
+      "date": "04/10/2025",
+      "position": "80",
+      "time": "42:48",
+      "ageGrade": "33.14%",
+      "isPB": false
+    },
+    {
+      "event": "Alstervorland",
+      "date": "03/10/2025",
+      "position": "339",
+      "time": "41:22",
+      "ageGrade": "34.29%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "27/09/2025",
+      "position": "505",
+      "time": "59:22",
+      "ageGrade": "23.89%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "20/09/2025",
+      "position": "458",
+      "time": "43:27",
+      "ageGrade": "32.64%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "13/09/2025",
+      "position": "432",
+      "time": "44:43",
+      "ageGrade": "31.72%",
+      "isPB": false
+    },
+    {
+      "event": "Simmons Park",
+      "date": "06/09/2025",
+      "position": "140",
+      "time": "41:39",
+      "ageGrade": "34.05%",
+      "isPB": false
+    },
+    {
+      "event": "Quakers Walk",
+      "date": "30/08/2025",
+      "position": "195",
+      "time": "42:37",
+      "ageGrade": "33.28%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "23/08/2025",
+      "position": "438",
+      "time": "59:47",
+      "ageGrade": "23.72%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "16/08/2025",
+      "position": "381",
+      "time": "44:20",
+      "ageGrade": "31.99%",
+      "isPB": false
+    },
+    {
+      "event": "Milton Keynes",
+      "date": "09/08/2025",
+      "position": "656",
+      "time": "40:18",
+      "ageGrade": "35.19%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "02/08/2025",
+      "position": "469",
+      "time": "1:08:27",
+      "ageGrade": "20.72%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "19/07/2025",
+      "position": "378",
+      "time": "43:01",
+      "ageGrade": "32.97%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "12/07/2025",
+      "position": "272",
+      "time": "45:16",
+      "ageGrade": "31.33%",
+      "isPB": false
+    },
+    {
+      "event": "Brickfields Park",
+      "date": "05/07/2025",
+      "position": "238",
+      "time": "40:18",
+      "ageGrade": "35.19%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "28/06/2025",
+      "position": "395",
+      "time": "41:37",
+      "ageGrade": "34.08%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "21/06/2025",
+      "position": "308",
+      "time": "42:48",
+      "ageGrade": "33.14%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "14/06/2025",
+      "position": "415",
+      "time": "46:51",
+      "ageGrade": "30.27%",
+      "isPB": false
+    },
+    {
+      "event": "Kralingse Bos",
+      "date": "09/06/2025",
+      "position": "277",
+      "time": "38:55",
+      "ageGrade": "36.45%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "07/06/2025",
+      "position": "518",
+      "time": "41:19",
+      "ageGrade": "34.33%",
+      "isPB": false
+    },
+    {
+      "event": "Haga",
+      "date": "31/05/2025",
+      "position": "246",
+      "time": "42:21",
+      "ageGrade": "33.49%",
+      "isPB": false
+    },
+    {
+      "event": "Tøyen",
+      "date": "29/05/2025",
+      "position": "278",
+      "time": "41:17",
+      "ageGrade": "34.36%",
+      "isPB": false
+    },
+    {
+      "event": "Clevedon Salthouse Fields",
+      "date": "24/05/2025",
+      "position": "351",
+      "time": "39:37",
+      "ageGrade": "35.51%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "17/05/2025",
+      "position": "411",
+      "time": "42:41",
+      "ageGrade": "32.96%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "10/05/2025",
+      "position": "390",
+      "time": "44:30",
+      "ageGrade": "31.61%",
+      "isPB": false
+    },
+    {
+      "event": "Bedfont Lakes",
+      "date": "03/05/2025",
+      "position": "160",
+      "time": "49:59",
+      "ageGrade": "28.14%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "12/04/2025",
+      "position": "393",
+      "time": "54:27",
+      "ageGrade": "25.83%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "05/04/2025",
+      "position": "445",
+      "time": "42:04",
+      "ageGrade": "33.44%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "29/03/2025",
+      "position": "472",
+      "time": "42:09",
+      "ageGrade": "33.37%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "22/03/2025",
+      "position": "482",
+      "time": "40:48",
+      "ageGrade": "34.48%",
+      "isPB": false
+    },
+    {
+      "event": "South Manchester",
+      "date": "15/03/2025",
+      "position": "566",
+      "time": "43:49",
+      "ageGrade": "32.10%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "08/03/2025",
+      "position": "444",
+      "time": "43:21",
+      "ageGrade": "32.45%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/03/2025",
+      "position": "543",
+      "time": "58:48",
+      "ageGrade": "23.92%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "22/02/2025",
+      "position": "447",
+      "time": "42:47",
+      "ageGrade": "32.88%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "15/02/2025",
+      "position": "350",
+      "time": "43:33",
+      "ageGrade": "32.30%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "08/02/2025",
+      "position": "430",
+      "time": "41:15",
+      "ageGrade": "34.10%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/02/2025",
+      "position": "536",
+      "time": "41:41",
+      "ageGrade": "33.75%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "25/01/2025",
+      "position": "576",
+      "time": "1:03:10",
+      "ageGrade": "22.27%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "18/01/2025",
+      "position": "561",
+      "time": "41:55",
+      "ageGrade": "33.56%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "11/01/2025",
+      "position": "553",
+      "time": "40:33",
+      "ageGrade": "34.69%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "04/01/2025",
+      "position": "528",
+      "time": "42:35",
+      "ageGrade": "33.03%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "01/01/2025",
+      "position": "472",
+      "time": "44:20",
+      "ageGrade": "31.73%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 54,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "38:55",
+    "uniqueEvents": 17
+  }
+}
