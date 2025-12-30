@@ -1,0 +1,438 @@
+{
+  "runnerInfo": {
+    "name": "Simon GOSNEY (A1167826)"
+  },
+  "runs": [
+    {
+      "event": "Salisbury",
+      "date": "27/12/2025",
+      "position": "138",
+      "time": "24:28",
+      "ageGrade": "60.76%",
+      "isPB": true
+    },
+    {
+      "event": "Lloyd",
+      "date": "20/12/2025",
+      "position": "44",
+      "time": "27:23",
+      "ageGrade": "54.29%",
+      "isPB": false
+    },
+    {
+      "event": "Banstead Woods",
+      "date": "13/12/2025",
+      "position": "65",
+      "time": "25:36",
+      "ageGrade": "58.07%",
+      "isPB": true
+    },
+    {
+      "event": "Bromley",
+      "date": "06/12/2025",
+      "position": "170",
+      "time": "23:21",
+      "ageGrade": "63.67%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "29/11/2025",
+      "position": "138",
+      "time": "22:59",
+      "ageGrade": "64.68%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "22/11/2025",
+      "position": "122",
+      "time": "22:59",
+      "ageGrade": "64.68%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "15/11/2025",
+      "position": "93",
+      "time": "22:53",
+      "ageGrade": "64.97%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "08/11/2025",
+      "position": "131",
+      "time": "23:07",
+      "ageGrade": "64.31%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "01/11/2025",
+      "position": "156",
+      "time": "23:14",
+      "ageGrade": "63.99%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "25/10/2025",
+      "position": "151",
+      "time": "23:23",
+      "ageGrade": "63.58%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "18/10/2025",
+      "position": "171",
+      "time": "23:11",
+      "ageGrade": "64.13%",
+      "isPB": false
+    },
+    {
+      "event": "Cornerstone Lakes",
+      "date": "11/10/2025",
+      "position": "40",
+      "time": "22:49",
+      "ageGrade": "65.16%",
+      "isPB": false
+    },
+    {
+      "event": "White Lick Creek",
+      "date": "04/10/2025",
+      "position": "4",
+      "time": "23:06",
+      "ageGrade": "64.36%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "27/09/2025",
+      "position": "124",
+      "time": "22:27",
+      "ageGrade": "66.22%",
+      "isPB": false
+    },
+    {
+      "event": "Sittingbourne",
+      "date": "20/09/2025",
+      "position": "30",
+      "time": "24:01",
+      "ageGrade": "61.90%",
+      "isPB": false
+    },
+    {
+      "event": "Ashford",
+      "date": "13/09/2025",
+      "position": "51",
+      "time": "23:15",
+      "ageGrade": "63.94%",
+      "isPB": false
+    },
+    {
+      "event": "Margate",
+      "date": "06/09/2025",
+      "position": "38",
+      "time": "23:11",
+      "ageGrade": "64.13%",
+      "isPB": false
+    },
+    {
+      "event": "Whitstable",
+      "date": "30/08/2025",
+      "position": "51",
+      "time": "23:23",
+      "ageGrade": "63.58%",
+      "isPB": false
+    },
+    {
+      "event": "Harlow",
+      "date": "23/08/2025",
+      "position": "34",
+      "time": "23:32",
+      "ageGrade": "63.17%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "16/08/2025",
+      "position": "134",
+      "time": "22:44",
+      "ageGrade": "65.40%",
+      "isPB": false
+    },
+    {
+      "event": "South Oxhey",
+      "date": "09/08/2025",
+      "position": "10",
+      "time": "23:31",
+      "ageGrade": "63.22%",
+      "isPB": false
+    },
+    {
+      "event": "Grovelands",
+      "date": "02/08/2025",
+      "position": "40",
+      "time": "23:24",
+      "ageGrade": "63.53%",
+      "isPB": true
+    },
+    {
+      "event": "Egham Orbit",
+      "date": "26/07/2025",
+      "position": "21",
+      "time": "23:42",
+      "ageGrade": "62.73%",
+      "isPB": false
+    },
+    {
+      "event": "Maidenhead",
+      "date": "19/07/2025",
+      "position": "62",
+      "time": "25:14",
+      "ageGrade": "58.92%",
+      "isPB": false
+    },
+    {
+      "event": "Worthing",
+      "date": "12/07/2025",
+      "position": "75",
+      "time": "21:54",
+      "ageGrade": "67.88%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "05/07/2025",
+      "position": "115",
+      "time": "22:12",
+      "ageGrade": "66.97%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "28/06/2025",
+      "position": "102",
+      "time": "22:42",
+      "ageGrade": "65.49%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "21/06/2025",
+      "position": "90",
+      "time": "22:24",
+      "ageGrade": "66.37%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "14/06/2025",
+      "position": "77",
+      "time": "22:07",
+      "ageGrade": "66.69%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "07/06/2025",
+      "position": "124",
+      "time": "22:04",
+      "ageGrade": "66.84%",
+      "isPB": true
+    },
+    {
+      "event": "Southwark",
+      "date": "31/05/2025",
+      "position": "134",
+      "time": "23:12",
+      "ageGrade": "63.58%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "24/05/2025",
+      "position": "108",
+      "time": "22:18",
+      "ageGrade": "66.14%",
+      "isPB": true
+    },
+    {
+      "event": "Southwark",
+      "date": "17/05/2025",
+      "position": "98",
+      "time": "23:00",
+      "ageGrade": "64.13%",
+      "isPB": false
+    },
+    {
+      "event": "Southwark",
+      "date": "10/05/2025",
+      "position": "124",
+      "time": "22:42",
+      "ageGrade": "64.98%",
+      "isPB": false
+    },
+    {
+      "event": "Southwark",
+      "date": "03/05/2025",
+      "position": "122",
+      "time": "22:48",
+      "ageGrade": "64.69%",
+      "isPB": false
+    },
+    {
+      "event": "Southwark",
+      "date": "26/04/2025",
+      "position": "113",
+      "time": "22:33",
+      "ageGrade": "65.41%",
+      "isPB": false
+    },
+    {
+      "event": "Southwark",
+      "date": "19/04/2025",
+      "position": "91",
+      "time": "23:52",
+      "ageGrade": "61.80%",
+      "isPB": false
+    },
+    {
+      "event": "Southwark",
+      "date": "12/04/2025",
+      "position": "128",
+      "time": "23:28",
+      "ageGrade": "62.86%",
+      "isPB": false
+    },
+    {
+      "event": "Bromley",
+      "date": "05/04/2025",
+      "position": "234",
+      "time": "24:06",
+      "ageGrade": "61.20%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "29/03/2025",
+      "position": "64",
+      "time": "26:20",
+      "ageGrade": "56.01%",
+      "isPB": false
+    },
+    {
+      "event": "Brockwell",
+      "date": "22/03/2025",
+      "position": "124",
+      "time": "24:48",
+      "ageGrade": "59.48%",
+      "isPB": true
+    },
+    {
+      "event": "Lloyd",
+      "date": "15/03/2025",
+      "position": "104",
+      "time": "29:18",
+      "ageGrade": "50.34%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "08/03/2025",
+      "position": "66",
+      "time": "28:52",
+      "ageGrade": "51.10%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "01/03/2025",
+      "position": "46",
+      "time": "28:57",
+      "ageGrade": "50.95%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "22/02/2025",
+      "position": "35",
+      "time": "29:29",
+      "ageGrade": "50.03%",
+      "isPB": false
+    },
+    {
+      "event": "Ingrebourne Hill",
+      "date": "15/02/2025",
+      "position": "60",
+      "time": "24:23",
+      "ageGrade": "60.49%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "08/02/2025",
+      "position": "46",
+      "time": "29:17",
+      "ageGrade": "50.37%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "01/02/2025",
+      "position": "42",
+      "time": "29:16",
+      "ageGrade": "50.40%",
+      "isPB": false
+    },
+    {
+      "event": "Battersea",
+      "date": "25/01/2025",
+      "position": "325",
+      "time": "23:44",
+      "ageGrade": "62.15%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "18/01/2025",
+      "position": "97",
+      "time": "29:22",
+      "ageGrade": "50.23%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "11/01/2025",
+      "position": "70",
+      "time": "28:19",
+      "ageGrade": "52.09%",
+      "isPB": false
+    },
+    {
+      "event": "Lloyd",
+      "date": "04/01/2025",
+      "position": "86",
+      "time": "28:50",
+      "ageGrade": "51.16%",
+      "isPB": false
+    },
+    {
+      "event": "Highbury Fields",
+      "date": "01/01/2025",
+      "position": "93",
+      "time": "24:38",
+      "ageGrade": "59.88%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 53,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "21:54",
+    "uniqueEvents": 21
+  }
+}

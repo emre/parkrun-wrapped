@@ -1,0 +1,214 @@
+{
+  "runnerInfo": {
+    "name": "Jim TAYLOR (A8795468)"
+  },
+  "runs": [
+    {
+      "event": "Pomphrey Hill",
+      "date": "27/12/2025",
+      "position": "114",
+      "time": "28:52",
+      "ageGrade": "49.48%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "25/12/2025",
+      "position": "341",
+      "time": "29:55",
+      "ageGrade": "47.74%",
+      "isPB": true
+    },
+    {
+      "event": "Quakers Walk",
+      "date": "20/12/2025",
+      "position": "71",
+      "time": "28:01",
+      "ageGrade": "50.98%",
+      "isPB": false
+    },
+    {
+      "event": "Three Brooks",
+      "date": "13/12/2025",
+      "position": "204",
+      "time": "29:10",
+      "ageGrade": "48.97%",
+      "isPB": false
+    },
+    {
+      "event": "Gloucester City",
+      "date": "06/12/2025",
+      "position": "111",
+      "time": "30:20",
+      "ageGrade": "47.09%",
+      "isPB": false
+    },
+    {
+      "event": "Mallards Pike",
+      "date": "22/11/2025",
+      "position": "74",
+      "time": "30:15",
+      "ageGrade": "47.22%",
+      "isPB": false
+    },
+    {
+      "event": "Lee-on-the-Solent",
+      "date": "15/11/2025",
+      "position": "477",
+      "time": "43:05",
+      "ageGrade": "33.15%",
+      "isPB": false
+    },
+    {
+      "event": "Y Promenâd",
+      "date": "08/11/2025",
+      "position": "39",
+      "time": "26:36",
+      "ageGrade": "53.70%",
+      "isPB": false
+    },
+    {
+      "event": "Kingsway",
+      "date": "01/11/2025",
+      "position": "125",
+      "time": "30:54",
+      "ageGrade": "46.22%",
+      "isPB": false
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "25/10/2025",
+      "position": "148",
+      "time": "26:04",
+      "ageGrade": "54.80%",
+      "isPB": false
+    },
+    {
+      "event": "Brickfields Park",
+      "date": "11/10/2025",
+      "position": "138",
+      "time": "27:42",
+      "ageGrade": "51.56%",
+      "isPB": false
+    },
+    {
+      "event": "Sharpham Road Playing Fields",
+      "date": "04/10/2025",
+      "position": "71",
+      "time": "30:01",
+      "ageGrade": "47.58%",
+      "isPB": false
+    },
+    {
+      "event": "Barnstaple",
+      "date": "27/09/2025",
+      "position": "72",
+      "time": "27:13",
+      "ageGrade": "52.48%",
+      "isPB": false
+    },
+    {
+      "event": "Newport",
+      "date": "20/09/2025",
+      "position": "76",
+      "time": "27:14",
+      "ageGrade": "52.45%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "13/09/2025",
+      "position": "375",
+      "time": "31:36",
+      "ageGrade": "45.20%",
+      "isPB": true
+    },
+    {
+      "event": "Worcester",
+      "date": "06/09/2025",
+      "position": "269",
+      "time": "29:30",
+      "ageGrade": "48.42%",
+      "isPB": false
+    },
+    {
+      "event": "Barry Island",
+      "date": "23/08/2025",
+      "position": "73",
+      "time": "27:35",
+      "ageGrade": "51.78%",
+      "isPB": false
+    },
+    {
+      "event": "Riverfront",
+      "date": "16/08/2025",
+      "position": "101",
+      "time": "27:33",
+      "ageGrade": "51.85%",
+      "isPB": false
+    },
+    {
+      "event": "Bushy Park",
+      "date": "09/08/2025",
+      "position": "640",
+      "time": "27:15",
+      "ageGrade": "52.42%",
+      "isPB": false
+    },
+    {
+      "event": "Clevedon Salthouse Fields",
+      "date": "19/07/2025",
+      "position": "204",
+      "time": "29:16",
+      "ageGrade": "48.80%",
+      "isPB": false
+    },
+    {
+      "event": "Five Arches",
+      "date": "05/07/2025",
+      "position": "63",
+      "time": "27:44",
+      "ageGrade": "51.50%",
+      "isPB": false
+    },
+    {
+      "event": "Blaise Castle",
+      "date": "14/06/2025",
+      "position": "200",
+      "time": "31:07",
+      "ageGrade": "45.58%",
+      "isPB": false
+    },
+    {
+      "event": "Marine Parade",
+      "date": "07/06/2025",
+      "position": "116",
+      "time": "29:15",
+      "ageGrade": "48.49%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "01/02/2025",
+      "position": "436",
+      "time": "33:34",
+      "ageGrade": "42.25%",
+      "isPB": true
+    },
+    {
+      "event": "Ashton Court",
+      "date": "25/01/2025",
+      "position": "460",
+      "time": "35:46",
+      "ageGrade": "39.66%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 25,
+    "firstRun": "25/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "26:04",
+    "uniqueEvents": 23
+  }
+}

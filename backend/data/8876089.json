@@ -1,0 +1,326 @@
+{
+  "runnerInfo": {
+    "name": "Shauna EVANS (A8876089)"
+  },
+  "runs": [
+    {
+      "event": "Coburg",
+      "date": "25/12/2025",
+      "position": "211",
+      "time": "32:12",
+      "ageGrade": "45.96%",
+      "isPB": false
+    },
+    {
+      "event": "Highlands",
+      "date": "20/12/2025",
+      "position": "40",
+      "time": "28:34",
+      "ageGrade": "51.81%",
+      "isPB": true
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "13/12/2025",
+      "position": "27",
+      "time": "30:31",
+      "ageGrade": "48.50%",
+      "isPB": false
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "06/12/2025",
+      "position": "36",
+      "time": "30:56",
+      "ageGrade": "47.84%",
+      "isPB": false
+    },
+    {
+      "event": "Mernda",
+      "date": "08/11/2025",
+      "position": "30",
+      "time": "29:39",
+      "ageGrade": "49.92%",
+      "isPB": true
+    },
+    {
+      "event": "Birdsland Reserve",
+      "date": "01/11/2025",
+      "position": "56",
+      "time": "28:55",
+      "ageGrade": "51.18%",
+      "isPB": false
+    },
+    {
+      "event": "Aurora",
+      "date": "18/10/2025",
+      "position": "26",
+      "time": "28:30",
+      "ageGrade": "51.93%",
+      "isPB": false
+    },
+    {
+      "event": "Red Hill Rail Trail",
+      "date": "11/10/2025",
+      "position": "40",
+      "time": "29:54",
+      "ageGrade": "49.50%",
+      "isPB": false
+    },
+    {
+      "event": "Belvedere",
+      "date": "04/10/2025",
+      "position": "71",
+      "time": "29:08",
+      "ageGrade": "50.80%",
+      "isPB": false
+    },
+    {
+      "event": "Wallaby Track",
+      "date": "27/09/2025",
+      "position": "34",
+      "time": "29:58",
+      "ageGrade": "49.39%",
+      "isPB": false
+    },
+    {
+      "event": "Lalor",
+      "date": "20/09/2025",
+      "position": "26",
+      "time": "30:57",
+      "ageGrade": "47.82%",
+      "isPB": false
+    },
+    {
+      "event": "Altona Beach",
+      "date": "06/09/2025",
+      "position": "64",
+      "time": "27:12",
+      "ageGrade": "54.41%",
+      "isPB": true
+    },
+    {
+      "event": "Parkville",
+      "date": "23/08/2025",
+      "position": "351",
+      "time": "29:30",
+      "ageGrade": "50.17%",
+      "isPB": false
+    },
+    {
+      "event": "Maribyrnong",
+      "date": "16/08/2025",
+      "position": "220",
+      "time": "29:23",
+      "ageGrade": "50.37%",
+      "isPB": false
+    },
+    {
+      "event": "Dixon Field",
+      "date": "02/08/2025",
+      "position": "36",
+      "time": "30:33",
+      "ageGrade": "48.45%",
+      "isPB": false
+    },
+    {
+      "event": "Mernda",
+      "date": "26/07/2025",
+      "position": "22",
+      "time": "30:31",
+      "ageGrade": "48.50%",
+      "isPB": false
+    },
+    {
+      "event": "Highlands",
+      "date": "19/07/2025",
+      "position": "22",
+      "time": "29:14",
+      "ageGrade": "50.63%",
+      "isPB": false
+    },
+    {
+      "event": "Albert Melbourne",
+      "date": "05/07/2025",
+      "position": "301",
+      "time": "28:33",
+      "ageGrade": "51.84%",
+      "isPB": false
+    },
+    {
+      "event": "Toolern Creek",
+      "date": "14/06/2025",
+      "position": "28",
+      "time": "27:55",
+      "ageGrade": "53.01%",
+      "isPB": true
+    },
+    {
+      "event": "Nightcliff",
+      "date": "07/06/2025",
+      "position": "173",
+      "time": "29:02",
+      "ageGrade": "50.98%",
+      "isPB": false
+    },
+    {
+      "event": "Darebin",
+      "date": "31/05/2025",
+      "position": "59",
+      "time": "28:51",
+      "ageGrade": "51.30%",
+      "isPB": false
+    },
+    {
+      "event": "Point Cook",
+      "date": "17/05/2025",
+      "position": "32",
+      "time": "27:37",
+      "ageGrade": "53.59%",
+      "isPB": true
+    },
+    {
+      "event": "Kirkdale Reserve",
+      "date": "03/05/2025",
+      "position": "117",
+      "time": "29:20",
+      "ageGrade": "50.45%",
+      "isPB": false
+    },
+    {
+      "event": "Peppertree",
+      "date": "26/04/2025",
+      "position": "21",
+      "time": "29:15",
+      "ageGrade": "50.60%",
+      "isPB": false
+    },
+    {
+      "event": "Highlands",
+      "date": "19/04/2025",
+      "position": "26",
+      "time": "28:43",
+      "ageGrade": "51.54%",
+      "isPB": true
+    },
+    {
+      "event": "Bannockburn Bush",
+      "date": "12/04/2025",
+      "position": "46",
+      "time": "29:16",
+      "ageGrade": "50.57%",
+      "isPB": false
+    },
+    {
+      "event": "Campaspe",
+      "date": "29/03/2025",
+      "position": "31",
+      "time": "31:38",
+      "ageGrade": "46.79%",
+      "isPB": false
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "22/03/2025",
+      "position": "33",
+      "time": "29:34",
+      "ageGrade": "50.06%",
+      "isPB": true
+    },
+    {
+      "event": "Wilson Botanic",
+      "date": "15/03/2025",
+      "position": "40",
+      "time": "33:37",
+      "ageGrade": "44.03%",
+      "isPB": false
+    },
+    {
+      "event": "You Yangs",
+      "date": "08/03/2025",
+      "position": "42",
+      "time": "33:41",
+      "ageGrade": "43.94%",
+      "isPB": false
+    },
+    {
+      "event": "Wyndham Vale",
+      "date": "01/03/2025",
+      "position": "46",
+      "time": "33:02",
+      "ageGrade": "44.80%",
+      "isPB": false
+    },
+    {
+      "event": "Newport Lakes",
+      "date": "22/02/2025",
+      "position": "107",
+      "time": "39:57",
+      "ageGrade": "37.05%",
+      "isPB": false
+    },
+    {
+      "event": "Highlands",
+      "date": "15/02/2025",
+      "position": "51",
+      "time": "32:22",
+      "ageGrade": "45.73%",
+      "isPB": false
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "08/02/2025",
+      "position": "50",
+      "time": "33:44",
+      "ageGrade": "43.87%",
+      "isPB": false
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "01/02/2025",
+      "position": "106",
+      "time": "1:03:36",
+      "ageGrade": "23.27%",
+      "isPB": false
+    },
+    {
+      "event": "Woodlands Historic Park",
+      "date": "18/01/2025",
+      "position": "68",
+      "time": "34:59",
+      "ageGrade": "42.31%",
+      "isPB": false
+    },
+    {
+      "event": "Studley",
+      "date": "11/01/2025",
+      "position": "223",
+      "time": "35:35",
+      "ageGrade": "41.59%",
+      "isPB": false
+    },
+    {
+      "event": "Aintree Reserve",
+      "date": "04/01/2025",
+      "position": "63",
+      "time": "36:23",
+      "ageGrade": "40.68%",
+      "isPB": false
+    },
+    {
+      "event": "Brimbank",
+      "date": "01/01/2025",
+      "position": "51",
+      "time": "33:58",
+      "ageGrade": "43.57%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 39,
+    "firstRun": "01/01/2025",
+    "latestRun": "25/12/2025",
+    "bestTime": "27:12",
+    "uniqueEvents": 30
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "runnerInfo": {
+    "name": "Greg ASHWORTH (A8493713)"
+  },
+  "runs": [
+    {
+      "event": "Henley-on-Thames",
+      "date": "27/12/2025",
+      "position": "49",
+      "time": "30:28",
+      "ageGrade": "48.03%",
+      "isPB": false
+    },
+    {
+      "event": "Blackpool",
+      "date": "25/12/2025",
+      "position": "185",
+      "time": "28:26",
+      "ageGrade": "51.47%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "20/12/2025",
+      "position": "108",
+      "time": "28:00",
+      "ageGrade": "52.26%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "13/12/2025",
+      "position": "75",
+      "time": "28:35",
+      "ageGrade": "51.20%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "06/12/2025",
+      "position": "73",
+      "time": "28:01",
+      "ageGrade": "52.23%",
+      "isPB": false
+    },
+    {
+      "event": "Delamere",
+      "date": "29/11/2025",
+      "position": "103",
+      "time": "27:41",
+      "ageGrade": "52.86%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "22/11/2025",
+      "position": "77",
+      "time": "27:00",
+      "ageGrade": "54.20%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "15/11/2025",
+      "position": "63",
+      "time": "27:05",
+      "ageGrade": "54.03%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "08/11/2025",
+      "position": "101",
+      "time": "27:29",
+      "ageGrade": "53.24%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "01/11/2025",
+      "position": "91",
+      "time": "26:50",
+      "ageGrade": "54.53%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "25/10/2025",
+      "position": "97",
+      "time": "27:05",
+      "ageGrade": "54.03%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "18/10/2025",
+      "position": "86",
+      "time": "27:32",
+      "ageGrade": "53.15%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "11/10/2025",
+      "position": "114",
+      "time": "29:37",
+      "ageGrade": "49.41%",
+      "isPB": false
+    },
+    {
+      "event": "Preston",
+      "date": "04/10/2025",
+      "position": "173",
+      "time": "28:42",
+      "ageGrade": "50.99%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "27/09/2025",
+      "position": "114",
+      "time": "28:33",
+      "ageGrade": "51.26%",
+      "isPB": false
+    },
+    {
+      "event": "Haigh Woodland",
+      "date": "13/09/2025",
+      "position": "101",
+      "time": "28:30",
+      "ageGrade": "51.35%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "06/09/2025",
+      "position": "95",
+      "time": "27:33",
+      "ageGrade": "53.12%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "30/08/2025",
+      "position": "111",
+      "time": "28:01",
+      "ageGrade": "52.23%",
+      "isPB": false
+    },
+    {
+      "event": "Morecambe Prom",
+      "date": "23/08/2025",
+      "position": "154",
+      "time": "26:10",
+      "ageGrade": "55.92%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "16/08/2025",
+      "position": "145",
+      "time": "28:29",
+      "ageGrade": "51.38%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "09/08/2025",
+      "position": "145",
+      "time": "28:43",
+      "ageGrade": "50.96%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "02/08/2025",
+      "position": "106",
+      "time": "27:28",
+      "ageGrade": "53.28%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "26/07/2025",
+      "position": "136",
+      "time": "29:03",
+      "ageGrade": "50.37%",
+      "isPB": false
+    },
+    {
+      "event": "Fleetwood Promenade",
+      "date": "19/07/2025",
+      "position": "74",
+      "time": "27:38",
+      "ageGrade": "52.96%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "12/07/2025",
+      "position": "183",
+      "time": "33:54",
+      "ageGrade": "43.17%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "05/07/2025",
+      "position": "174",
+      "time": "31:35",
+      "ageGrade": "46.33%",
+      "isPB": false
+    },
+    {
+      "event": "Blackpool",
+      "date": "28/06/2025",
+      "position": "170",
+      "time": "29:04",
+      "ageGrade": "50.34%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "21/06/2025",
+      "position": "166",
+      "time": "32:17",
+      "ageGrade": "45.33%",
+      "isPB": false
+    },
+    {
+      "event": "Bushy Park",
+      "date": "14/06/2025",
+      "position": "902",
+      "time": "28:29",
+      "ageGrade": "51.38%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "07/06/2025",
+      "position": "91",
+      "time": "28:22",
+      "ageGrade": "51.59%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "31/05/2025",
+      "position": "112",
+      "time": "27:43",
+      "ageGrade": "52.80%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "24/05/2025",
+      "position": "72",
+      "time": "27:03",
+      "ageGrade": "54.10%",
+      "isPB": true
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "17/05/2025",
+      "position": "130",
+      "time": "27:53",
+      "ageGrade": "52.48%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "10/05/2025",
+      "position": "332",
+      "time": "58:49",
+      "ageGrade": "24.88%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "03/05/2025",
+      "position": "118",
+      "time": "27:30",
+      "ageGrade": "53.21%",
+      "isPB": true
+    },
+    {
+      "event": "Holbrooks",
+      "date": "26/04/2025",
+      "position": "28",
+      "time": "26:39",
+      "ageGrade": "54.91%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "19/04/2025",
+      "position": "200",
+      "time": "29:58",
+      "ageGrade": "48.83%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "12/04/2025",
+      "position": "138",
+      "time": "29:31",
+      "ageGrade": "49.58%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "05/04/2025",
+      "position": "131",
+      "time": "28:46",
+      "ageGrade": "50.87%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "29/03/2025",
+      "position": "100",
+      "time": "27:34",
+      "ageGrade": "53.08%",
+      "isPB": true
+    },
+    {
+      "event": "Yarborough Leisure Centre",
+      "date": "22/03/2025",
+      "position": "106",
+      "time": "27:23",
+      "ageGrade": "53.01%",
+      "isPB": false
+    },
+    {
+      "event": "Lytham Hall",
+      "date": "15/03/2025",
+      "position": "115",
+      "time": "28:29",
+      "ageGrade": "50.97%",
+      "isPB": false
+    },
+    {
+      "event": "York",
+      "date": "08/03/2025",
+      "position": "336",
+      "time": "26:31",
+      "ageGrade": "54.75%",
+      "isPB": false
+    },
+    {
+      "event": "Witton",
+      "date": "01/03/2025",
+      "position": "61",
+      "time": "31:31",
+      "ageGrade": "46.06%",
+      "isPB": false
+    },
+    {
+      "event": "North Yorkshire Water Park",
+      "date": "22/02/2025",
+      "position": "82",
+      "time": "27:05",
+      "ageGrade": "53.60%",
+      "isPB": false
+    },
+    {
+      "event": "Crosby",
+      "date": "15/02/2025",
+      "position": "94",
+      "time": "27:31",
+      "ageGrade": "52.76%",
+      "isPB": false
+    },
+    {
+      "event": "Tawd Valley",
+      "date": "08/02/2025",
+      "position": "53",
+      "time": "29:16",
+      "ageGrade": "49.60%",
+      "isPB": false
+    },
+    {
+      "event": "Ormskirk",
+      "date": "01/02/2025",
+      "position": "134",
+      "time": "27:51",
+      "ageGrade": "52.12%",
+      "isPB": false
+    },
+    {
+      "event": "Kew Woods",
+      "date": "25/01/2025",
+      "position": "97",
+      "time": "30:08",
+      "ageGrade": "48.17%",
+      "isPB": false
+    },
+    {
+      "event": "Chester",
+      "date": "18/01/2025",
+      "position": "193",
+      "time": "29:10",
+      "ageGrade": "49.77%",
+      "isPB": false
+    },
+    {
+      "event": "Worden",
+      "date": "04/01/2025",
+      "position": "79",
+      "time": "30:48",
+      "ageGrade": "47.13%",
+      "isPB": false
+    },
+    {
+      "event": "Fleetwood Promenade",
+      "date": "01/01/2025",
+      "position": "66",
+      "time": "28:59",
+      "ageGrade": "50.09%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 52,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "26:10",
+    "uniqueEvents": 20
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "runnerInfo": {
+    "name": "Rebecca LAWS (A7954687)"
+  },
+  "runs": [
+    {
+      "event": "Bungendore Common",
+      "date": "27/12/2025",
+      "position": "28",
+      "time": "27:33",
+      "ageGrade": "57.11%",
+      "isPB": true
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "25/12/2025",
+      "position": "56",
+      "time": "52:14",
+      "ageGrade": "30.12%",
+      "isPB": false
+    },
+    {
+      "event": "Woden Town",
+      "date": "20/12/2025",
+      "position": "283",
+      "time": "45:09",
+      "ageGrade": "34.59%",
+      "isPB": false
+    },
+    {
+      "event": "Huskisson",
+      "date": "13/12/2025",
+      "position": "82",
+      "time": "26:59",
+      "ageGrade": "57.88%",
+      "isPB": true
+    },
+    {
+      "event": "Woden Town",
+      "date": "06/12/2025",
+      "position": "134",
+      "time": "28:21",
+      "ageGrade": "55.09%",
+      "isPB": true
+    },
+    {
+      "event": "Southern Highlands Botanic Gardens",
+      "date": "29/11/2025",
+      "position": "73",
+      "time": "30:56",
+      "ageGrade": "50.48%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "22/11/2025",
+      "position": "71",
+      "time": "51:19",
+      "ageGrade": "30.43%",
+      "isPB": false
+    },
+    {
+      "event": "Woden Town",
+      "date": "15/11/2025",
+      "position": "291",
+      "time": "47:17",
+      "ageGrade": "33.03%",
+      "isPB": true
+    },
+    {
+      "event": "Gungahlin",
+      "date": "08/11/2025",
+      "position": "227",
+      "time": "34:12",
+      "ageGrade": "45.66%",
+      "isPB": false
+    },
+    {
+      "event": "Zillmere",
+      "date": "01/11/2025",
+      "position": "30",
+      "time": "30:11",
+      "ageGrade": "51.74%",
+      "isPB": false
+    },
+    {
+      "event": "Woden Town",
+      "date": "25/10/2025",
+      "position": "678",
+      "time": "54:10",
+      "ageGrade": "28.83%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "18/10/2025",
+      "position": "91",
+      "time": "50:34",
+      "ageGrade": "30.88%",
+      "isPB": false
+    },
+    {
+      "event": "Dolls Point",
+      "date": "04/10/2025",
+      "position": "324",
+      "time": "43:45",
+      "ageGrade": "35.70%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "27/09/2025",
+      "position": "49",
+      "time": "30:43",
+      "ageGrade": "50.84%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "20/09/2025",
+      "position": "82",
+      "time": "48:52",
+      "ageGrade": "31.96%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "13/09/2025",
+      "position": "22",
+      "time": "31:07",
+      "ageGrade": "50.19%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "06/09/2025",
+      "position": "69",
+      "time": "49:04",
+      "ageGrade": "31.83%",
+      "isPB": false
+    },
+    {
+      "event": "Tuggeranong",
+      "date": "30/08/2025",
+      "position": "113",
+      "time": "28:59",
+      "ageGrade": "53.88%",
+      "isPB": false
+    },
+    {
+      "event": "Gungahlin",
+      "date": "23/08/2025",
+      "position": "134",
+      "time": "29:01",
+      "ageGrade": "53.82%",
+      "isPB": true
+    },
+    {
+      "event": "Burley Griffin",
+      "date": "16/08/2025",
+      "position": "251",
+      "time": "35:07",
+      "ageGrade": "44.47%",
+      "isPB": false
+    },
+    {
+      "event": "East Richmond",
+      "date": "09/08/2025",
+      "position": "103",
+      "time": "39:23",
+      "ageGrade": "39.65%",
+      "isPB": false
+    },
+    {
+      "event": "Surfers Paradise",
+      "date": "26/07/2025",
+      "position": "64",
+      "time": "29:08",
+      "ageGrade": "53.60%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "19/07/2025",
+      "position": "37",
+      "time": "35:02",
+      "ageGrade": "44.58%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "12/07/2025",
+      "position": "66",
+      "time": "38:32",
+      "ageGrade": "40.53%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "05/07/2025",
+      "position": "37",
+      "time": "32:38",
+      "ageGrade": "47.85%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "14/06/2025",
+      "position": "56",
+      "time": "40:04",
+      "ageGrade": "38.98%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "07/06/2025",
+      "position": "23",
+      "time": "31:31",
+      "ageGrade": "49.55%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "31/05/2025",
+      "position": "68",
+      "time": "50:42",
+      "ageGrade": "30.80%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "24/05/2025",
+      "position": "60",
+      "time": "32:16",
+      "ageGrade": "48.40%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "17/05/2025",
+      "position": "200",
+      "time": "27:55",
+      "ageGrade": "55.94%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "10/05/2025",
+      "position": "82",
+      "time": "41:29",
+      "ageGrade": "37.65%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "26/04/2025",
+      "position": "110",
+      "time": "44:51",
+      "ageGrade": "34.82%",
+      "isPB": false
+    },
+    {
+      "event": "Huskisson",
+      "date": "19/04/2025",
+      "position": "404",
+      "time": "42:58",
+      "ageGrade": "36.35%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "12/04/2025",
+      "position": "67",
+      "time": "48:31",
+      "ageGrade": "32.19%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "05/04/2025",
+      "position": "66",
+      "time": "42:54",
+      "ageGrade": "36.40%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "29/03/2025",
+      "position": "42",
+      "time": "36:27",
+      "ageGrade": "42.84%",
+      "isPB": false
+    },
+    {
+      "event": "Gungahlin",
+      "date": "22/03/2025",
+      "position": "215",
+      "time": "32:32",
+      "ageGrade": "48.00%",
+      "isPB": false
+    },
+    {
+      "event": "Panboola Wetlands",
+      "date": "15/03/2025",
+      "position": "51",
+      "time": "28:06",
+      "ageGrade": "55.58%",
+      "isPB": false
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "08/03/2025",
+      "position": "126",
+      "time": "51:08",
+      "ageGrade": "30.54%",
+      "isPB": false
+    },
+    {
+      "event": "Tuggeranong",
+      "date": "01/03/2025",
+      "position": "149",
+      "time": "28:16",
+      "ageGrade": "55.25%",
+      "isPB": false
+    },
+    {
+      "event": "Broadbeach Waters",
+      "date": "22/02/2025",
+      "position": "65",
+      "time": "27:34",
+      "ageGrade": "56.65%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "15/02/2025",
+      "position": "44",
+      "time": "38:07",
+      "ageGrade": "40.97%",
+      "isPB": false
+    },
+    {
+      "event": "Batemans Bay",
+      "date": "01/02/2025",
+      "position": "118",
+      "time": "43:21",
+      "ageGrade": "36.02%",
+      "isPB": false
+    },
+    {
+      "event": "Burley Griffin",
+      "date": "18/01/2025",
+      "position": "247",
+      "time": "29:31",
+      "ageGrade": "52.91%",
+      "isPB": true
+    },
+    {
+      "event": "Queanbeyan",
+      "date": "11/01/2025",
+      "position": "53",
+      "time": "30:10",
+      "ageGrade": "51.77%",
+      "isPB": false
+    },
+    {
+      "event": "Jerrabomberra Mountain Reserve",
+      "date": "04/01/2025",
+      "position": "86",
+      "time": "55:38",
+      "ageGrade": "28.07%",
+      "isPB": false
+    },
+    {
+      "event": "Wagi Bridge",
+      "date": "01/01/2025",
+      "position": "104",
+      "time": "32:47",
+      "ageGrade": "47.64%",
+      "isPB": true
+    }
+  ],
+  "statistics": {
+    "totalRuns": 47,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "26:59",
+    "uniqueEvents": 18
+  }
+}

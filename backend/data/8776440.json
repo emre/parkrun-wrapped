@@ -1,0 +1,158 @@
+{
+  "runnerInfo": {
+    "name": "Yasmin WATKINS (A8776440)"
+  },
+  "runs": [
+    {
+      "event": "Colchester Castle",
+      "date": "08/11/2025",
+      "position": "242",
+      "time": "35:47",
+      "ageGrade": "41.36%",
+      "isPB": false
+    },
+    {
+      "event": "Clacton Seafront",
+      "date": "13/09/2025",
+      "position": "148",
+      "time": "33:01",
+      "ageGrade": "44.83%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "06/09/2025",
+      "position": "276",
+      "time": "34:26",
+      "ageGrade": "42.98%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "30/08/2025",
+      "position": "286",
+      "time": "33:39",
+      "ageGrade": "43.98%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "02/08/2025",
+      "position": "325",
+      "time": "36:01",
+      "ageGrade": "41.09%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "31/05/2025",
+      "position": "317",
+      "time": "32:52",
+      "ageGrade": "45.03%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "24/05/2025",
+      "position": "231",
+      "time": "32:18",
+      "ageGrade": "45.82%",
+      "isPB": true
+    },
+    {
+      "event": "Clacton Seafront",
+      "date": "17/05/2025",
+      "position": "175",
+      "time": "33:15",
+      "ageGrade": "44.51%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "10/05/2025",
+      "position": "284",
+      "time": "32:37",
+      "ageGrade": "45.38%",
+      "isPB": true
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "26/04/2025",
+      "position": "293",
+      "time": "33:38",
+      "ageGrade": "44.00%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "22/03/2025",
+      "position": "292",
+      "time": "34:37",
+      "ageGrade": "42.75%",
+      "isPB": false
+    },
+    {
+      "event": "Clacton Seafront",
+      "date": "08/03/2025",
+      "position": "161",
+      "time": "32:50",
+      "ageGrade": "45.08%",
+      "isPB": true
+    },
+    {
+      "event": "Clacton Seafront",
+      "date": "01/03/2025",
+      "position": "143",
+      "time": "33:27",
+      "ageGrade": "44.25%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "15/02/2025",
+      "position": "292",
+      "time": "33:05",
+      "ageGrade": "44.74%",
+      "isPB": false
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "08/02/2025",
+      "position": "272",
+      "time": "33:12",
+      "ageGrade": "44.58%",
+      "isPB": false
+    },
+    {
+      "event": "Clacton Seafront",
+      "date": "01/02/2025",
+      "position": "167",
+      "time": "33:03",
+      "ageGrade": "44.78%",
+      "isPB": true
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "18/01/2025",
+      "position": "292",
+      "time": "32:46",
+      "ageGrade": "45.17%",
+      "isPB": true
+    },
+    {
+      "event": "Colchester Castle",
+      "date": "04/01/2025",
+      "position": "287",
+      "time": "34:18",
+      "ageGrade": "43.15%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 18,
+    "firstRun": "04/01/2025",
+    "latestRun": "08/11/2025",
+    "bestTime": "32:18",
+    "uniqueEvents": 2
+  }
+}
