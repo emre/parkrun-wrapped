@@ -1,0 +1,126 @@
+{
+  "runnerInfo": {
+    "name": "Burak ALGAN (A8521218)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "27/09/2025",
+      "position": "91",
+      "time": "32:38",
+      "ageGrade": "43.77%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "20/09/2025",
+      "position": "75",
+      "time": "32:03",
+      "ageGrade": "44.57%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "118",
+      "time": "34:25",
+      "ageGrade": "41.50%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "30/08/2025",
+      "position": "103",
+      "time": "34:45",
+      "ageGrade": "41.10%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "02/08/2025",
+      "position": "52",
+      "time": "32:49",
+      "ageGrade": "43.52%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "80",
+      "time": "32:29",
+      "ageGrade": "43.97%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "19/07/2025",
+      "position": "92",
+      "time": "35:37",
+      "ageGrade": "40.10%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "81",
+      "time": "32:26",
+      "ageGrade": "44.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/07/2025",
+      "position": "80",
+      "time": "32:02",
+      "ageGrade": "44.59%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "28/06/2025",
+      "position": "91",
+      "time": "35:14",
+      "ageGrade": "40.54%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "93",
+      "time": "44:41",
+      "ageGrade": "31.97%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "24/05/2025",
+      "position": "94",
+      "time": "35:08",
+      "ageGrade": "40.65%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "78",
+      "time": "37:29",
+      "ageGrade": "37.84%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/04/2025",
+      "position": "74",
+      "time": "41:38",
+      "ageGrade": "34.07%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 14,
+    "firstRun": "05/04/2025",
+    "latestRun": "27/09/2025",
+    "bestTime": "32:02",
+    "uniqueEvents": 1
+  }
+}

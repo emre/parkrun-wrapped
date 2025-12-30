@@ -1,0 +1,118 @@
+{
+  "runnerInfo": {
+    "name": "Ipek AYAZ (A10359787)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "151",
+      "time": "31:36",
+      "ageGrade": "52.64%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "111",
+      "time": "34:02",
+      "ageGrade": "48.87%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "06/09/2025",
+      "position": "92",
+      "time": "37:31",
+      "ageGrade": "44.34%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "89",
+      "time": "34:12",
+      "ageGrade": "48.64%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "14/06/2025",
+      "position": "69",
+      "time": "36:34",
+      "ageGrade": "45.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/06/2025",
+      "position": "105",
+      "time": "32:09",
+      "ageGrade": "51.74%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "24/05/2025",
+      "position": "84",
+      "time": "32:20",
+      "ageGrade": "51.44%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "77",
+      "time": "37:24",
+      "ageGrade": "44.47%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/03/2025",
+      "position": "100",
+      "time": "33:59",
+      "ageGrade": "48.95%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "46",
+      "time": "32:52",
+      "ageGrade": "50.61%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "25/01/2025",
+      "position": "86",
+      "time": "35:22",
+      "ageGrade": "47.03%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "11/01/2025",
+      "position": "59",
+      "time": "37:39",
+      "ageGrade": "44.18%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "04/01/2025",
+      "position": "52",
+      "time": "36:29",
+      "ageGrade": "45.59%",
+      "isPB": true
+    }
+  ],
+  "statistics": {
+    "totalRuns": 13,
+    "firstRun": "04/01/2025",
+    "latestRun": "11/10/2025",
+    "bestTime": "31:36",
+    "uniqueEvents": 1
+  }
+}

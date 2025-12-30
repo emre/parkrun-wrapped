@@ -1,0 +1,78 @@
+{
+  "runnerInfo": {
+    "name": "Kaan SEZGINER (A9400159)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "20/12/2025",
+      "position": "44",
+      "time": "28:06",
+      "ageGrade": "47.21%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/10/2025",
+      "position": "35",
+      "time": "27:03",
+      "ageGrade": "49.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "72",
+      "time": "27:33",
+      "ageGrade": "48.15%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "16/08/2025",
+      "position": "39",
+      "time": "24:47",
+      "ageGrade": "53.53%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "41",
+      "time": "25:25",
+      "ageGrade": "52.20%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "58",
+      "time": "28:47",
+      "ageGrade": "46.09%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "28/06/2025",
+      "position": "92",
+      "time": "35:14",
+      "ageGrade": "37.65%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "43",
+      "time": "25:13",
+      "ageGrade": "52.61%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 8,
+    "firstRun": "21/06/2025",
+    "latestRun": "20/12/2025",
+    "bestTime": "24:47",
+    "uniqueEvents": 1
+  }
+}

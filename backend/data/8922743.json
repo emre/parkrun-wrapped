@@ -1,0 +1,190 @@
+{
+  "runnerInfo": {
+    "name": "Baris YASIN (A8922743)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "06/12/2025",
+      "position": "58",
+      "time": "31:06",
+      "ageGrade": "45.93%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/11/2025",
+      "position": "54",
+      "time": "34:14",
+      "ageGrade": "41.72%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/11/2025",
+      "position": "69",
+      "time": "33:38",
+      "ageGrade": "42.47%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "110",
+      "time": "43:58",
+      "ageGrade": "32.49%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/10/2025",
+      "position": "61",
+      "time": "32:26",
+      "ageGrade": "44.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "131",
+      "time": "29:51",
+      "ageGrade": "47.85%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "04/10/2025",
+      "position": "33",
+      "time": "31:18",
+      "ageGrade": "45.31%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "27/09/2025",
+      "position": "85",
+      "time": "31:56",
+      "ageGrade": "44.42%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "103",
+      "time": "30:50",
+      "ageGrade": "46.00%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/08/2025",
+      "position": "67",
+      "time": "28:52",
+      "ageGrade": "49.13%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "63",
+      "time": "29:06",
+      "ageGrade": "48.74%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "05/07/2025",
+      "position": "82",
+      "time": "32:04",
+      "ageGrade": "44.23%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "21/06/2025",
+      "position": "92",
+      "time": "44:39",
+      "ageGrade": "31.77%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/06/2025",
+      "position": "98",
+      "time": "31:09",
+      "ageGrade": "45.53%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "81",
+      "time": "37:32",
+      "ageGrade": "37.79%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/03/2025",
+      "position": "75",
+      "time": "31:01",
+      "ageGrade": "45.73%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/03/2025",
+      "position": "47",
+      "time": "28:46",
+      "ageGrade": "49.30%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/03/2025",
+      "position": "63",
+      "time": "33:41",
+      "ageGrade": "42.11%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/02/2025",
+      "position": "79",
+      "time": "44:45",
+      "ageGrade": "31.69%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "72",
+      "time": "53:03",
+      "ageGrade": "26.74%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "01/02/2025",
+      "position": "66",
+      "time": "45:31",
+      "ageGrade": "31.16%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/01/2025",
+      "position": "55",
+      "time": "36:35",
+      "ageGrade": "38.77%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 22,
+    "firstRun": "11/01/2025",
+    "latestRun": "06/12/2025",
+    "bestTime": "28:46",
+    "uniqueEvents": 1
+  }
+}

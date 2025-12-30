@@ -1,0 +1,166 @@
+{
+  "runnerInfo": {
+    "name": "Günay AYAZ (A10010637)"
+  },
+  "runs": [
+    {
+      "event": "Máxima",
+      "date": "06/12/2025",
+      "position": "49",
+      "time": "30:02",
+      "ageGrade": "47.56%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "152",
+      "time": "31:37",
+      "ageGrade": "45.18%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "27/09/2025",
+      "position": "64",
+      "time": "28:41",
+      "ageGrade": "49.80%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "13/09/2025",
+      "position": "112",
+      "time": "34:05",
+      "ageGrade": "41.91%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "06/09/2025",
+      "position": "93",
+      "time": "37:33",
+      "ageGrade": "38.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "26/07/2025",
+      "position": "90",
+      "time": "34:13",
+      "ageGrade": "41.74%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "19/07/2025",
+      "position": "50",
+      "time": "27:16",
+      "ageGrade": "52.38%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/07/2025",
+      "position": "15",
+      "time": "21:04",
+      "ageGrade": "67.80%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "14/06/2025",
+      "position": "70",
+      "time": "36:35",
+      "ageGrade": "39.04%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "09/06/2025",
+      "position": "108",
+      "time": "32:11",
+      "ageGrade": "44.38%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "24/05/2025",
+      "position": "85",
+      "time": "32:21",
+      "ageGrade": "44.15%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "19/04/2025",
+      "position": "17",
+      "time": "22:56",
+      "ageGrade": "62.28%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "12/04/2025",
+      "position": "79",
+      "time": "37:31",
+      "ageGrade": "38.07%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "29/03/2025",
+      "position": "101",
+      "time": "34:00",
+      "ageGrade": "41.72%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "15/03/2025",
+      "position": "50",
+      "time": "28:47",
+      "ageGrade": "49.28%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/02/2025",
+      "position": "47",
+      "time": "32:54",
+      "ageGrade": "43.11%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "25/01/2025",
+      "position": "87",
+      "time": "35:23",
+      "ageGrade": "40.08%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/01/2025",
+      "position": "60",
+      "time": "37:40",
+      "ageGrade": "37.65%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "04/01/2025",
+      "position": "53",
+      "time": "36:30",
+      "ageGrade": "38.86%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 19,
+    "firstRun": "04/01/2025",
+    "latestRun": "06/12/2025",
+    "bestTime": "21:04",
+    "uniqueEvents": 1
+  }
+}

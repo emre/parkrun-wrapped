@@ -1,0 +1,62 @@
+{
+  "runnerInfo": {
+    "name": "Lina KURT (A6746727)"
+  },
+  "runs": [
+    {
+      "event": "Fælledparken",
+      "date": "27/12/2025",
+      "position": "75",
+      "time": "34:45",
+      "ageGrade": "45.23%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "22/11/2025",
+      "position": "59",
+      "time": "35:54",
+      "ageGrade": "43.78%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "08/11/2025",
+      "position": "78",
+      "time": "31:45",
+      "ageGrade": "49.50%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "01/11/2025",
+      "position": "80",
+      "time": "34:57",
+      "ageGrade": "44.97%",
+      "isPB": false
+    },
+    {
+      "event": "Máxima",
+      "date": "11/10/2025",
+      "position": "144",
+      "time": "31:20",
+      "ageGrade": "50.16%",
+      "isPB": true
+    },
+    {
+      "event": "Máxima",
+      "date": "27/09/2025",
+      "position": "89",
+      "time": "32:29",
+      "ageGrade": "48.38%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 6,
+    "firstRun": "27/09/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "31:20",
+    "uniqueEvents": 2
+  }
+}
