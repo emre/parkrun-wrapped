@@ -1,0 +1,230 @@
+{
+  "runnerInfo": {
+    "name": "Joe NOWICKI (A7569233)"
+  },
+  "runs": [
+    {
+      "event": "Beeston",
+      "date": "27/12/2025",
+      "position": "190",
+      "time": "32:11",
+      "ageGrade": "40.13%",
+      "isPB": false
+    },
+    {
+      "event": "Long Eaton",
+      "date": "25/12/2025",
+      "position": "48",
+      "time": "20:35",
+      "ageGrade": "62.75%",
+      "isPB": true
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "20/12/2025",
+      "position": "84",
+      "time": "21:40",
+      "ageGrade": "59.62%",
+      "isPB": true
+    },
+    {
+      "event": "Fountains Abbey",
+      "date": "29/11/2025",
+      "position": "260",
+      "time": "30:14",
+      "ageGrade": "42.72%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "15/11/2025",
+      "position": "319",
+      "time": "28:09",
+      "ageGrade": "45.89%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "08/11/2025",
+      "position": "49",
+      "time": "22:58",
+      "ageGrade": "56.24%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "01/11/2025",
+      "position": "433",
+      "time": "30:28",
+      "ageGrade": "42.40%",
+      "isPB": false
+    },
+    {
+      "event": "Temple Newsam",
+      "date": "25/10/2025",
+      "position": "33",
+      "time": "24:21",
+      "ageGrade": "53.05%",
+      "isPB": true
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "18/10/2025",
+      "position": "132",
+      "time": "22:44",
+      "ageGrade": "56.82%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "11/10/2025",
+      "position": "93",
+      "time": "22:43",
+      "ageGrade": "56.86%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "04/10/2025",
+      "position": "177",
+      "time": "25:04",
+      "ageGrade": "51.53%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "27/09/2025",
+      "position": "300",
+      "time": "32:07",
+      "ageGrade": "40.17%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "13/09/2025",
+      "position": "84",
+      "time": "22:23",
+      "ageGrade": "57.63%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "30/08/2025",
+      "position": "75",
+      "time": "22:36",
+      "ageGrade": "57.08%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "23/08/2025",
+      "position": "129",
+      "time": "24:14",
+      "ageGrade": "53.23%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "16/08/2025",
+      "position": "64",
+      "time": "21:57",
+      "ageGrade": "58.77%",
+      "isPB": true
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "02/08/2025",
+      "position": "75",
+      "time": "23:00",
+      "ageGrade": "56.09%",
+      "isPB": false
+    },
+    {
+      "event": "Cross Flatts",
+      "date": "21/06/2025",
+      "position": "44",
+      "time": "27:03",
+      "ageGrade": "47.69%",
+      "isPB": false
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "07/06/2025",
+      "position": "96",
+      "time": "22:32",
+      "ageGrade": "57.25%",
+      "isPB": true
+    },
+    {
+      "event": "Fælledparken",
+      "date": "10/05/2025",
+      "position": "218",
+      "time": "31:51",
+      "ageGrade": "40.50%",
+      "isPB": false
+    },
+    {
+      "event": "Chevin Forest",
+      "date": "26/04/2025",
+      "position": "59",
+      "time": "29:36",
+      "ageGrade": "43.58%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "22/03/2025",
+      "position": "36",
+      "time": "21:53",
+      "ageGrade": "58.95%",
+      "isPB": true
+    },
+    {
+      "event": "Southwark",
+      "date": "15/03/2025",
+      "position": "80",
+      "time": "22:36",
+      "ageGrade": "57.08%",
+      "isPB": false
+    },
+    {
+      "event": "Temple Newsam",
+      "date": "01/02/2025",
+      "position": "24",
+      "time": "24:22",
+      "ageGrade": "52.94%",
+      "isPB": false
+    },
+    {
+      "event": "Wollaton Hall",
+      "date": "25/01/2025",
+      "position": "59",
+      "time": "23:42",
+      "ageGrade": "54.43%",
+      "isPB": true
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "18/01/2025",
+      "position": "153",
+      "time": "23:35",
+      "ageGrade": "54.70%",
+      "isPB": true
+    },
+    {
+      "event": "Woodhouse Moor",
+      "date": "04/01/2025",
+      "position": "105",
+      "time": "24:09",
+      "ageGrade": "53.42%",
+      "isPB": true
+    }
+  ],
+  "statistics": {
+    "totalRuns": 27,
+    "firstRun": "04/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "20:35",
+    "uniqueEvents": 10
+  }
+}
