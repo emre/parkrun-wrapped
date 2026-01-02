@@ -1,0 +1,430 @@
+{
+  "runnerInfo": {
+    "name": "Joe FREER (A3796690)"
+  },
+  "runs": [
+    {
+      "event": "Kilkenny Lane Country",
+      "date": "27/12/2025",
+      "position": "145",
+      "time": "28:58",
+      "ageGrade": "48.04%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "25/12/2025",
+      "position": "189",
+      "time": "29:34",
+      "ageGrade": "47.07%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "20/12/2025",
+      "position": "190",
+      "time": "26:51",
+      "ageGrade": "51.83%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "13/12/2025",
+      "position": "138",
+      "time": "27:03",
+      "ageGrade": "51.45%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "06/12/2025",
+      "position": "156",
+      "time": "28:12",
+      "ageGrade": "49.35%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "29/11/2025",
+      "position": "104",
+      "time": "27:03",
+      "ageGrade": "51.45%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "22/11/2025",
+      "position": "109",
+      "time": "29:10",
+      "ageGrade": "47.71%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "15/11/2025",
+      "position": "212",
+      "time": "29:34",
+      "ageGrade": "47.07%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "08/11/2025",
+      "position": "126",
+      "time": "28:40",
+      "ageGrade": "48.55%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "01/11/2025",
+      "position": "92",
+      "time": "27:28",
+      "ageGrade": "50.67%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "18/10/2025",
+      "position": "85",
+      "time": "26:24",
+      "ageGrade": "52.71%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "04/10/2025",
+      "position": "88",
+      "time": "27:30",
+      "ageGrade": "50.61%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "27/09/2025",
+      "position": "92",
+      "time": "26:46",
+      "ageGrade": "51.99%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "20/09/2025",
+      "position": "114",
+      "time": "27:37",
+      "ageGrade": "50.39%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "13/09/2025",
+      "position": "117",
+      "time": "27:34",
+      "ageGrade": "50.48%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "06/09/2025",
+      "position": "87",
+      "time": "27:12",
+      "ageGrade": "51.16%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "30/08/2025",
+      "position": "126",
+      "time": "27:31",
+      "ageGrade": "50.58%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "23/08/2025",
+      "position": "101",
+      "time": "26:25",
+      "ageGrade": "52.68%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "16/08/2025",
+      "position": "96",
+      "time": "26:31",
+      "ageGrade": "52.48%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "09/08/2025",
+      "position": "103",
+      "time": "26:55",
+      "ageGrade": "51.70%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "02/08/2025",
+      "position": "120",
+      "time": "26:36",
+      "ageGrade": "52.32%",
+      "isPB": false
+    },
+    {
+      "event": "Y Promenâd, Abermaw",
+      "date": "26/07/2025",
+      "position": "153",
+      "time": "32:25",
+      "ageGrade": "42.93%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "19/07/2025",
+      "position": "72",
+      "time": "26:58",
+      "ageGrade": "51.61%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "12/07/2025",
+      "position": "83",
+      "time": "26:24",
+      "ageGrade": "52.71%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "05/07/2025",
+      "position": "115",
+      "time": "26:46",
+      "ageGrade": "51.99%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "28/06/2025",
+      "position": "90",
+      "time": "26:12",
+      "ageGrade": "53.12%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "21/06/2025",
+      "position": "82",
+      "time": "26:31",
+      "ageGrade": "52.48%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "14/06/2025",
+      "position": "85",
+      "time": "26:33",
+      "ageGrade": "52.42%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "07/06/2025",
+      "position": "97",
+      "time": "26:25",
+      "ageGrade": "52.68%",
+      "isPB": false
+    },
+    {
+      "event": "Fire Service College",
+      "date": "31/05/2025",
+      "position": "145",
+      "time": "29:24",
+      "ageGrade": "47.34%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "24/05/2025",
+      "position": "83",
+      "time": "25:58",
+      "ageGrade": "53.59%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "17/05/2025",
+      "position": "96",
+      "time": "25:55",
+      "ageGrade": "53.70%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "10/05/2025",
+      "position": "96",
+      "time": "26:18",
+      "ageGrade": "52.92%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "03/05/2025",
+      "position": "123",
+      "time": "27:05",
+      "ageGrade": "52.37%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "26/04/2025",
+      "position": "106",
+      "time": "27:18",
+      "ageGrade": "51.95%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "19/04/2025",
+      "position": "150",
+      "time": "28:17",
+      "ageGrade": "50.15%",
+      "isPB": false
+    },
+    {
+      "event": "Southampton",
+      "date": "12/04/2025",
+      "position": "478",
+      "time": "27:55",
+      "ageGrade": "50.81%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "05/04/2025",
+      "position": "137",
+      "time": "28:43",
+      "ageGrade": "49.39%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "29/03/2025",
+      "position": "128",
+      "time": "28:49",
+      "ageGrade": "49.22%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "22/03/2025",
+      "position": "84",
+      "time": "27:57",
+      "ageGrade": "50.75%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "15/03/2025",
+      "position": "174",
+      "time": "32:44",
+      "ageGrade": "43.33%",
+      "isPB": false
+    },
+    {
+      "event": "Witney",
+      "date": "08/03/2025",
+      "position": "159",
+      "time": "31:54",
+      "ageGrade": "44.46%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "01/03/2025",
+      "position": "162",
+      "time": "26:22",
+      "ageGrade": "53.79%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "22/02/2025",
+      "position": "159",
+      "time": "26:37",
+      "ageGrade": "53.29%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "15/02/2025",
+      "position": "138",
+      "time": "26:09",
+      "ageGrade": "54.24%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "08/02/2025",
+      "position": "195",
+      "time": "28:08",
+      "ageGrade": "50.41%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "01/02/2025",
+      "position": "172",
+      "time": "26:37",
+      "ageGrade": "53.29%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "25/01/2025",
+      "position": "159",
+      "time": "27:12",
+      "ageGrade": "52.14%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "18/01/2025",
+      "position": "167",
+      "time": "26:52",
+      "ageGrade": "52.79%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "11/01/2025",
+      "position": "203",
+      "time": "27:02",
+      "ageGrade": "52.47%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "04/01/2025",
+      "position": "352",
+      "time": "33:32",
+      "ageGrade": "42.30%",
+      "isPB": false
+    },
+    {
+      "event": "Oxford",
+      "date": "01/01/2025",
+      "position": "482",
+      "time": "39:00",
+      "ageGrade": "36.37%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 52,
+    "firstRun": "01/01/2025",
+    "latestRun": "27/12/2025",
+    "bestTime": "25:55",
+    "uniqueEvents": 6
+  }
+}
