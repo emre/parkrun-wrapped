@@ -1,0 +1,278 @@
+{
+  "runnerInfo": {
+    "name": "Freya MURCH (A6289141)"
+  },
+  "runs": [
+    {
+      "event": "Quakers Walk",
+      "date": "20/12/2025",
+      "position": "50",
+      "time": "26:41",
+      "ageGrade": "57.34%",
+      "isPB": false
+    },
+    {
+      "event": "Gloucester City",
+      "date": "06/12/2025",
+      "position": "72",
+      "time": "26:50",
+      "ageGrade": "57.02%",
+      "isPB": false
+    },
+    {
+      "event": "Simmons Park",
+      "date": "29/11/2025",
+      "position": "38",
+      "time": "26:56",
+      "ageGrade": "56.81%",
+      "isPB": false
+    },
+    {
+      "event": "Mallards Pike",
+      "date": "22/11/2025",
+      "position": "42",
+      "time": "26:54",
+      "ageGrade": "56.88%",
+      "isPB": false
+    },
+    {
+      "event": "Pontypool",
+      "date": "15/11/2025",
+      "position": "40",
+      "time": "27:52",
+      "ageGrade": "54.90%",
+      "isPB": false
+    },
+    {
+      "event": "Y Promenâd",
+      "date": "08/11/2025",
+      "position": "42",
+      "time": "26:40",
+      "ageGrade": "57.38%",
+      "isPB": false
+    },
+    {
+      "event": "Kingsway",
+      "date": "01/11/2025",
+      "position": "72",
+      "time": "27:04",
+      "ageGrade": "56.53%",
+      "isPB": false
+    },
+    {
+      "event": "Wotton",
+      "date": "18/10/2025",
+      "position": "18",
+      "time": "26:48",
+      "ageGrade": "57.09%",
+      "isPB": false
+    },
+    {
+      "event": "Brickfields Park",
+      "date": "11/10/2025",
+      "position": "112",
+      "time": "26:35",
+      "ageGrade": "57.55%",
+      "isPB": false
+    },
+    {
+      "event": "Sharpham Road Playing Fields",
+      "date": "04/10/2025",
+      "position": "41",
+      "time": "27:38",
+      "ageGrade": "55.37%",
+      "isPB": false
+    },
+    {
+      "event": "Newport",
+      "date": "20/09/2025",
+      "position": "70",
+      "time": "26:41",
+      "ageGrade": "57.34%",
+      "isPB": false
+    },
+    {
+      "event": "Minehead",
+      "date": "13/09/2025",
+      "position": "47",
+      "time": "26:19",
+      "ageGrade": "58.14%",
+      "isPB": false
+    },
+    {
+      "event": "Worcester",
+      "date": "06/09/2025",
+      "position": "167",
+      "time": "26:57",
+      "ageGrade": "56.77%",
+      "isPB": false
+    },
+    {
+      "event": "Barry Island",
+      "date": "23/08/2025",
+      "position": "68",
+      "time": "27:24",
+      "ageGrade": "55.84%",
+      "isPB": false
+    },
+    {
+      "event": "Riverfront",
+      "date": "16/08/2025",
+      "position": "88",
+      "time": "26:29",
+      "ageGrade": "57.77%",
+      "isPB": false
+    },
+    {
+      "event": "Chippenham",
+      "date": "12/07/2025",
+      "position": "94",
+      "time": "27:55",
+      "ageGrade": "54.45%",
+      "isPB": false
+    },
+    {
+      "event": "Five Arches",
+      "date": "05/07/2025",
+      "position": "50",
+      "time": "26:46",
+      "ageGrade": "56.79%",
+      "isPB": false
+    },
+    {
+      "event": "Blaise Castle",
+      "date": "14/06/2025",
+      "position": "132",
+      "time": "28:13",
+      "ageGrade": "53.87%",
+      "isPB": false
+    },
+    {
+      "event": "Marine Parade",
+      "date": "07/06/2025",
+      "position": "94",
+      "time": "27:33",
+      "ageGrade": "55.17%",
+      "isPB": false
+    },
+    {
+      "event": "Berkeley Green",
+      "date": "24/05/2025",
+      "position": "82",
+      "time": "26:28",
+      "ageGrade": "57.43%",
+      "isPB": false
+    },
+    {
+      "event": "Rogiet",
+      "date": "17/05/2025",
+      "position": "40",
+      "time": "26:59",
+      "ageGrade": "56.33%",
+      "isPB": false
+    },
+    {
+      "event": "Woolacombe Dunes",
+      "date": "10/05/2025",
+      "position": "93",
+      "time": "33:14",
+      "ageGrade": "45.74%",
+      "isPB": false
+    },
+    {
+      "event": "Burnham and Highbridge",
+      "date": "03/05/2025",
+      "position": "123",
+      "time": "26:36",
+      "ageGrade": "57.14%",
+      "isPB": false
+    },
+    {
+      "event": "Thornbury",
+      "date": "12/04/2025",
+      "position": "42",
+      "time": "27:32",
+      "ageGrade": "55.21%",
+      "isPB": false
+    },
+    {
+      "event": "Severn Bridge",
+      "date": "29/03/2025",
+      "position": "140",
+      "time": "26:20",
+      "ageGrade": "57.72%",
+      "isPB": false
+    },
+    {
+      "event": "Somerdale Pavilion",
+      "date": "22/03/2025",
+      "position": "55",
+      "time": "25:22",
+      "ageGrade": "59.92%",
+      "isPB": false
+    },
+    {
+      "event": "Pomphrey Hill",
+      "date": "15/03/2025",
+      "position": "90",
+      "time": "27:21",
+      "ageGrade": "55.58%",
+      "isPB": false
+    },
+    {
+      "event": "Barnstaple",
+      "date": "08/03/2025",
+      "position": "67",
+      "time": "28:15",
+      "ageGrade": "53.81%",
+      "isPB": true
+    },
+    {
+      "event": "Tamar Lakes",
+      "date": "01/03/2025",
+      "position": "65",
+      "time": "27:48",
+      "ageGrade": "54.68%",
+      "isPB": false
+    },
+    {
+      "event": "Chipping Sodbury",
+      "date": "22/02/2025",
+      "position": "183",
+      "time": "28:30",
+      "ageGrade": "53.33%",
+      "isPB": false
+    },
+    {
+      "event": "Three Brooks",
+      "date": "08/02/2025",
+      "position": "129",
+      "time": "27:16",
+      "ageGrade": "55.75%",
+      "isPB": false
+    },
+    {
+      "event": "Ashton Court",
+      "date": "25/01/2025",
+      "position": "313",
+      "time": "29:40",
+      "ageGrade": "51.24%",
+      "isPB": false
+    },
+    {
+      "event": "Eastville",
+      "date": "18/01/2025",
+      "position": "321",
+      "time": "28:06",
+      "ageGrade": "54.09%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 33,
+    "firstRun": "18/01/2025",
+    "latestRun": "20/12/2025",
+    "bestTime": "25:22",
+    "uniqueEvents": 33
+  }
+}
