@@ -1,0 +1,390 @@
+{
+  "runnerInfo": {
+    "name": "Caleb WATSON (A9099414)"
+  },
+  "runs": [
+    {
+      "event": "Pakapakanthi",
+      "date": "13/12/2025",
+      "position": "270",
+      "time": "33:37",
+      "ageGrade": "38.37%",
+      "isPB": false
+    },
+    {
+      "event": "Drage Reserve",
+      "date": "06/12/2025",
+      "position": "100",
+      "time": "30:01",
+      "ageGrade": "42.98%",
+      "isPB": true
+    },
+    {
+      "event": "Lochiel",
+      "date": "29/11/2025",
+      "position": "179",
+      "time": "29:43",
+      "ageGrade": "43.41%",
+      "isPB": true
+    },
+    {
+      "event": "Kirkdale Reserve",
+      "date": "22/11/2025",
+      "position": "155",
+      "time": "31:49",
+      "ageGrade": "40.54%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "15/11/2025",
+      "position": "249",
+      "time": "30:04",
+      "ageGrade": "42.90%",
+      "isPB": false
+    },
+    {
+      "event": "Parkindula Reserve",
+      "date": "08/11/2025",
+      "position": "24",
+      "time": "29:10",
+      "ageGrade": "44.23%",
+      "isPB": false
+    },
+    {
+      "event": "Mount Barker",
+      "date": "01/11/2025",
+      "position": "125",
+      "time": "29:12",
+      "ageGrade": "44.18%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "25/10/2025",
+      "position": "269",
+      "time": "29:37",
+      "ageGrade": "43.56%",
+      "isPB": false
+    },
+    {
+      "event": "Paradise Point",
+      "date": "18/10/2025",
+      "position": "191",
+      "time": "29:19",
+      "ageGrade": "44.00%",
+      "isPB": false
+    },
+    {
+      "event": "Drage Reserve",
+      "date": "11/10/2025",
+      "position": "119",
+      "time": "30:12",
+      "ageGrade": "42.72%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "04/10/2025",
+      "position": "615",
+      "time": "58:24",
+      "ageGrade": "22.09%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "27/09/2025",
+      "position": "299",
+      "time": "29:18",
+      "ageGrade": "44.03%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "20/09/2025",
+      "position": "269",
+      "time": "30:43",
+      "ageGrade": "42.00%",
+      "isPB": false
+    },
+    {
+      "event": "Largs Bay",
+      "date": "13/09/2025",
+      "position": "102",
+      "time": "27:34",
+      "ageGrade": "46.80%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "06/09/2025",
+      "position": "296",
+      "time": "29:20",
+      "ageGrade": "43.98%",
+      "isPB": false
+    },
+    {
+      "event": "Parkville",
+      "date": "30/08/2025",
+      "position": "229",
+      "time": "31:02",
+      "ageGrade": "41.57%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "23/08/2025",
+      "position": "248",
+      "time": "29:24",
+      "ageGrade": "43.88%",
+      "isPB": false
+    },
+    {
+      "event": "West Beach",
+      "date": "16/08/2025",
+      "position": "111",
+      "time": "28:17",
+      "ageGrade": "45.61%",
+      "isPB": true
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "09/08/2025",
+      "position": "310",
+      "time": "30:36",
+      "ageGrade": "42.16%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "02/08/2025",
+      "position": "277",
+      "time": "29:39",
+      "ageGrade": "43.51%",
+      "isPB": false
+    },
+    {
+      "event": "Lochiel",
+      "date": "26/07/2025",
+      "position": "148",
+      "time": "38:34",
+      "ageGrade": "33.45%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "19/07/2025",
+      "position": "402",
+      "time": "32:38",
+      "ageGrade": "39.53%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "12/07/2025",
+      "position": "301",
+      "time": "30:06",
+      "ageGrade": "42.86%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "05/07/2025",
+      "position": "279",
+      "time": "31:23",
+      "ageGrade": "41.10%",
+      "isPB": false
+    },
+    {
+      "event": "Bay East Garden",
+      "date": "28/06/2025",
+      "position": "94",
+      "time": "35:46",
+      "ageGrade": "36.07%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "14/06/2025",
+      "position": "274",
+      "time": "30:04",
+      "ageGrade": "42.90%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "07/06/2025",
+      "position": "188",
+      "time": "32:28",
+      "ageGrade": "39.73%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "31/05/2025",
+      "position": "214",
+      "time": "28:32",
+      "ageGrade": "45.21%",
+      "isPB": true
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "24/05/2025",
+      "position": "326",
+      "time": "31:55",
+      "ageGrade": "40.42%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "17/05/2025",
+      "position": "238",
+      "time": "29:53",
+      "ageGrade": "43.17%",
+      "isPB": true
+    },
+    {
+      "event": "West Beach",
+      "date": "10/05/2025",
+      "position": "167",
+      "time": "30:05",
+      "ageGrade": "42.88%",
+      "isPB": false
+    },
+    {
+      "event": "Cleland",
+      "date": "03/05/2025",
+      "position": "29",
+      "time": "38:46",
+      "ageGrade": "33.28%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "26/04/2025",
+      "position": "316",
+      "time": "32:47",
+      "ageGrade": "39.35%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "19/04/2025",
+      "position": "347",
+      "time": "33:37",
+      "ageGrade": "38.37%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "12/04/2025",
+      "position": "422",
+      "time": "34:23",
+      "ageGrade": "37.52%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "05/04/2025",
+      "position": "382",
+      "time": "33:12",
+      "ageGrade": "38.86%",
+      "isPB": false
+    },
+    {
+      "event": "Patawalonga River",
+      "date": "29/03/2025",
+      "position": "101",
+      "time": "32:31",
+      "ageGrade": "39.67%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "22/03/2025",
+      "position": "399",
+      "time": "34:05",
+      "ageGrade": "37.85%",
+      "isPB": false
+    },
+    {
+      "event": "Torrens",
+      "date": "08/03/2025",
+      "position": "251",
+      "time": "35:03",
+      "ageGrade": "36.80%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "01/03/2025",
+      "position": "327",
+      "time": "32:59",
+      "ageGrade": "39.11%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "22/02/2025",
+      "position": "319",
+      "time": "32:32",
+      "ageGrade": "39.65%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "15/02/2025",
+      "position": "351",
+      "time": "31:15",
+      "ageGrade": "41.28%",
+      "isPB": true
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "08/02/2025",
+      "position": "417",
+      "time": "32:59",
+      "ageGrade": "39.11%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "01/02/2025",
+      "position": "392",
+      "time": "33:03",
+      "ageGrade": "39.03%",
+      "isPB": false
+    },
+    {
+      "event": "Oaklands Estate Reserve",
+      "date": "25/01/2025",
+      "position": "170",
+      "time": "34:01",
+      "ageGrade": "37.92%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "18/01/2025",
+      "position": "418",
+      "time": "36:20",
+      "ageGrade": "35.50%",
+      "isPB": false
+    },
+    {
+      "event": "Pakapakanthi",
+      "date": "11/01/2025",
+      "position": "421",
+      "time": "35:49",
+      "ageGrade": "36.02%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 47,
+    "firstRun": "11/01/2025",
+    "latestRun": "13/12/2025",
+    "bestTime": "27:34",
+    "uniqueEvents": 15
+  }
+}

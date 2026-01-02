@@ -1,0 +1,334 @@
+{
+  "runnerInfo": {
+    "name": "Ross MCNAIRN (A9847503)"
+  },
+  "runs": [
+    {
+      "event": "Drumpellier Country",
+      "date": "25/12/2025",
+      "position": "79",
+      "time": "23:48",
+      "ageGrade": "59.59%",
+      "isPB": true
+    },
+    {
+      "event": "Plean",
+      "date": "20/12/2025",
+      "position": "11",
+      "time": "26:35",
+      "ageGrade": "53.35%",
+      "isPB": false
+    },
+    {
+      "event": "Troon",
+      "date": "13/12/2025",
+      "position": "12",
+      "time": "22:30",
+      "ageGrade": "63.04%",
+      "isPB": false
+    },
+    {
+      "event": "Ganavan Sands",
+      "date": "06/12/2025",
+      "position": "7",
+      "time": "24:44",
+      "ageGrade": "57.35%",
+      "isPB": false
+    },
+    {
+      "event": "Crichton",
+      "date": "29/11/2025",
+      "position": "31",
+      "time": "23:59",
+      "ageGrade": "58.65%",
+      "isPB": false
+    },
+    {
+      "event": "Elder Park",
+      "date": "22/11/2025",
+      "position": "57",
+      "time": "25:15",
+      "ageGrade": "55.71%",
+      "isPB": false
+    },
+    {
+      "event": "Lanark Moor",
+      "date": "15/11/2025",
+      "position": "14",
+      "time": "25:32",
+      "ageGrade": "55.09%",
+      "isPB": false
+    },
+    {
+      "event": "Zielony Jar",
+      "date": "08/11/2025",
+      "position": "21",
+      "time": "25:27",
+      "ageGrade": "55.27%",
+      "isPB": false
+    },
+    {
+      "event": "Erskine Waterfront",
+      "date": "01/11/2025",
+      "position": "19",
+      "time": "23:33",
+      "ageGrade": "59.73%",
+      "isPB": false
+    },
+    {
+      "event": "Falkirk",
+      "date": "25/10/2025",
+      "position": "51",
+      "time": "24:23",
+      "ageGrade": "57.69%",
+      "isPB": false
+    },
+    {
+      "event": "Crichton",
+      "date": "18/10/2025",
+      "position": "29",
+      "time": "23:45",
+      "ageGrade": "59.23%",
+      "isPB": true
+    },
+    {
+      "event": "York",
+      "date": "27/09/2025",
+      "position": "140",
+      "time": "23:03",
+      "ageGrade": "61.03%",
+      "isPB": false
+    },
+    {
+      "event": "Crichton",
+      "date": "20/09/2025",
+      "position": "37",
+      "time": "25:01",
+      "ageGrade": "56.23%",
+      "isPB": false
+    },
+    {
+      "event": "Cuningar Loop",
+      "date": "13/09/2025",
+      "position": "33",
+      "time": "23:45",
+      "ageGrade": "59.23%",
+      "isPB": false
+    },
+    {
+      "event": "Nairn Links",
+      "date": "06/09/2025",
+      "position": "28",
+      "time": "24:13",
+      "ageGrade": "58.09%",
+      "isPB": false
+    },
+    {
+      "event": "Strathclyde",
+      "date": "30/08/2025",
+      "position": "99",
+      "time": "23:57",
+      "ageGrade": "58.73%",
+      "isPB": false
+    },
+    {
+      "event": "Crichton",
+      "date": "23/08/2025",
+      "position": "26",
+      "time": "24:46",
+      "ageGrade": "56.80%",
+      "isPB": true
+    },
+    {
+      "event": "Greenock",
+      "date": "16/08/2025",
+      "position": "38",
+      "time": "23:14",
+      "ageGrade": "60.55%",
+      "isPB": false
+    },
+    {
+      "event": "Riverside Park, Glenrothes",
+      "date": "02/08/2025",
+      "position": "55",
+      "time": "24:50",
+      "ageGrade": "56.64%",
+      "isPB": false
+    },
+    {
+      "event": "Palacerigg Country",
+      "date": "26/07/2025",
+      "position": "16",
+      "time": "25:05",
+      "ageGrade": "56.08%",
+      "isPB": false
+    },
+    {
+      "event": "Meadowmill",
+      "date": "19/07/2025",
+      "position": "49",
+      "time": "28:46",
+      "ageGrade": "48.90%",
+      "isPB": false
+    },
+    {
+      "event": "Isabel Trail",
+      "date": "12/07/2025",
+      "position": "78",
+      "time": "24:59",
+      "ageGrade": "56.30%",
+      "isPB": false
+    },
+    {
+      "event": "Whitekirk Hill",
+      "date": "05/07/2025",
+      "position": "15",
+      "time": "27:08",
+      "ageGrade": "51.84%",
+      "isPB": false
+    },
+    {
+      "event": "Oriam",
+      "date": "28/06/2025",
+      "position": "57",
+      "time": "25:26",
+      "ageGrade": "55.31%",
+      "isPB": false
+    },
+    {
+      "event": "Levengrove",
+      "date": "21/06/2025",
+      "position": "20",
+      "time": "25:24",
+      "ageGrade": "55.38%",
+      "isPB": false
+    },
+    {
+      "event": "Crichton",
+      "date": "14/06/2025",
+      "position": "39",
+      "time": "25:21",
+      "ageGrade": "55.49%",
+      "isPB": true
+    },
+    {
+      "event": "Kirkcaldy",
+      "date": "24/05/2025",
+      "position": "57",
+      "time": "25:00",
+      "ageGrade": "56.27%",
+      "isPB": false
+    },
+    {
+      "event": "Jesmond Dene",
+      "date": "17/05/2025",
+      "position": "118",
+      "time": "26:47",
+      "ageGrade": "52.52%",
+      "isPB": false
+    },
+    {
+      "event": "Auldcathie District",
+      "date": "10/05/2025",
+      "position": "35",
+      "time": "24:20",
+      "ageGrade": "57.81%",
+      "isPB": false
+    },
+    {
+      "event": "Newbiggin-by-the-Sea",
+      "date": "26/04/2025",
+      "position": "39",
+      "time": "24:58",
+      "ageGrade": "56.34%",
+      "isPB": false
+    },
+    {
+      "event": "Hay Lodge",
+      "date": "19/04/2025",
+      "position": "34",
+      "time": "24:38",
+      "ageGrade": "57.10%",
+      "isPB": false
+    },
+    {
+      "event": "Carlingwark Loch",
+      "date": "12/04/2025",
+      "position": "19",
+      "time": "24:32",
+      "ageGrade": "57.34%",
+      "isPB": false
+    },
+    {
+      "event": "Bower Park",
+      "date": "29/03/2025",
+      "position": "1",
+      "time": "24:32",
+      "ageGrade": "57.34%",
+      "isPB": false
+    },
+    {
+      "event": "Springburn",
+      "date": "22/03/2025",
+      "position": "47",
+      "time": "24:02",
+      "ageGrade": "58.53%",
+      "isPB": false
+    },
+    {
+      "event": "Elder Park",
+      "date": "15/03/2025",
+      "position": "43",
+      "time": "24:03",
+      "ageGrade": "58.49%",
+      "isPB": false
+    },
+    {
+      "event": "Victoria",
+      "date": "08/03/2025",
+      "position": "153",
+      "time": "24:10",
+      "ageGrade": "58.21%",
+      "isPB": false
+    },
+    {
+      "event": "University of Stirling",
+      "date": "01/03/2025",
+      "position": "65",
+      "time": "25:29",
+      "ageGrade": "55.20%",
+      "isPB": false
+    },
+    {
+      "event": "Faskally Forest",
+      "date": "15/02/2025",
+      "position": "27",
+      "time": "27:34",
+      "ageGrade": "51.03%",
+      "isPB": false
+    },
+    {
+      "event": "Queen’s, Glasgow",
+      "date": "01/02/2025",
+      "position": "120",
+      "time": "28:25",
+      "ageGrade": "49.50%",
+      "isPB": false
+    },
+    {
+      "event": "Tollcross",
+      "date": "18/01/2025",
+      "position": "36",
+      "time": "26:49",
+      "ageGrade": "52.45%",
+      "isPB": false
+    }
+  ],
+  "statistics": {
+    "totalRuns": 40,
+    "firstRun": "18/01/2025",
+    "latestRun": "25/12/2025",
+    "bestTime": "22:30",
+    "uniqueEvents": 35
+  }
+}
